@@ -1,0 +1,2638 @@
+ID   FM180568; SV 1; circular; genomic DNA; STD; PRO; 4965553 BP.
+XX
+AC   FM180568;
+XX
+PR   Project:PRJEA32571;
+XX
+DT   26-NOV-2008 (Rel. 97, Created)
+DT   06-FEB-2015 (Rel. 123, Last updated, Version 5)
+XX
+DE   Escherichia coli 0127:H6 E2348/69 complete genome, strain E2348/69
+XX
+KW   complete genome.
+XX
+OS   Escherichia coli O127:H6 str. E2348/69
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+XX
+RN   [1]
+RP   1-4965553
+RA   Thomson N.R.;
+RT   ;
+RL   Submitted (16-JUL-2008) to the INSDC.
+RL   Thomson N.R., Pathogen Sequencing Unit, The Wellcome Trust Sanger
+RL   Institute, Genome Campus, Hinxton, Cambridge, CB10 1SA, UNITED KINGDOM.
+XX
+RN   [2]
+RX   DOI; 10.1128/JB.01238-08.
+RX   PUBMED; 18952797.
+RA   Iguchi A., Thomson N.R., Ogura Y., Saunders D., Ooka T., Henderson I.R.,
+RA   Harris D., Asadulghani M., Kurokawa K., Dean P., Kenny B., Quail M.A.,
+RA   Thurston S., Dougan G., Hayashi T., Parkhill J., Frankel G.;
+RT   "Complete genome sequence and comparative genome analysis of
+RT   enteropathogenic Escherichia coli O127:H6 strain E2348/69";
+RL   J. Bacteriol. 191(1):347-354(2009).
+XX
+DR   MD5; fdfa09a67d34bbcee2d569f0a0b463da.
+DR   BioSample; SAMEA1705959.
+DR   EnsemblGenomes-Gn; E2348C_0138.
+DR   EnsemblGenomes-Gn; E2348C_0140.
+DR   EnsemblGenomes-Gn; E2348C_0141.
+DR   EnsemblGenomes-Gn; E2348C_0143.
+DR   EnsemblGenomes-Gn; E2348C_0154.
+DR   EnsemblGenomes-Gn; E2348C_0224.
+DR   EnsemblGenomes-Gn; E2348C_0237.
+DR   EnsemblGenomes-Gn; E2348C_0239.
+DR   EnsemblGenomes-Gn; E2348C_0241.
+DR   EnsemblGenomes-Gn; E2348C_0242.
+DR   EnsemblGenomes-Gn; E2348C_0252.
+DR   EnsemblGenomes-Gn; E2348C_0272.
+DR   EnsemblGenomes-Gn; E2348C_0287.
+DR   EnsemblGenomes-Gn; E2348C_0310.
+DR   EnsemblGenomes-Gn; E2348C_0314.
+DR   EnsemblGenomes-Gn; E2348C_0394.
+DR   EnsemblGenomes-Gn; E2348C_0423.
+DR   EnsemblGenomes-Gn; E2348C_0463.
+DR   EnsemblGenomes-Gn; E2348C_0464.
+DR   EnsemblGenomes-Gn; E2348C_0489.
+DR   EnsemblGenomes-Gn; E2348C_0529.
+DR   EnsemblGenomes-Gn; E2348C_0599.
+DR   EnsemblGenomes-Gn; E2348C_0610.
+DR   EnsemblGenomes-Gn; E2348C_0719.
+DR   EnsemblGenomes-Gn; E2348C_0720.
+DR   EnsemblGenomes-Gn; E2348C_0750.
+DR   EnsemblGenomes-Gn; E2348C_0828.
+DR   EnsemblGenomes-Gn; E2348C_0890.
+DR   EnsemblGenomes-Gn; E2348C_0893.
+DR   EnsemblGenomes-Gn; E2348C_1031.
+DR   EnsemblGenomes-Gn; E2348C_1036.
+DR   EnsemblGenomes-Gn; E2348C_1043.
+DR   EnsemblGenomes-Gn; E2348C_1076.
+DR   EnsemblGenomes-Gn; E2348C_1077.
+DR   EnsemblGenomes-Gn; E2348C_1081.
+DR   EnsemblGenomes-Gn; E2348C_1082.
+DR   EnsemblGenomes-Gn; E2348C_1083.
+DR   EnsemblGenomes-Gn; E2348C_1087.
+DR   EnsemblGenomes-Gn; E2348C_1104.
+DR   EnsemblGenomes-Gn; E2348C_1107.
+DR   EnsemblGenomes-Gn; E2348C_1108.
+DR   EnsemblGenomes-Gn; E2348C_1109.
+DR   EnsemblGenomes-Gn; E2348C_1220.
+DR   EnsemblGenomes-Gn; E2348C_1233.
+DR   EnsemblGenomes-Gn; E2348C_1237.
+DR   EnsemblGenomes-Gn; E2348C_1258.
+DR   EnsemblGenomes-Gn; E2348C_1264.
+DR   EnsemblGenomes-Gn; E2348C_1265.
+DR   EnsemblGenomes-Gn; E2348C_1285.
+DR   EnsemblGenomes-Gn; E2348C_1287.
+DR   EnsemblGenomes-Gn; E2348C_1292.
+DR   EnsemblGenomes-Gn; E2348C_1301.
+DR   EnsemblGenomes-Gn; E2348C_1366.
+DR   EnsemblGenomes-Gn; E2348C_1443.
+DR   EnsemblGenomes-Gn; E2348C_1446.
+DR   EnsemblGenomes-Gn; E2348C_1447.
+DR   EnsemblGenomes-Gn; E2348C_1508.
+DR   EnsemblGenomes-Gn; E2348C_1531.
+DR   EnsemblGenomes-Gn; E2348C_1533.
+DR   EnsemblGenomes-Gn; E2348C_1546.
+DR   EnsemblGenomes-Gn; E2348C_1547.
+DR   EnsemblGenomes-Gn; E2348C_1557.
+DR   EnsemblGenomes-Gn; E2348C_1559.
+DR   EnsemblGenomes-Gn; E2348C_1561.
+DR   EnsemblGenomes-Gn; E2348C_1563.
+DR   EnsemblGenomes-Gn; E2348C_1565.
+DR   EnsemblGenomes-Gn; E2348C_1590.
+DR   EnsemblGenomes-Gn; E2348C_1596.
+DR   EnsemblGenomes-Gn; E2348C_1597.
+DR   EnsemblGenomes-Gn; E2348C_1657.
+DR   EnsemblGenomes-Gn; E2348C_1700.
+DR   EnsemblGenomes-Gn; E2348C_1849.
+DR   EnsemblGenomes-Gn; E2348C_1926.
+DR   EnsemblGenomes-Gn; E2348C_2019.
+DR   EnsemblGenomes-Gn; E2348C_2046.
+DR   EnsemblGenomes-Gn; E2348C_2069.
+DR   EnsemblGenomes-Gn; E2348C_2086.
+DR   EnsemblGenomes-Gn; E2348C_2092.
+DR   EnsemblGenomes-Gn; E2348C_2107.
+DR   EnsemblGenomes-Gn; E2348C_2115.
+DR   EnsemblGenomes-Gn; E2348C_2209.
+DR   EnsemblGenomes-Gn; E2348C_2232.
+DR   EnsemblGenomes-Gn; E2348C_2233.
+DR   EnsemblGenomes-Gn; E2348C_2234.
+DR   EnsemblGenomes-Gn; E2348C_2256.
+DR   EnsemblGenomes-Gn; E2348C_2263.
+DR   EnsemblGenomes-Gn; E2348C_2336.
+DR   EnsemblGenomes-Gn; E2348C_2374.
+DR   EnsemblGenomes-Gn; E2348C_2558.
+DR   EnsemblGenomes-Gn; E2348C_2559.
+DR   EnsemblGenomes-Gn; E2348C_2580.
+DR   EnsemblGenomes-Gn; E2348C_2590.
+DR   EnsemblGenomes-Gn; E2348C_2628.
+DR   EnsemblGenomes-Gn; E2348C_2684.
+DR   EnsemblGenomes-Gn; E2348C_2855.
+DR   EnsemblGenomes-Gn; E2348C_2865.
+DR   EnsemblGenomes-Gn; E2348C_2870.
+DR   EnsemblGenomes-Gn; E2348C_2881.
+DR   EnsemblGenomes-Gn; E2348C_2882.
+DR   EnsemblGenomes-Gn; E2348C_2885.
+DR   EnsemblGenomes-Gn; E2348C_2909.
+DR   EnsemblGenomes-Gn; E2348C_2910.
+DR   EnsemblGenomes-Gn; E2348C_2911.
+DR   EnsemblGenomes-Gn; E2348C_2912.
+DR   EnsemblGenomes-Gn; E2348C_2936.
+DR   EnsemblGenomes-Gn; E2348C_2970.
+DR   EnsemblGenomes-Gn; E2348C_2971.
+DR   EnsemblGenomes-Gn; E2348C_2973.
+DR   EnsemblGenomes-Gn; E2348C_2975.
+DR   EnsemblGenomes-Gn; E2348C_2976.
+DR   EnsemblGenomes-Gn; E2348C_3011.
+DR   EnsemblGenomes-Gn; E2348C_3084.
+DR   EnsemblGenomes-Gn; E2348C_3130.
+DR   EnsemblGenomes-Gn; E2348C_3134.
+DR   EnsemblGenomes-Gn; E2348C_3167.
+DR   EnsemblGenomes-Gn; E2348C_3179.
+DR   EnsemblGenomes-Gn; E2348C_3221.
+DR   EnsemblGenomes-Gn; E2348C_3224.
+DR   EnsemblGenomes-Gn; E2348C_3225.
+DR   EnsemblGenomes-Gn; E2348C_3228.
+DR   EnsemblGenomes-Gn; E2348C_3233.
+DR   EnsemblGenomes-Gn; E2348C_3235.
+DR   EnsemblGenomes-Gn; E2348C_3287.
+DR   EnsemblGenomes-Gn; E2348C_3362.
+DR   EnsemblGenomes-Gn; E2348C_3636.
+DR   EnsemblGenomes-Gn; E2348C_3673.
+DR   EnsemblGenomes-Gn; E2348C_3800.
+DR   EnsemblGenomes-Gn; E2348C_3803.
+DR   EnsemblGenomes-Gn; E2348C_3850.
+DR   EnsemblGenomes-Gn; E2348C_3851.
+DR   EnsemblGenomes-Gn; E2348C_3980.
+DR   EnsemblGenomes-Gn; E2348C_4002.
+DR   EnsemblGenomes-Gn; E2348C_4028.
+DR   EnsemblGenomes-Gn; E2348C_4139.
+DR   EnsemblGenomes-Gn; E2348C_4255.
+DR   EnsemblGenomes-Gn; E2348C_4257.
+DR   EnsemblGenomes-Gn; E2348C_4326.
+DR   EnsemblGenomes-Gn; E2348C_4328.
+DR   EnsemblGenomes-Gn; E2348C_4364.
+DR   EnsemblGenomes-Gn; E2348C_4460.
+DR   EnsemblGenomes-Gn; E2348C_4528.
+DR   EnsemblGenomes-Gn; E2348C_4538.
+DR   EnsemblGenomes-Gn; E2348C_4577.
+DR   EnsemblGenomes-Gn; E2348C_4615.
+DR   EnsemblGenomes-Gn; E2348C_4632.
+DR   EnsemblGenomes-Gn; E2348C_4645.
+DR   EnsemblGenomes-Gn; E2348C_4654.
+DR   EnsemblGenomes-Gn; E2348C_4695.
+DR   EnsemblGenomes-Gn; E2348C_4700.
+DR   EnsemblGenomes-Gn; E2348C_rRNA_1.
+DR   EnsemblGenomes-Gn; E2348C_rRNA_10.
+DR   EnsemblGenomes-Gn; E2348C_rRNA_11.
+DR   EnsemblGenomes-Gn; E2348C_rRNA_12.
+DR   EnsemblGenomes-Gn; E2348C_rRNA_13.
+DR   EnsemblGenomes-Gn; E2348C_rRNA_14.
+DR   EnsemblGenomes-Gn; E2348C_rRNA_15.
+DR   EnsemblGenomes-Gn; E2348C_rRNA_16.
+DR   EnsemblGenomes-Gn; E2348C_rRNA_17.
+DR   EnsemblGenomes-Gn; E2348C_rRNA_18.
+DR   EnsemblGenomes-Gn; E2348C_rRNA_19.
+DR   EnsemblGenomes-Gn; E2348C_rRNA_2.
+DR   EnsemblGenomes-Gn; E2348C_rRNA_20.
+DR   EnsemblGenomes-Gn; E2348C_rRNA_21.
+DR   EnsemblGenomes-Gn; E2348C_rRNA_22.
+DR   EnsemblGenomes-Gn; E2348C_rRNA_3.
+DR   EnsemblGenomes-Gn; E2348C_rRNA_4.
+DR   EnsemblGenomes-Gn; E2348C_rRNA_5.
+DR   EnsemblGenomes-Gn; E2348C_rRNA_6.
+DR   EnsemblGenomes-Gn; E2348C_rRNA_7.
+DR   EnsemblGenomes-Gn; E2348C_rRNA_8.
+DR   EnsemblGenomes-Gn; E2348C_rRNA_9.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_01.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_02.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_03.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_04.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_05.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_06.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_07.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_08.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_09.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_10.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_11.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_12.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_13.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_14.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_15.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_16.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_17.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_18.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_19.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_20.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_21.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_22.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_23.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_24.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_25.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_26.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_27.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_28.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_29.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_30.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_31.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_32.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_33.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_34.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_35.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_36.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_37.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_38.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_39.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_40.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_41.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_42.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_43.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_44.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_45.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_46.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_47.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_48.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_49.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_50.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_51.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_52.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_53.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_54.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_55.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_56.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_57.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_58.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_59.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_60.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_61.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_62.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_63.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_64.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_65.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_66.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_67.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_68.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_69.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_70.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_71.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_72.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_73.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_74.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_75.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_76.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_77.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_78.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_79.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_80.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_81.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_82.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_83.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_84.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_85.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_86.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_87.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_88.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_89.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_90.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_91.
+DR   EnsemblGenomes-Gn; E2348C_tRNA_92.
+DR   EnsemblGenomes-Tr; E2348C_0138.
+DR   EnsemblGenomes-Tr; E2348C_0140.
+DR   EnsemblGenomes-Tr; E2348C_0141.
+DR   EnsemblGenomes-Tr; E2348C_0143.
+DR   EnsemblGenomes-Tr; E2348C_0154.
+DR   EnsemblGenomes-Tr; E2348C_0224.
+DR   EnsemblGenomes-Tr; E2348C_0237.
+DR   EnsemblGenomes-Tr; E2348C_0239.
+DR   EnsemblGenomes-Tr; E2348C_0241.
+DR   EnsemblGenomes-Tr; E2348C_0242.
+DR   EnsemblGenomes-Tr; E2348C_0252.
+DR   EnsemblGenomes-Tr; E2348C_0272.
+DR   EnsemblGenomes-Tr; E2348C_0287.
+DR   EnsemblGenomes-Tr; E2348C_0310.
+DR   EnsemblGenomes-Tr; E2348C_0314.
+DR   EnsemblGenomes-Tr; E2348C_0394.
+DR   EnsemblGenomes-Tr; E2348C_0423.
+DR   EnsemblGenomes-Tr; E2348C_0463.
+DR   EnsemblGenomes-Tr; E2348C_0464.
+DR   EnsemblGenomes-Tr; E2348C_0489.
+DR   EnsemblGenomes-Tr; E2348C_0529.
+DR   EnsemblGenomes-Tr; E2348C_0599.
+DR   EnsemblGenomes-Tr; E2348C_0610.
+DR   EnsemblGenomes-Tr; E2348C_0719.
+DR   EnsemblGenomes-Tr; E2348C_0720.
+DR   EnsemblGenomes-Tr; E2348C_0750.
+DR   EnsemblGenomes-Tr; E2348C_0828.
+DR   EnsemblGenomes-Tr; E2348C_0890.
+DR   EnsemblGenomes-Tr; E2348C_0893.
+DR   EnsemblGenomes-Tr; E2348C_1031.
+DR   EnsemblGenomes-Tr; E2348C_1036.
+DR   EnsemblGenomes-Tr; E2348C_1043.
+DR   EnsemblGenomes-Tr; E2348C_1076.
+DR   EnsemblGenomes-Tr; E2348C_1077.
+DR   EnsemblGenomes-Tr; E2348C_1081.
+DR   EnsemblGenomes-Tr; E2348C_1082.
+DR   EnsemblGenomes-Tr; E2348C_1083.
+DR   EnsemblGenomes-Tr; E2348C_1087.
+DR   EnsemblGenomes-Tr; E2348C_1104.
+DR   EnsemblGenomes-Tr; E2348C_1107.
+DR   EnsemblGenomes-Tr; E2348C_1108.
+DR   EnsemblGenomes-Tr; E2348C_1109.
+DR   EnsemblGenomes-Tr; E2348C_1220.
+DR   EnsemblGenomes-Tr; E2348C_1233.
+DR   EnsemblGenomes-Tr; E2348C_1237.
+DR   EnsemblGenomes-Tr; E2348C_1258.
+DR   EnsemblGenomes-Tr; E2348C_1264.
+DR   EnsemblGenomes-Tr; E2348C_1265.
+DR   EnsemblGenomes-Tr; E2348C_1285.
+DR   EnsemblGenomes-Tr; E2348C_1287.
+DR   EnsemblGenomes-Tr; E2348C_1292.
+DR   EnsemblGenomes-Tr; E2348C_1301.
+DR   EnsemblGenomes-Tr; E2348C_1366.
+DR   EnsemblGenomes-Tr; E2348C_1443.
+DR   EnsemblGenomes-Tr; E2348C_1446.
+DR   EnsemblGenomes-Tr; E2348C_1447.
+DR   EnsemblGenomes-Tr; E2348C_1508.
+DR   EnsemblGenomes-Tr; E2348C_1531.
+DR   EnsemblGenomes-Tr; E2348C_1533.
+DR   EnsemblGenomes-Tr; E2348C_1546.
+DR   EnsemblGenomes-Tr; E2348C_1547.
+DR   EnsemblGenomes-Tr; E2348C_1557.
+DR   EnsemblGenomes-Tr; E2348C_1559.
+DR   EnsemblGenomes-Tr; E2348C_1561.
+DR   EnsemblGenomes-Tr; E2348C_1563.
+DR   EnsemblGenomes-Tr; E2348C_1565.
+DR   EnsemblGenomes-Tr; E2348C_1590.
+DR   EnsemblGenomes-Tr; E2348C_1596.
+DR   EnsemblGenomes-Tr; E2348C_1597.
+DR   EnsemblGenomes-Tr; E2348C_1657.
+DR   EnsemblGenomes-Tr; E2348C_1700.
+DR   EnsemblGenomes-Tr; E2348C_1849.
+DR   EnsemblGenomes-Tr; E2348C_1926.
+DR   EnsemblGenomes-Tr; E2348C_2019.
+DR   EnsemblGenomes-Tr; E2348C_2046.
+DR   EnsemblGenomes-Tr; E2348C_2069.
+DR   EnsemblGenomes-Tr; E2348C_2086.
+DR   EnsemblGenomes-Tr; E2348C_2092.
+DR   EnsemblGenomes-Tr; E2348C_2107.
+DR   EnsemblGenomes-Tr; E2348C_2115.
+DR   EnsemblGenomes-Tr; E2348C_2209.
+DR   EnsemblGenomes-Tr; E2348C_2232.
+DR   EnsemblGenomes-Tr; E2348C_2233.
+DR   EnsemblGenomes-Tr; E2348C_2234.
+DR   EnsemblGenomes-Tr; E2348C_2256.
+DR   EnsemblGenomes-Tr; E2348C_2263.
+DR   EnsemblGenomes-Tr; E2348C_2336.
+DR   EnsemblGenomes-Tr; E2348C_2374.
+DR   EnsemblGenomes-Tr; E2348C_2558.
+DR   EnsemblGenomes-Tr; E2348C_2559.
+DR   EnsemblGenomes-Tr; E2348C_2580.
+DR   EnsemblGenomes-Tr; E2348C_2590.
+DR   EnsemblGenomes-Tr; E2348C_2628.
+DR   EnsemblGenomes-Tr; E2348C_2684.
+DR   EnsemblGenomes-Tr; E2348C_2855.
+DR   EnsemblGenomes-Tr; E2348C_2865.
+DR   EnsemblGenomes-Tr; E2348C_2870.
+DR   EnsemblGenomes-Tr; E2348C_2881.
+DR   EnsemblGenomes-Tr; E2348C_2882.
+DR   EnsemblGenomes-Tr; E2348C_2885.
+DR   EnsemblGenomes-Tr; E2348C_2909.
+DR   EnsemblGenomes-Tr; E2348C_2910.
+DR   EnsemblGenomes-Tr; E2348C_2911.
+DR   EnsemblGenomes-Tr; E2348C_2912.
+DR   EnsemblGenomes-Tr; E2348C_2936.
+DR   EnsemblGenomes-Tr; E2348C_2970.
+DR   EnsemblGenomes-Tr; E2348C_2971.
+DR   EnsemblGenomes-Tr; E2348C_2973.
+DR   EnsemblGenomes-Tr; E2348C_2975.
+DR   EnsemblGenomes-Tr; E2348C_2976.
+DR   EnsemblGenomes-Tr; E2348C_3011.
+DR   EnsemblGenomes-Tr; E2348C_3084.
+DR   EnsemblGenomes-Tr; E2348C_3130.
+DR   EnsemblGenomes-Tr; E2348C_3134.
+DR   EnsemblGenomes-Tr; E2348C_3167.
+DR   EnsemblGenomes-Tr; E2348C_3179.
+DR   EnsemblGenomes-Tr; E2348C_3221.
+DR   EnsemblGenomes-Tr; E2348C_3224.
+DR   EnsemblGenomes-Tr; E2348C_3225.
+DR   EnsemblGenomes-Tr; E2348C_3228.
+DR   EnsemblGenomes-Tr; E2348C_3233.
+DR   EnsemblGenomes-Tr; E2348C_3235.
+DR   EnsemblGenomes-Tr; E2348C_3287.
+DR   EnsemblGenomes-Tr; E2348C_3362.
+DR   EnsemblGenomes-Tr; E2348C_3636.
+DR   EnsemblGenomes-Tr; E2348C_3673.
+DR   EnsemblGenomes-Tr; E2348C_3800.
+DR   EnsemblGenomes-Tr; E2348C_3803.
+DR   EnsemblGenomes-Tr; E2348C_3850.
+DR   EnsemblGenomes-Tr; E2348C_3851.
+DR   EnsemblGenomes-Tr; E2348C_3980.
+DR   EnsemblGenomes-Tr; E2348C_4002.
+DR   EnsemblGenomes-Tr; E2348C_4028.
+DR   EnsemblGenomes-Tr; E2348C_4139.
+DR   EnsemblGenomes-Tr; E2348C_4255.
+DR   EnsemblGenomes-Tr; E2348C_4257.
+DR   EnsemblGenomes-Tr; E2348C_4326.
+DR   EnsemblGenomes-Tr; E2348C_4328.
+DR   EnsemblGenomes-Tr; E2348C_4364.
+DR   EnsemblGenomes-Tr; E2348C_4460.
+DR   EnsemblGenomes-Tr; E2348C_4528.
+DR   EnsemblGenomes-Tr; E2348C_4538.
+DR   EnsemblGenomes-Tr; E2348C_4577.
+DR   EnsemblGenomes-Tr; E2348C_4615.
+DR   EnsemblGenomes-Tr; E2348C_4632.
+DR   EnsemblGenomes-Tr; E2348C_4645.
+DR   EnsemblGenomes-Tr; E2348C_4654.
+DR   EnsemblGenomes-Tr; E2348C_4695.
+DR   EnsemblGenomes-Tr; E2348C_4700.
+DR   EnsemblGenomes-Tr; E2348C_rRNA_1.
+DR   EnsemblGenomes-Tr; E2348C_rRNA_10.
+DR   EnsemblGenomes-Tr; E2348C_rRNA_11.
+DR   EnsemblGenomes-Tr; E2348C_rRNA_12.
+DR   EnsemblGenomes-Tr; E2348C_rRNA_13.
+DR   EnsemblGenomes-Tr; E2348C_rRNA_14.
+DR   EnsemblGenomes-Tr; E2348C_rRNA_15.
+DR   EnsemblGenomes-Tr; E2348C_rRNA_16.
+DR   EnsemblGenomes-Tr; E2348C_rRNA_17.
+DR   EnsemblGenomes-Tr; E2348C_rRNA_18.
+DR   EnsemblGenomes-Tr; E2348C_rRNA_19.
+DR   EnsemblGenomes-Tr; E2348C_rRNA_2.
+DR   EnsemblGenomes-Tr; E2348C_rRNA_20.
+DR   EnsemblGenomes-Tr; E2348C_rRNA_21.
+DR   EnsemblGenomes-Tr; E2348C_rRNA_22.
+DR   EnsemblGenomes-Tr; E2348C_rRNA_3.
+DR   EnsemblGenomes-Tr; E2348C_rRNA_4.
+DR   EnsemblGenomes-Tr; E2348C_rRNA_5.
+DR   EnsemblGenomes-Tr; E2348C_rRNA_6.
+DR   EnsemblGenomes-Tr; E2348C_rRNA_7.
+DR   EnsemblGenomes-Tr; E2348C_rRNA_8.
+DR   EnsemblGenomes-Tr; E2348C_rRNA_9.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_01.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_02.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_03.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_04.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_05.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_06.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_07.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_08.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_09.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_10.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_11.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_12.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_13.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_14.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_15.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_16.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_17.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_18.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_19.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_20.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_21.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_22.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_23.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_24.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_25.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_26.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_27.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_28.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_29.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_30.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_31.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_32.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_33.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_34.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_35.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_36.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_37.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_38.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_39.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_40.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_41.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_42.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_43.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_44.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_45.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_46.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_47.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_48.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_49.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_50.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_51.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_52.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_53.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_54.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_55.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_56.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_57.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_58.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_59.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_60.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_61.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_62.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_63.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_64.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_65.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_66.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_67.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_68.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_69.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_70.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_71.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_72.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_73.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_74.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_75.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_76.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_77.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_78.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_79.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_80.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_81.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_82.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_83.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_84.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_85.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_86.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_87.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_88.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_89.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_90.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_91.
+DR   EnsemblGenomes-Tr; E2348C_tRNA_92.
+DR   EuropePMC; PMC2612414; 18952797.
+DR   EuropePMC; PMC2808357; 20098708.
+DR   EuropePMC; PMC2884548; 20433696.
+DR   EuropePMC; PMC3017858; 20964857.
+DR   EuropePMC; PMC3118166; 21672185.
+DR   EuropePMC; PMC3158064; 21876740.
+DR   EuropePMC; PMC3163573; 21824423.
+DR   EuropePMC; PMC3194846; 21856834.
+DR   EuropePMC; PMC3346384; 22447607.
+DR   EuropePMC; PMC3434768; 22661456.
+DR   EuropePMC; PMC3584874; 23275093.
+DR   EuropePMC; PMC3890536; 24053667.
+DR   EuropePMC; PMC3900561; 24466152.
+DR   EuropePMC; PMC3910997; 24141131.
+DR   EuropePMC; PMC3968158; 24675776.
+DR   EuropePMC; PMC4209514.
+DR   RFAM; RF00001; 5S_rRNA.
+DR   RFAM; RF00005; tRNA.
+DR   RFAM; RF00010; RNaseP_bact_a.
+DR   RFAM; RF00013; 6S.
+DR   RFAM; RF00014; DsrA.
+DR   RFAM; RF00018; CsrB.
+DR   RFAM; RF00021; Spot_42.
+DR   RFAM; RF00022; GcvB.
+DR   RFAM; RF00023; tmRNA.
+DR   RFAM; RF00033; MicF.
+DR   RFAM; RF00034; RprA.
+DR   RFAM; RF00035; OxyS.
+DR   RFAM; RF00039; DicF.
+DR   RFAM; RF00040; rne5.
+DR   RFAM; RF00050; FMN.
+DR   RFAM; RF00057; RyhB.
+DR   RFAM; RF00059; TPP.
+DR   RFAM; RF00077; SraB.
+DR   RFAM; RF00078; MicA.
+DR   RFAM; RF00079; OmrA-B.
+DR   RFAM; RF00080; yybP-ykoY.
+DR   RFAM; RF00081; ArcZ.
+DR   RFAM; RF00082; SraG.
+DR   RFAM; RF00083; GlmZ_SraJ.
+DR   RFAM; RF00084; CsrC.
+DR   RFAM; RF00101; SraC_RyeA.
+DR   RFAM; RF00110; RybB.
+DR   RFAM; RF00111; RyeB.
+DR   RFAM; RF00112; CyaR_RyeE.
+DR   RFAM; RF00113; QUAD.
+DR   RFAM; RF00114; S15.
+DR   RFAM; RF00115; IS061.
+DR   RFAM; RF00116; C0465.
+DR   RFAM; RF00117; C0719.
+DR   RFAM; RF00118; rydB.
+DR   RFAM; RF00119; C0299.
+DR   RFAM; RF00121; MicC.
+DR   RFAM; RF00122; GadY.
+DR   RFAM; RF00126; ryfA.
+DR   RFAM; RF00127; t44.
+DR   RFAM; RF00128; GlmY_tke1.
+DR   RFAM; RF00140; Alpha_RBS.
+DR   RFAM; RF00168; Lysine.
+DR   RFAM; RF00169; Bacteria_small_SRP.
+DR   RFAM; RF00170; msr.
+DR   RFAM; RF00174; Cobalamin.
+DR   RFAM; RF00177; SSU_rRNA_bacteria.
+DR   RFAM; RF00368; sroB.
+DR   RFAM; RF00369; sroC.
+DR   RFAM; RF00370; sroD.
+DR   RFAM; RF00371; sroE.
+DR   RFAM; RF00382; DnaX.
+DR   RFAM; RF00391; RtT.
+DR   RFAM; RF00505; RydC.
+DR   RFAM; RF00506; Thr_leader.
+DR   RFAM; RF00512; Leu_leader.
+DR   RFAM; RF00513; Trp_leader.
+DR   RFAM; RF00514; His_leader.
+DR   RFAM; RF00534; SgrS.
+DR   RFAM; RF00552; rncO.
+DR   RFAM; RF00630; P26.
+DR   RFAM; RF01055; MOCO_RNA_motif.
+DR   RFAM; RF01056; Mg_sensor.
+DR   RFAM; RF01068; mini-ykkC.
+DR   RFAM; RF01118; PK-G12rRNA.
+DR   RFAM; RF01317; CRISPR-DR4.
+DR   RFAM; RF01385; isrA.
+DR   RFAM; RF01387; isrC.
+DR   RFAM; RF01401; rseX.
+DR   RFAM; RF01405; STnc490k.
+DR   RFAM; RF01407; STnc560.
+DR   RFAM; RF01408; sraL.
+DR   RFAM; RF01497; ALIL.
+DR   RFAM; RF01517; iscRS.
+DR   RFAM; RF01707; JUMPstart.
+DR   RFAM; RF01748; nuoG.
+DR   RFAM; RF01766; cspA.
+DR   RFAM; RF01769; greA.
+DR   RFAM; RF01770; rimP.
+DR   RFAM; RF01771; rnk_leader.
+DR   RFAM; RF01794; sok.
+DR   RFAM; RF01796; frnS.
+DR   RFAM; RF01809; symR.
+DR   RFAM; RF01813; rdlD.
+DR   RFAM; RF01830; StyR-44.
+DR   RFAM; RF01832; ROSE_2.
+DR   RFAM; RF01852; tRNA-Sec.
+DR   RFAM; RF01859; Phe_leader.
+DR   RFAM; RF01959; SSU_rRNA_archaea.
+DR   RFAM; RF01988; SECIS_2.
+DR   RFAM; RF01989; SECIS_3.
+DR   RFAM; RF02029; sraA.
+DR   RFAM; RF02030; tp2.
+DR   RFAM; RF02031; tpke11.
+DR   RFAM; RF02051; STnc450.
+DR   RFAM; RF02052; STnc630.
+DR   RFAM; RF02053; STnc430.
+DR   RFAM; RF02057; STnc40.
+DR   RFAM; RF02060; STnc410.
+DR   RFAM; RF02064; STnc370.
+DR   RFAM; RF02068; STnc480.
+DR   RFAM; RF02074; STnc240.
+DR   RFAM; RF02075; STnc230.
+DR   RFAM; RF02076; STnc100.
+DR   RFAM; RF02079; STnc180.
+DR   RFAM; RF02081; STnc550.
+DR   RFAM; RF02082; STnc540.
+DR   RFAM; RF02083; OrzO-P.
+DR   RFAM; RF02084; STnc130.
+DR   RFAM; RF02111; IS009.
+DR   RFAM; RF02194; HPnc0260.
+DR   SILVA-LSU; FM180568.
+DR   SILVA-SSU; FM180568.
+DR   StrainInfo; 844885; 0.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   CDS             complement(join(1268129..1269247))
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1217"
+FT                   /product="predicted integrase"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1217"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08765"
+FT                   /db_xref="GOA:B7UPY9"
+FT                   /db_xref="InterPro:IPR002104"
+FT                   /db_xref="InterPro:IPR011010"
+FT                   /db_xref="InterPro:IPR013087"
+FT                   /db_xref="InterPro:IPR013762"
+FT                   /db_xref="InterPro:IPR015094"
+FT                   /db_xref="InterPro:IPR023109"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UPY9"
+FT                   /protein_id="CAS08765.1"
+FT                   /translation="MSPRPRKNSTDVAGLYEKFDRRTGRVYYQYKNPVTGKFHGLGTDK
+FT                   GKAEKIASTANQRIAAAEAEYFMRKIDESPSATKRQGIRLKAWVDRYLKIQDTRLKNGD
+FT                   IAATTHKEKTRMAAYLVSRLGNHPLKELEVRDFALILDEWLDKDMVSTARVNRGLWVDI
+FT                   YKEAQHAGEVPPGWNPPEATRKPIPKVTRARLTMEDWQKIYNATPEKHFIRNAMLLAIV
+FT                   TGQRRDDICHMRFSDVWNEHLHITQGKTGMRLALPLTLRCDAIGITLKEVIDGCRDRIL
+FT                   SPYLIHSRHQKQPKPMSKDNLSDYFAKARDLAGIIPPAGKTPPTFHEQRSLSERLYRAQ
+FT                   GIDTKTLLGHKVQATTDRYNDTRGQEWVKLVI"
+FT   CDS             complement(join(1269216..1269485))
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1218"
+FT                   /product="predicted excisionase"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1218"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08766"
+FT                   /db_xref="GOA:B7UPZ0"
+FT                   /db_xref="InterPro:IPR009061"
+FT                   /db_xref="InterPro:IPR012884"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UPZ0"
+FT                   /protein_id="CAS08766.1"
+FT                   /translation="MSEQYLITLDEWKPKRFSLPITNTTLVKYGKLGYIVPRPQKIRGR
+FT                   WLIDRRAVFVGPGETGIAPEIHTGDDDALKEILTHVTEATKKQH"
+FT   CDS             complement(join(1269547..1272018))
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1219"
+FT                   /product="predicted exonuclease"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1219"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08767"
+FT                   /db_xref="GOA:B7UPZ1"
+FT                   /db_xref="InterPro:IPR012337"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UPZ1"
+FT                   /protein_id="CAS08767.1"
+FT                   /translation="MSKVFICAAIPDELATREEGAVAVATAIEAGDERRARAKFHWQFL
+FT                   EHYPAAQDCAYKFIVCEDKPGIPRPALDSWDAEYMQENRWDEDSASFVPVETESDPMNV
+FT                   TFDKLAPEVQNAVMVKFDTCENITVDMVISAQELLQEDMATFDGHIVEALMKMPEVNAM
+FT                   YPELKLHAIGWVKHKCKPGAKWPEIQAEMRIWKKRREGERKETGKYTSVVDLARARANQ
+FT                   QNTENSTGKISPVIAATHREYKQTWKTLDDELAYALWPGDVDAGNIDGSIHRWAKNEVI
+FT                   DNYREDWKRISASMRKQPDALRYDRQTIFGLVRERPIDIHKDPVALNKYITEYLTTKGV
+FT                   FEDEGTNQSATDTLSSPVPETDAVETAIPDNEKTECKVEVEPSVEREGPFYFLFTDKDS
+FT                   EKYGRANKLSGLDKALAAGATEITKEEYFARKNGTYSGSQQNTGASDTTAQPGPVKVTA
+FT                   DEVNKIMQAANISQPDADELLAVSRGEFVAGISDPNDPKWVKGIETRDSVNQNQQETEQ
+FT                   NDQKAEQNSPNTQQNEPETKLPEPVVQQEVEKVCTACGQTGGGNCPDCGAVMGDATYQE
+FT                   TFDEEYQVEVQEDDPEEMEGAEHPHKENTGGNQHHNSDNETGETADHSIKVNGHHEITS
+FT                   TSRTCDHLMIDLETMGKNPDAPIISIGAIFFDPQTGDMGPEFSKTIDLETAGGVIDRDT
+FT                   IKWWLKQSREAQSAIMTDEIPLDDALLQLREFIDENSGEFFVQVWGNGANFDNTILRRS
+FT                   YERQGIPCPWRYYNDRDVRTIVELGKAIDFDARTAIPFEGERHNALDDARHQAKYVSAI
+FT                   WQKLIPNQADF"
+FT   CDS             complement(join(1272111..1272302))
+FT                   /pseudo
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1220"
+FT                   /note="E2348_PP5; pseudogene, conserved predicted protein,
+FT                   truncated by premature stop codon"
+FT   CDS             complement(join(1272299..1272487))
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1221"
+FT                   /product="predicted cell division inhibition protein DicB"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1221"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08769"
+FT                   /db_xref="GOA:B7UPZ2"
+FT                   /db_xref="InterPro:IPR008022"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UPZ2"
+FT                   /protein_id="CAS08769.1"
+FT                   /translation="MKTLLPNVNTSEGCFEIGVTISNPVFTEDAINKRKQERELLNKIC
+FT                   IVSMLARLRLMPKGCAQ"
+FT   misc_RNA        complement(join(1272662..1272713))
+FT                   /gene="dicF_1"
+FT                   /locus_tag="E2348C_ncR_12"
+FT                   /product="antisense sRNA, inhibits ftsZ translation"
+FT                   /note="identified in Rfam screening as DicF"
+FT   CDS             join(1272888..1273052)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1222"
+FT                   /product="predicted protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1222"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08770"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UPZ3"
+FT                   /protein_id="CAS08770.1"
+FT                   /translation="MNQLPRRALSRYGLTFQGNILSVNCQCRMLTRVRRTHSTSSVENS
+FT                   LITNLSFVG"
+FT   CDS             complement(join(1273056..1273274))
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1223"
+FT                   /product="predicted protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1223"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08771"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UPZ4"
+FT                   /protein_id="CAS08771.1"
+FT                   /translation="MQKREPVIIAPDYTDDELYEWMRQKINAAQDLKWANEARAKQAEN
+FT                   LSALEQDITNLEKAATLSIARMITYPR"
+FT   CDS             complement(join(1273304..1273432))
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1224"
+FT                   /product="predicted protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1224"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08772"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UPZ5"
+FT                   /protein_id="CAS08772.1"
+FT                   /translation="MDFDTIMEKAYEEYFEGLAEGEEALSFSEFKQALSSSAKSNG"
+FT   CDS             complement(join(1273434..1273682))
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1225"
+FT                   /product="predicted protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1225"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08773"
+FT                   /db_xref="InterPro:IPR009821"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UPZ6"
+FT                   /protein_id="CAS08773.1"
+FT                   /translation="MRKLNYDPSRHRTVFSANSSATPALRGNEVNMDTIDLGNSESLVC
+FT                   GVFPNQDGTFTAMTYTKSKTFKTESGARRWLERNSGG"
+FT   CDS             complement(join(1273781..1274188))
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1226"
+FT                   /product="predicted phage repressor protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1226"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08774"
+FT                   /db_xref="GOA:B7UPZ7"
+FT                   /db_xref="InterPro:IPR001387"
+FT                   /db_xref="InterPro:IPR010982"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UPZ7"
+FT                   /protein_id="CAS08774.1"
+FT                   /translation="MNEKTLGQRIRERRKQVGLSQNDLSKAAGVSGSSISLWESDHTAP
+FT                   RGQNLHRLAEVLQCSPTWILFGDEDKTPDPPVALNSALDLSEDELEMLRLYRALPKSEQ
+FT                   QAQISELRARVENFNRLFTELLEARKRNKHQ"
+FT   CDS             join(1274266..1274493)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1227"
+FT                   /product="predicted antirepressor protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1227"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08775"
+FT                   /db_xref="GOA:B7UPZ8"
+FT                   /db_xref="InterPro:IPR010982"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UPZ8"
+FT                   /protein_id="CAS08775.1"
+FT                   /translation="MFKSDVINFYGTKAKVAKAAGVDPSAVSQWGELVPEGRAMRLQEA
+FT                   SGGELQYDPKVYDEYRKAKRAGRLNNENHP"
+FT   CDS             join(1274477..1275028)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1228"
+FT                   /product="predicted protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1228"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08776"
+FT                   /db_xref="InterPro:IPR009364"
+FT                   /db_xref="InterPro:IPR023345"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UPZ9"
+FT                   /protein_id="CAS08776.1"
+FT                   /translation="MKITPEQVCEALDAWVCRPGMTQEQATILITEAFWALKERPNIDV
+FT                   QRVTFNDGEVDQRALCVNRVKIFERWKAIDTRDKRKKFTALIPAIMEAIRISDFRLYRE
+FT                   ISDGKSITYMIAGLNKEYGDVVESGLLFADPSVVERETDELIEKAIAFKHAYRQQYQYY
+FT                   FADKQMSARGSYEYRCTTMG"
+FT   CDS             join(1275000..1276040)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1229"
+FT                   /product="predicted replication protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1229"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08777"
+FT                   /db_xref="InterPro:IPR011991"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UQ00"
+FT                   /protein_id="CAS08777.1"
+FT                   /translation="MSIDALRWAKKVKTGSSSSKSVLTWLADMCGADLCAYPSVSALAE
+FT                   VTELNKKTVQDSLRHLMEIGLIVDTGERKGRTKQIVVYRLIGVEESVAEPEYTQKRESL
+FT                   KVGKIGAVNKNSTENGYVSAQNRPKNGTLSCMENNQRHPNFPSKTPKNGSRNPKEPKEL
+FT                   NPTHNARESAPTSEQKVLSLQAAPPVFLDGLSEPIEKFPMTDSWYPSRDFRRRAALWGM
+FT                   ALPETEFTPAELAAFRDYWAAEGKVFTQIQWEQKFARHVNHVRAQVKPVSKGVNHAAAP
+FT                   GDTASRAVQEIRAAREQWERENGFISDGNGLEAVGTHGGGLFEPLDPEERGRTFEALDC
+FT                   TDWCDD"
+FT   CDS             join(1275829..1276494)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1230"
+FT                   /product="predicted replication protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1230"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08778"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UQ01"
+FT                   /protein_id="CAS08778.1"
+FT                   /translation="MQQHQVTPHHGQFRKFGQHVSSGNVKTDLSATETAWKLWELMGEV
+FT                   YSNRWTQKNGAAPSKLWIAQIGAMTEQKIRQVCRQCMDRCRAGETWPPDLAEFVALISE
+FT                   SGANPFGLTVDAVMEEYRRWRNESWRYDGSDKYPWSQPVLYHICLEMRSKGIERQMTEG
+FT                   ELKRLAERQLTKWAKHVSNGLSVPPVRRQLAAPKRPSGPTPIELLKQEYERRKAAGLV"
+FT   CDS             join(1276601..1276801)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1231"
+FT                   /product="predicted protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1231"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08779"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UQ02"
+FT                   /protein_id="CAS08779.1"
+FT                   /translation="MLNELWELKKAGFVDKSAYTWRVADNNVQQEQPAQAELPEETTTM
+FT                   SEVMQRILAFYQGNVRYFRRY"
+FT   CDS             join(1277241..1278083)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1232"
+FT                   /product="predicted protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1232"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08780"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UQ03"
+FT                   /protein_id="CAS08780.1"
+FT                   /translation="MRKKSFGRCPFDFDEDVKKIAAINKYIHAKFERHKNKIDNLKGVE
+FT                   QKLMVLHYFNVLNELSNQAIFSLSTGAFSASEVLTRVIMEQAANQFYIAIDDGKNAQAL
+FT                   LKGSKKLVHSNGKRWLECLKSKEMTNPAADERIRIGKELTDMFNRLWPNTPEYPGTKKL
+FT                   FEVIGWETHYHAYYVPLCDSIHTFSDDMANIVSLYNAIQSDKTTAIELTLAVKQENKRL
+FT                   AIYNVVIAIGLRCEALVNVFNSLGYRDIITEMAPTIDAVNQIIIRYDDFEHSRIFYCQ"
+FT   CDS             join(1278189..1278709)
+FT                   /pseudo
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1233"
+FT                   /note="E2348_PP5; pseudogene, predicted recombinase,
+FT                   fragmented by premature stop codon and frameshift mutation"
+FT   CDS             join(1279122..1280495)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1234"
+FT                   /product="predicted ATP-binding protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1234"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08782"
+FT                   /db_xref="GOA:B7UQ04"
+FT                   /db_xref="InterPro:IPR003959"
+FT                   /db_xref="InterPro:IPR027417"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UQ04"
+FT                   /protein_id="CAS08782.1"
+FT                   /translation="MKRLYYTHHDSRTLKLAIEGDVSDNANIFTVIVGKNGVGKSRLLS
+FT                   QIAKDCIQDIHFLKTFNPLFDREITPKLIAVSTSPFDKFPPGRRSLNHQRKENNYRYVG
+FT                   MRGEGPFGVSNAVSLLSSAARGWLEKLAYSENPANLLDVFHSIDFEPHIEFVFKPTYNG
+FT                   PDTPDYNFIGVYSDEILTEVKELYLKYNIKIDRKNIESLLKLNSESRHDIYEALVEINR
+FT                   FEPERRAVTLSVDFTNGETLVGSTYANNYFSRSILKLMNAGFMRLMDMRLIKKSYGPMS
+FT                   LKRASSGEQCLLVMLLGIAGHITDGSIILIDEPEISLHPRWQEEFIIMLTKAFLTYSGC
+FT                   QFIIATHSPQIISNLPNKGCYITSLSKSYLYKAKYFSNRSADYQLAELFDAPGIMNEYI
+FT                   ARLAFNLLSKVKTAKLVTDDNWRELKQLQLLLENVNSNDPINELVNSVSQVCEIYAKN"
+FT   CDS             join(1280482..1281117)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1235"
+FT                   /product="predicted HNH endonuclease"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1235"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08783"
+FT                   /db_xref="GOA:B7UQ05"
+FT                   /db_xref="InterPro:IPR002711"
+FT                   /db_xref="InterPro:IPR003615"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UQ05"
+FT                   /protein_id="CAS08783.1"
+FT                   /translation="MPKIKNPIRFSAESLDIIEKKLSSPDFKHTNWGDDDLQVLRAEIR
+FT                   NHYREEQKLECVYCHEPIGVRAAQAAPIEHIVPKSQYLCFIFEPKNLCVVCPDCNEFKG
+FT                   KNEVLFEPVINGGRRKNYPTASASFRIVHPHIDDYEMHIIKANRVYVDKTPKGHYTIGI
+FT                   CKLNRFFHYFGMCDEFVNDAKIAEANENFFKKGSITTNELLDDDIHLI"
+FT   CDS             complement(join(1281372..1282460))
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1236"
+FT                   /product="predicted transposase"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1236"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08784"
+FT                   /db_xref="GOA:B7UQ06"
+FT                   /db_xref="InterPro:IPR001584"
+FT                   /db_xref="InterPro:IPR009057"
+FT                   /db_xref="InterPro:IPR012337"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UQ06"
+FT                   /protein_id="CAS08784.1"
+FT                   /translation="MQMQHLMVGYPKYYQTADYALRLSVMADIATMRMKALHFWDKHGI
+FT                   SAASEAFGVSCRTLYWWRQLLNKEGPEGLIPHSKAPLVRRKKHWHPDVLKEIRRLRTEL
+FT                   PNLGKEQIFVRLKPWCEQRYLACPSVSTIGRMIAAAHDKMRMIPVRLGSRGKALLVKKR
+FT                   SAKPRRPKHYRPVKTGELIGMDAIELRMGELRRYVITMIDECSNYALALAVPSLNSDIV
+FT                   NHFFSRAARLFPVGISQIITDNGKEFLGNFDKTLQEAAIKHLWTYPYTPKMNAICERFN
+FT                   RTLREQFIEFNEILLFEDLALFNQKLAEYLVLYNSKRPHKALALMTPVEYILKENKNCN
+FT                   MWWTHTSPCLPARKRLTYMCLA"
+FT   CDS             join(1282493..1282687)
+FT                   /pseudo
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1237"
+FT                   /note="E2348_PP5; pseudogene, host cell killing protein,
+FT                   paerial"
+FT                   /db_xref="PSEUDO:CAS08785.1"
+FT   CDS             join(1282907..1283155)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1238"
+FT                   /product="predicted protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1238"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08786"
+FT                   /db_xref="InterPro:IPR016418"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UQ08"
+FT                   /protein_id="CAS08786.1"
+FT                   /translation="MNIEELRKIFCEDGLYAVCVENGNLVSHYRIMCLRKNGAALINFV
+FT                   DGRVTDGFILREGEFVTSLQALKEIGIKAGFSAFAEE"
+FT   CDS             join(1283222..1283500)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1239"
+FT                   /product="predicted protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1239"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08787"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UQ09"
+FT                   /protein_id="CAS08787.1"
+FT                   /translation="MARNVKYYNSDNSPVLACTHERYSHAFKSEWFQHPPCTEEQAEWT
+FT                   IQCYRRRGYEVKKALSLDYRHWIIYVRLPYSERSPRPSRTYQQRIWR"
+FT   CDS             join(1283502..1284560)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1240"
+FT                   /product="predicted protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1240"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08788"
+FT                   /db_xref="InterPro:IPR003615"
+FT                   /db_xref="InterPro:IPR010373"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UQ10"
+FT                   /protein_id="CAS08788.1"
+FT                   /translation="MRILLRPVLVPELGLVVLRPGRESMQVFHNPRVLVEPEPKSMRGL
+FT                   PSGVVPAVRQPLAEDKSLLPFFSDERVIRAAGGAGALSDWLLRHVKSCQWPHGDYHHSE
+FT                   IVIHRYGTGAMVLCWHCDNQLRDQTSESLGQLAHQNLSAWMIDVIRHAVNGTQERELSL
+FT                   AELCCWASVNDVVDAMTENMARRILKLPGEKIRSVYRESDIVPGEQTAISILKQRTKNI
+FT                   APLPHAHQQQNPPQEKTVVSIAVDPESPAQYLQRQKPQREEMPVYTRWVKTQKCMTCGN
+FT                   QADDPHHIIGHGLGGMGTKADDLFVIPLCRKCHSELHAGVKDFEEKHGSQLLLLIRFLM
+FT                   HARNSGVLKWKA"
+FT   CDS             join(1284561..1284926)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1241"
+FT                   /product="predicted crossover junction
+FT                   endodeoxyribonuclease"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1241"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08789"
+FT                   /db_xref="GOA:B7UQ11"
+FT                   /db_xref="InterPro:IPR008822"
+FT                   /db_xref="InterPro:IPR016281"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UQ11"
+FT                   /protein_id="CAS08789.1"
+FT                   /translation="MTERIEFVLPYPPTVNTYWRRRGSTYFVSKAGERYRRDVALIVRQ
+FT                   QRLKLNLSGRLAIKIIAEPPDKRRRDLDNILKAPLDALTHAGLLIDDEQFDEINIVRGQ
+FT                   RVPGGRLGVKIYKIESE"
+FT   CDS             join(1284935..1285477)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1242"
+FT                   /product="predicted protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1242"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08790"
+FT                   /db_xref="InterPro:IPR010557"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UQ12"
+FT                   /protein_id="CAS08790.1"
+FT                   /translation="MIYPEITGKSGEHLRLKTLEAVWIQGKLRMWGRWSYIGGGKPGNM
+FT                   FNQLLASKKLTKTAVNEALRRIRESGIDKPELEAFLREMIAGRQKSWLSHCTDAEALRI
+FT                   DGVISKALARYPGLIDILRQRYEGRGMSKRKMAELLNEVHPEWCYATCRNRIDMWLRIA
+FT                   EFILYPLMRDAFSFTDA"
+FT   CDS             join(1285755..1285988)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1243"
+FT                   /product="predicted protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1243"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08791"
+FT                   /db_xref="InterPro:IPR011991"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UQ13"
+FT                   /protein_id="CAS08791.1"
+FT                   /translation="MVCHVNRKREKGMLKQLDMTETARVVFNELSVTEPATVGEIAQNT
+FT                   YLSRERCQLILTQLVMAGLADYQFGCYRRLPQ"
+FT   CDS             join(1286139..1287188)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1244"
+FT                   /product="predicted DNA methylase"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1244"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08792"
+FT                   /db_xref="GOA:B7UQ14"
+FT                   /db_xref="InterPro:IPR001091"
+FT                   /db_xref="InterPro:IPR002052"
+FT                   /db_xref="InterPro:IPR002941"
+FT                   /db_xref="InterPro:IPR029063"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UQ14"
+FT                   /protein_id="CAS08792.1"
+FT                   /translation="MINTVKISSCELINADCLEFIQTLPENSVDLIVTDPPYFKVKPEG
+FT                   WDNQWEGDDDYLKWLDQCLAQFWRVLKPAGSLYLFCGHRLASDTEIMMRERFNVLNHII
+FT                   WAKPSGRWNGCNKESLRAYFPATERILFAEHYQGPYRPKDDGYVAQGRELKQHVMAPLI
+FT                   SYFRDARKSLGITSKQIAEATGKKNMASHWFGTSQWQLPNEGNYNKLQALFARVAAEKH
+FT                   QRGELEKPHHQLVSTYSELNRQYTELLSEYKNLRRYFGVTAQVPYTDVWTHKPVQYYPG
+FT                   KHPCEKPAEMLQQIINASSRPGDLVADFFMGSGSTVKAAMALGRCAIGVELETGRFEQT
+FT                   VREVQDLIV"
+FT   tRNA            join(1287238..1287313)
+FT                   /gene="tRNA_24"
+FT                   /locus_tag="E2348C_tRNA_24"
+FT                   /product="tRNA-Ile"
+FT                   /note="Anti Codon: CAT"
+FT   tRNA            join(1287321..1287397)
+FT                   /gene="tRNA_25"
+FT                   /locus_tag="E2348C_tRNA_25"
+FT                   /note="E2348_PP5; pseudo, tRNA"
+FT   tRNA            join(1287411..1287487)
+FT                   /gene="tRNA_26"
+FT                   /locus_tag="E2348C_tRNA_26"
+FT                   /product="tRNA-Arg"
+FT                   /note="Anti Codon: TCT"
+FT   CDS             complement(join(1288384..1288719))
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1245"
+FT                   /product="predicted protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1245"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08793"
+FT                   /db_xref="GOA:B7UQ15"
+FT                   /db_xref="InterPro:IPR014448"
+FT                   /protein_id="CAS08793.1"
+FT                   /translation="MKWIVIDTVIQPSCGISFSVIWSKIKLIIWYQSDAFLPPESIFTL
+FT                   THTGIMLNNKVLPVTIYNVVPFNKTFWNLIKNSQECPTNTDNVLNECFNNRCTLQICPY
+FT                   GLKQQSP"
+FT   CDS             join(1288980..1290830)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1246"
+FT                   /product="predicted protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1246"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08794"
+FT                   /db_xref="InterPro:IPR005181"
+FT                   /db_xref="InterPro:IPR013619"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UQ16"
+FT                   /protein_id="CAS08794.1"
+FT                   /translation="MAFKHYDVVRAASPSDLAEKLTHKLKEGWQPFGSPVAITPYTLMQ
+FT                   AIAAEGDVVVSGATEPEWYYVIVLAGQSNAMAYGEGLPLPDSYDAPHPRIKQLARRNTV
+FT                   TPGGEVCVFNDIIPADHCLHDVQDMSTINHPRADLSKGQYGCVGQGLHIAKKLLPYIPN
+FT                   NAGILLVPCCRGGSAFTQGTEGTFSESTGASQDSARWGVGKPLYQDLLFRTKAALQKNP
+FT                   KNVLLAICWMQGEFDMTNASYAQQPAAFLAMVQQFRADFAGLAAQCHGGSPASVPWICG
+FT                   DTTYAWKQEHGTQYEVVYGAYKGKESQQIYFVPFMTDGSGVNTPTNNPSEDPDIAGSGY
+FT                   YGSASRTNKNWVSSNRPTHFSSWARRGIIPDRMATAILNVAGRTLAFISGKAPEIKPSP
+FT                   GGDTPSGPSEDASVRTISLLPTAGDAAAQGWSIKNGGIQLSDGVFKITKQSNKTWSLMH
+FT                   PVDDAITLLTQGGRLTCKFRLSGALTNNQFGLGIYLYTDAPVPDDVAMTGTGNPFLMSY
+FT                   FTQTTDGRVNLMHHRKAGNTKLGEFGDYGNDWQTLELVFTAGSATVTPKLNGVAGPAFQ
+FT                   VIKDSLTLGLNALTLTDVTKNAAYGVEIESLVLEINAPAA"
+FT   repeat_region   join(1291100..1292649)
+FT                   /locus_tag="E2348C_IS_30"
+FT                   /rpt_family="E2348_PP5; ISEc13"
+FT   CDS             join(1291265..1292638)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1247"
+FT                   /product="transposase of ISEc13"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1247"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08795"
+FT                   /db_xref="GOA:B7UFC5"
+FT                   /db_xref="InterPro:IPR003201"
+FT                   /db_xref="InterPro:IPR012337"
+FT                   /db_xref="InterPro:IPR014735"
+FT                   /db_xref="InterPro:IPR014736"
+FT                   /db_xref="InterPro:IPR014737"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UFC5"
+FT                   /protein_id="CAS08795.1"
+FT                   /translation="MVLSDCYSWANEQFGHARLGDPRRTRRLVSLASSLAQHAGLSIVK
+FT                   SSQSTAQVEGAYRLIRNPSVSPQAIAEAGFTATVRACEAHPLLLALEDTTTINFSHSTA
+FT                   SDDLGNTTTNPKTRGLLAHSVLMYAPDSALPVGLIEQQRWSRATDTYGVKHQRKERPYE
+FT                   EKESYRWQQASERMAERLGEIQKRVITVCDREADIWHYLHYKVSHGQRFVVRAAQNRRL
+FT                   EEAPGKLFELPEVLATAGSHTLNVMQKGGRAARQARMFISYSEVSIKNPDNSGQALPLT
+FT                   YVCCREQAEDGACWHLLTSEKVASAADARRIVSHYERRWLIEEYHKAWKSGGTCVESLR
+FT                   MQTRDNLERMVVIKAFIAVRVLGLRQGGISEETQNDSCEKILTPTEWKLLWVKLEGKPL
+FT                   PSQMPTLKWACLKLAKLGRWHDSKRTGRPGWVVMWDGWFRLQDMVEGYLVMKSLDQEI"
+FT   repeat_region   join(1292677..1293277)
+FT                   /locus_tag="E2348C_IS_31"
+FT                   /rpt_family="E2348_PP5; IS200C"
+FT   CDS             join(1292776..1293234)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1248"
+FT                   /product="transposase of IS200C"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1248"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08796"
+FT                   /db_xref="GOA:B7UHA9"
+FT                   /db_xref="InterPro:IPR002686"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UHA9"
+FT                   /protein_id="CAS08796.1"
+FT                   /translation="MGNEKSLAHTRWNCKYHIVFAPKYRRQVFYREKRRAIGCILRKLC
+FT                   EWKSVRILEAECCADHIHMLVEIPPKMSVSGFMGYLKGKSSLMLYEQFGDLKFKYRNRE
+FT                   FWCRGYYVDTVGKNTAKIQDYIKHQLEEDKMGEQLSIPYPGSPFTGRK"
+FT   CDS             join(1293394..1293600)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1249"
+FT                   /product="predicted holin protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1249"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08797"
+FT                   /db_xref="InterPro:IPR007054"
+FT                   /db_xref="UniProtKB/TrEMBL:B7ULT5"
+FT                   /protein_id="CAS08797.1"
+FT                   /translation="MEKITTGVSYTTSAVGTGYWLLQLLDKVSPSQWVAIGVLGSLLFG
+FT                   LLTYLTNLYFKIKEDKRKAARGE"
+FT   CDS             join(1293600..1294097)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1250"
+FT                   /product="predicted endolysin"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1250"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08798"
+FT                   /db_xref="GOA:B7UQ20"
+FT                   /db_xref="InterPro:IPR002196"
+FT                   /db_xref="InterPro:IPR023346"
+FT                   /db_xref="InterPro:IPR023347"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UQ20"
+FT                   /protein_id="CAS08798.1"
+FT                   /translation="MPPSLRKAVAAAIGGGAVAIASVLITGPSGDDGLEGVSYIPYEDI
+FT                   VGVWTVCHGHTGKDIMPGKTYTEAECKALLNKDLATVARQINPYINVDIPETTRGALYS
+FT                   FVYNVGAGNFRTSTLLRKINQGDIKGACDQLRRWTYAGGKQWKGLMTRREIEREVCLWG
+FT                   QQ"
+FT   CDS             join(1294094..1294531)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1251"
+FT                   /product="predicted endopeptidase"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1251"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08799"
+FT                   /db_xref="InterPro:IPR004929"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UQ21"
+FT                   /protein_id="CAS08799.1"
+FT                   /translation="MSRVTAIIYVLVICLIVCLSWAVNHYRDNAIAYKEQRDKATSIIA
+FT                   DMQKRQRDVAELDARYTKELADANATIESLRADVSAGRKRLQVAATCAKSTTGASGMGN
+FT                   GETPGLTADAELNYYRLRSGIDRITAQVNYLQEYIRTQCLR"
+FT   CDS             join(1294293..1294478)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1252"
+FT                   /product="predicted lipoprotein Rz1 precursor"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1252"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08800"
+FT                   /db_xref="GOA:B7UQ22"
+FT                   /db_xref="InterPro:IPR010346"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UQ22"
+FT                   /protein_id="CAS08800.1"
+FT                   /translation="MLMRLSKVSVLMFLLGVSACKSPPPVQSQRPEPAAWAMEKPQDLQ
+FT                   QMLNSIITVSEVESTG"
+FT   CDS             join(1295554..1295880)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1253"
+FT                   /product="TonB-like protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1253"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08801"
+FT                   /db_xref="GOA:B7UQ23"
+FT                   /db_xref="InterPro:IPR003538"
+FT                   /db_xref="InterPro:IPR006260"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UQ23"
+FT                   /protein_id="CAS08801.1"
+FT                   /translation="MKRNLPLIILLSSLVMGCTQHKTDMPRQLVKALPQYPAYAAANYI
+FT                   KGRVDVKFDIGADGTVTRIEFIRSEPHHLFDEQVVKAMAKWRFEKDKPRKGVKKTFIFS
+FT                   PSAP"
+FT   CDS             join(1296572..1297120)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1254"
+FT                   /product="predicted terminase small subunit"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1254"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08802"
+FT                   /db_xref="InterPro:IPR009061"
+FT                   /db_xref="InterPro:IPR010906"
+FT                   /db_xref="InterPro:IPR011991"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UQ24"
+FT                   /protein_id="CAS08802.1"
+FT                   /translation="MNVNKKKLADIFGVDVRTITAWQSQGLPLVSGGGKGTESVFDTTA
+FT                   AIQWYAQREADIENEKLRKEIEDLRAASESDLQPGTIDYERYRLTKAQADAQELKNARE
+FT                   EGLVLETELFTYIFQRVAQNISGILVRVPQTLQRKYPDISPAHLDAVKTEIAKASDVAS
+FT                   EAGENVRRWIDDFRRTEGG"
+FT   CDS             join(1297092..1299020)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1255"
+FT                   /product="predicted terminase large subunit"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1255"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08803"
+FT                   /db_xref="InterPro:IPR008866"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UQ25"
+FT                   /protein_id="CAS08803.1"
+FT                   /translation="MISDELRAANSAGAIATGLLALKIPVPLTTVQWADRHYYLPKESS
+FT                   YTPGRWETLPFQVAIMNSMGNDRIRTVNLIKSARVGYTKMLLGVEAYFIEHKSRNSLLF
+FT                   QPTDSAAEDFMKSHVEPTIRDVPVLLDLAPWFGRKHRDNTLTLKRFSSGVGFWCLGGAA
+FT                   AKNYREKSVDVVCYDELSSFEPDVEKEGSPTLLGDKRIEGAVWPKSIRGSTPKIKGTCQ
+FT                   IEKAANESAHFMRFYVPCPHCGEAQYLKFGDESTPFGLKWEKDSPESVFYLCEHHGCVI
+FT                   HQSELDQNNGRWICENTGMWTRDGLTFFSARGDEIPPPRSITFHIWTAYSPFTTWVQIV
+FT                   YDWLDALKDPNGLKTFVNTTLGETWEEAVGEKLDHQVLMDKVVRYTAAVPARVVYLTAG
+FT                   IDSQRNRFEMYVWGWAPGEEAFLVDKIIIMGRPDEEETLLRVDAAINKKYRHADGTEMT
+FT                   ISRVCWDTGGIDGEIVYQRSKKHGVFRVLPVKGASVYGKPVITMPKTRNQRGVYLCEVG
+FT                   TDTAKEILYARMKADPSPADEATSYAIRFPDDPEIFSQTEAQQLVAEELVEKWEKGKMR
+FT                   LLWDNKKRRNEALDCLVYAYAALRVSVQRWQLDLAVLAKSREEETTRPTLKELAAKLSG
+FT                   GVNGYSR"
+FT   CDS             join(1299004..1299210)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1256"
+FT                   /product="predicted head-tail joining protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1256"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08804"
+FT                   /db_xref="GOA:B7ULU3"
+FT                   /db_xref="InterPro:IPR004174"
+FT                   /db_xref="UniProtKB/TrEMBL:B7ULU3"
+FT                   /protein_id="CAS08804.1"
+FT                   /translation="MVTVAELQALRQARLDLLTGKRVVSVQKDGRRIEYTAASLDELNR
+FT                   AINDAESVLGTTRRRRRPLGVRL"
+FT   CDS             join(1299207..1300799)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1257"
+FT                   /product="predicted portal protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1257"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08805"
+FT                   /db_xref="GOA:B7UQ27"
+FT                   /db_xref="InterPro:IPR006429"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UQ27"
+FT                   /protein_id="CAS08805.1"
+FT                   /translation="MKRTPVLIDVNGVPLRESLSYNGGGAGFGGQMAEWLPPAQSADAA
+FT                   LLPALRLGNARADDLVRNNGIAANAVALHKDHIVGHMFLISYRPNWRWLGMRETAAKSF
+FT                   VDEVEAAWSEYAEGMSGEIDVEGKRTFTEFIREGVGVHAFNGEIFVQPVWDTETTQLFR
+FT                   TRFKAVSPKRVDTPGHGMGNRFLRAGVEVDRYGRAVAYHICEDDFPFSGSGRWERIPRE
+FT                   LPTGRPAMLHIFEPVEDGQIRGANQFYSVMERLKMLDSLQATQLQSAIVKAMYAATIES
+FT                   DLDTEKAFEYIAGAPQGQKDNPLINILEKFSSWYDTNNVTLGGVKIPHLFPGDDLKLQT
+FT                   AQDSDNGFSALEQALLRYIAAGLGVSYEQLSRDYSKVSYSSARASANESWRYFMGRRKF
+FT                   IAARLATQMFSCWLEEALLRGIIRPPRARFDFYQARSAWSRAEWIGAGRMAIDGLKEVQ
+FT                   ESVMRIEAGLSTYEKELALMGEDYQDIFRQQVRESAERQKAGLSRPVWIAQAYQQQIAE
+FT                   SRRPEEETTPRET"
+FT   CDS             join(1300789..1301109)
+FT                   /pseudo
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1258"
+FT                   /note="E2348_PP5; pseudogene, N-ter part of predicted
+FT                   capsid assembly protein"
+FT                   /db_xref="PSEUDO:CAS08806.1"
+FT   CDS             join(1301135..1301782)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1259"
+FT                   /product="predicted tail assembly protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1259"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08807"
+FT                   /db_xref="InterPro:IPR010654"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UQ29"
+FT                   /protein_id="CAS08807.1"
+FT                   /translation="MAATHTLPLASPGMARICLYGDLQRFGRRIDLRVKTGAEAIRALS
+FT                   TQVPAFRQKLNDGWYQVRIAGRDAGETELSARLNEPLANGAVIHIVPRLAGAKSGGVFQ
+FT                   AVLGAALIAVAWWNPAGWLGAAALSGMYAAGASMILGGVAQMLAPKARTPTATSTDNGK
+FT                   QNTYFSSLDNMVAQGNVLPVLYGEMRVGSRVVSQEISTADEGDGGQVVVIGR"
+FT   CDS             join(1301843..1305256)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1260"
+FT                   /product="predicted host specificity protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1260"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08808"
+FT                   /db_xref="InterPro:IPR003961"
+FT                   /db_xref="InterPro:IPR015406"
+FT                   /db_xref="InterPro:IPR021034"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UQ30"
+FT                   /protein_id="CAS08808.1"
+FT                   /translation="MGKGSSKGHTPREAKDNLKSTQLLSVIDAISEGPIEGPVDGLKSV
+FT                   LLNSTPVLDSEGNTNISGVTVVFRAGEQEQTPPEGFESSGSETVLGTEVKYDTPITRTI
+FT                   TSANIDRLRFTFGVQALVETTSKGDRNPSEVRLLVQIQRNGGWVTEKDITIKGKTTSQY
+FT                   LASVVVDNLPPRPFNIRMRRMTPDSTTDQLQNKTLWSSYTEIIDVKQCYPNTALVGVQV
+FT                   DSEQFGSQQVSRNYHLRGRILQVPSNYNPQTRQYSGIWDGTFKPAYSNNMAWCLWDMLT
+FT                   HPRYGMGKRLGAADVDKWALYVIGQHCDQSVPDGFGGTEPRITCNAYLTTQRKAWDVLS
+FT                   DFCSAMRCMPVWNGQTLTFVQDRPSDKVWTYNRSNVVMPDDGAPFRYSFSALKDRHNAV
+FT                   EVNWTDPDNGWETATELVEDTQAILRYGRNVTKMDAFGCTSRGQAHRAGLWLIKTELLE
+FT                   TQTVDFSVGAEGLRHVPGDVIEICDDDYAGISTGGRVLAVNSQTRTLTLDREITLPSSG
+FT                   TTLISLVDGSGNPVSVEVQSVTDGVKVKVSRVPDGVAEYSVWGLKLPTLRQRLFRCVSI
+FT                   RENDDGTYAITAVQHVPEKEAIVDNGAHFDGEQSGTVNGVTPPAVQHLTAEVTADSGEY
+FT                   QVLARWDTPKVVKGVSFLLRLTVTADDGSERLVSTARTTETTYRFTQLALGNYRLTVRA
+FT                   VNAWGQQGDPASVSFRIAAPAAPVTIELIPGYFQITAVPKLAVYDPTVQFEFWFSEKRI
+FT                   IDIRQVETSARYLGTALYWIAASSNIKPGYDYYFYIRSVNTVGKSAFVEAVGRASDDAE
+FT                   GYLNFYKGLINKTHLGKELLENFELTEDNASKLEEFSKEWKDANDKWNAMWGVKLEQTK
+FT                   DGKHYVAGIGLSMEDTEEGKLSQFLVAANRIAFIDPANGNETPMFVAQGNQIFMNDVFL
+FT                   KRLTAPTITSGGNPPAFSLTPDGKLTAKNADISGSVNANAGTLNNVTVNENCTIKGMLE
+FT                   ATQVRGDFVKAVSKSFPKQAGTWGNTETPNGTVTVTISDDHNFDRQIIIPPIIFNGIAY
+FT                   SYPGSGNNPGGTSYTGYGFEVRKNGVLIASRETKGAIPGSYSAVIDMPSGGGSVTLEFK
+FT                   IFQKGNQGAGNITDCTVIVTKKAASGISIR"
+FT   CDS             join(1305326..1305925)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1261"
+FT                   /product="predicted outer membrane precursor Lom"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1261"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08809"
+FT                   /db_xref="GOA:B7ULW1"
+FT                   /db_xref="InterPro:IPR000758"
+FT                   /db_xref="InterPro:IPR011250"
+FT                   /db_xref="InterPro:IPR017690"
+FT                   /db_xref="UniProtKB/TrEMBL:B7ULW1"
+FT                   /protein_id="CAS08809.1"
+FT                   /translation="MRKVCAAILSAAICLSVSGAPAWASEHQSTLSAGYLHARTNAPGS
+FT                   DNLNGINVKYRYEFTDTLGLVTSFSYAGDKNRQLTRYSDTRWHEDSVRNRWFSVMAGPS
+FT                   VRVNEWFSAYAMAGVAYSRVSTFSGDYLRVTDNKGKTHDVLTGSDDGRHSDTSLAWGAG
+FT                   VQFNPTESVAIDIAYEGSGSGDWRTDGFIVGVGYKF"
+FT   CDS             join(1305990..1307303)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1262"
+FT                   /product="predicted side tail fiber protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1262"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08810"
+FT                   /db_xref="InterPro:IPR008160"
+FT                   /db_xref="InterPro:IPR008969"
+FT                   /db_xref="InterPro:IPR009640"
+FT                   /db_xref="InterPro:IPR013609"
+FT                   /db_xref="InterPro:IPR014766"
+FT                   /db_xref="UniProtKB/TrEMBL:B7ULW2"
+FT                   /protein_id="CAS08810.1"
+FT                   /translation="MAVKISGVLKDGTGKPVQNCTIQLKAKRNSTTVVVNTVASENPDE
+FT                   AGRYSMDVEYGQYSVTLLVEGFPPSHAGTITVYEDSQPGTLNDFLGAMSEDDVRPEALR
+FT                   RFEQMVEEAARHAGEAKKNAGEAETSARNAGISASQAEESAANADTSAGEASESARQAA
+FT                   ESAAAAKKSEEASSSSASEAAQKASESLQSAADAELSKKTAESAAGNAARDATTAAEKA
+FT                   RESAESAQSAEQSRIAAEDAVNRIPTVVGPPGPKGEPGPAGPQGPKGDKGERGDTGPVG
+FT                   ATGERGPAGDAGPAGPQGPKGDRGERGETGLTGNAGPQGPKGDTGAAGPAGPQGPKGET
+FT                   GAAGPVGATGPQGPKGDPGETQIRFRLGPASIIETNSNGWFPGTDGALITGLTFLDPKD
+FT                   ATQVQGLFQHLQVRFGDGPWQDVKGLDEVGSDTGRTGE"
+FT   CDS             join(1307305..1307574)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1263"
+FT                   /product="predicted protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_1263"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS08811"
+FT                   /db_xref="InterPro:IPR009640"
+FT                   /db_xref="UniProtKB/TrEMBL:B7ULW3"
+FT                   /protein_id="CAS08811.1"
+FT                   /translation="MNVLKKLMQRLCGYGKHDDREHGELLTAQLRLGPADILESDENGI
+FT                   IPEQARVITQVVILDTDKKQIQCVVRPLQILRADGTWENIGGMK"
+FT   repeat_region   join(1307648..1307952)
+FT                   /locus_tag="E2348C_IS_32"
+FT                   /rpt_family="E2348_PP5; IS2"
+FT                   /note="fragment"
+FT   CDS             complement(join(1307650..1307952))
+FT                   /pseudo
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1264"
+FT                   /note="E2348_PP5; pseudogene, C-ter part of transposase
+FT                   Orf2 of IS2"
+FT   CDS             join(1307951..1308507)
+FT                   /pseudo
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_1265"
+FT                   /note="E2348_PP5; pseudogene, predicted tail fiber assembly
+FT                   protein, N-ter part missing"
+FT   CDS             complement(join(3221359..3222120))
+FT                   /transl_table=11
+FT                   /gene="kduD"
+FT                   /locus_tag="E2348C_3113"
+FT                   /product="2-deoxy-D-gluconate 3-dehydrogenase"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3113"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10661"
+FT                   /db_xref="GOA:B7UHR1"
+FT                   /db_xref="InterPro:IPR002198"
+FT                   /db_xref="InterPro:IPR002347"
+FT                   /db_xref="InterPro:IPR011286"
+FT                   /db_xref="InterPro:IPR016040"
+FT                   /db_xref="InterPro:IPR020904"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UHR1"
+FT                   /protein_id="CAS10661.1"
+FT                   /translation="MILSAFSLEGKVAVVTGCDTGLGQGMALGLAQAGCDIVGINIVEP
+FT                   TETIKQVTALGRRFLSLTADLRKIDGIPALLDRAVAEFGHIDILVNNAGLIRREDALEF
+FT                   SEKDWDDVMNLNIKSVFFMSQAAAKHFIAQGNGGKIINIASMLSFQGGIRVPSYTASKS
+FT                   GVMGVTRLMANEWAKHNINVNAIAPGYMATNNTQQLRADEQRSAEIFDRIPAGRWGLPS
+FT                   DLMGPVVFLASSASDYVNGYTIAVDGGWLAR"
+FT   CDS             complement(join(3222150..3222986))
+FT                   /transl_table=11
+FT                   /gene="kduI"
+FT                   /locus_tag="E2348C_3114"
+FT                   /product="predicted 5-keto 4-deoxyuronate isomerase"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3114"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10662"
+FT                   /db_xref="GOA:B7UHR2"
+FT                   /db_xref="InterPro:IPR007045"
+FT                   /db_xref="InterPro:IPR011051"
+FT                   /db_xref="InterPro:IPR021120"
+FT                   /db_xref="InterPro:IPR027447"
+FT                   /db_xref="InterPro:IPR027449"
+FT                   /protein_id="CAS10662.1"
+FT                   /translation="MDVRQSIHSAHAKTLDTQGLRNEFLVEKVFVADEYTMVYSHIDRI
+FT                   IVGGIMPVTKTVSVGGEVGKQLGVSYFLERRELGVINIGGAGTITVGGQCYEIGHRDAL
+FT                   YVGKGAKEVVFASIDTATPAKFYYNCAPAHTTYPTKKVTPDEVSPVTLGDNLTSNRRTI
+FT                   NKYFVPDVLETCQLSMGLTELAPGNLWNTMPCHTHERRMEVYFYFNMDDDACVFHMMGQ
+FT                   PQETRHIVMHNEQAVISPSWSIHSGVGTKAYTFIWGMVGENQVFDDMDHVAVKDLR"
+FT   CDS             complement(join(3223273..3224454))
+FT                   /transl_table=11
+FT                   /gene="yqeF"
+FT                   /locus_tag="E2348C_3115"
+FT                   /product="predicted acyltransferase"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3115"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10663"
+FT                   /db_xref="GOA:B7UHR3"
+FT                   /db_xref="InterPro:IPR002155"
+FT                   /db_xref="InterPro:IPR016038"
+FT                   /db_xref="InterPro:IPR016039"
+FT                   /db_xref="InterPro:IPR020610"
+FT                   /db_xref="InterPro:IPR020613"
+FT                   /db_xref="InterPro:IPR020615"
+FT                   /db_xref="InterPro:IPR020616"
+FT                   /db_xref="InterPro:IPR020617"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UHR3"
+FT                   /protein_id="CAS10663.1"
+FT                   /translation="MKDVVIVGALRTPIGCFRGALAGHSAVELGSLVVKALIERTGVPA
+FT                   YAVDEVILGQVLTAGAGQNPARQSAIKGGLPNSVSAITINDVCGSGLKALHLATQAIQC
+FT                   GEADIVIAGGQENMSRAPHVLTDSRTGAQLGNSQLVDSLVHDGLWDAFNDYHIGVTAEN
+FT                   LAREYGISRQLQDAYALSSQQKARAAIDAGRFKDEIVPVITQSNGQTLVVDTDEQPRTD
+FT                   TSAEGLARLNPSFDSLGSVTAGNASSINDGAAAVMMMSEAKARALNLPVLARIRAFASV
+FT                   GVDPALMGIAPVYATRRCLERVGWQLADVDLIEANEAFAAQALSVGKMLEWDERRVNVN
+FT                   GGAIALGHPIGASGCRILVSLVHEMVKRNARKGLATLCIGGGQGVALTIERDE"
+FT   CDS             join(3224709..3225938)
+FT                   /transl_table=11
+FT                   /gene="yqeG"
+FT                   /locus_tag="E2348C_3116"
+FT                   /product="predicted transporter"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3116"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10664"
+FT                   /db_xref="GOA:B7UHR4"
+FT                   /db_xref="InterPro:IPR018227"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UHR4"
+FT                   /protein_id="CAS10664.1"
+FT                   /translation="MSNIWSKEETLWSFALYGTAVGAGTLFLPIQLGSAGAVVLFITAL
+FT                   VAWPLTYWPHKALCQFILSSKTSAGEGITGAVTHYYGKKIGNLITTLYFIAFFVVVLIY
+FT                   AVAITNSLTEQLAKHMVIDLRIRMLVSLGVVLILNLIFLMGRHATIRVMGFLVFPLIAY
+FT                   FLFLSIYLVGSWQPDLLTTQVEFNQNTLHQIWISIPVMVFAFSHTPIISTFAIDRREKY
+FT                   GEHAMDKCKKIMKVAYLIICISVLFFVFSCLLSIPPSYIEAAKEEGVTILSALSMLPNA
+FT                   PAWLSISGIIVAVVAMSKSFLGTYFGVIEGATEVVKTTLQQVGVKKSRAFNRALSIMLV
+FT                   SLITFIVCCINPNAISMIYAISGPLIAMILFIMPTLSTYLIPALKPWRSIGNLITLIVG
+FT                   ILCVSVMFFS"
+FT   tRNA            complement(join(3226254..3226327))
+FT                   /gene="glyU"
+FT                   /locus_tag="E2348C_tRNA_60"
+FT                   /product="tRNA-Gly"
+FT                   /note="Anti Codon: CCC"
+FT   CDS             complement(join(3226406..3227161))
+FT                   /transl_table=11
+FT                   /gene="ygeR"
+FT                   /locus_tag="E2348C_3117"
+FT                   /product="tetratricopeptide repeat transcriptional
+FT                   regulator"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3117"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10665"
+FT                   /db_xref="InterPro:IPR011055"
+FT                   /db_xref="InterPro:IPR016047"
+FT                   /db_xref="InterPro:IPR018392"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UHR5"
+FT                   /protein_id="CAS10665.1"
+FT                   /translation="MSAGRLNKKSLGIVMLLSVGLLLAGCSGSKSSDTGTYSGSVYTVK
+FT                   RGDTLYRISRTTGTSVKELARLNGISPPYTIEVGQKLKLGGAKSSSSTRKSTAKSTTKT
+FT                   ASVTPSSAVPKSSWPPVGQRCWLWPTTGKVIMPYSTADGGNKGIDISAPRGTPIYAAGA
+FT                   GKVVYVGNQLRGYGNLIMIKHSEDYITAYAHNDTMLVNNGQSVKAGQKIATMGSTDAAS
+FT                   VRLHFQIRYRATAIDPLRYLPPQGSKPKC"
+FT   CDS             join(3227575..3229872)
+FT                   /transl_table=11
+FT                   /gene="xdhA"
+FT                   /locus_tag="E2348C_3118"
+FT                   /product="xanthine dehydrogenase, molybdenum binding
+FT                   subunit"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3118"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10666"
+FT                   /db_xref="GOA:B7UHR6"
+FT                   /db_xref="InterPro:IPR000674"
+FT                   /db_xref="InterPro:IPR008274"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UHR6"
+FT                   /protein_id="CAS10666.1"
+FT                   /translation="MEAREATATGESCMRVDAIAKVTGRARYTDDYVMAGMCYAKYVRS
+FT                   PIAHGYAVSINDEQARSLPGVLAIFTWEDVPEIPFATAGHAWTLDENKRDTADRALLTR
+FT                   HVRHHGDAVAIVVARDELTAEKAAQLVSIEWQELPVITSPEAALAEDAAPIHNGGNLLK
+FT                   QSTMSTGNVQQTIDAADYQVQGHYQTPVIQHCHMESVTSLAWMEDDSRITIVSSTQIPH
+FT                   IVRRVVGQALDIPWSCVRVIKPFIGGGFGNKQDVLEEPMAAFLTSKLGGIPVKVSLSRE
+FT                   ECFLATRTRHAFTIDGQMGVNRDGTLKGYSLDVLSNTGAYASHGHSIASAGGNKVAYLY
+FT                   PRCAYAYSSKTCYTNLPSAGAMRGYGAPQVVFAVESMLDDAATALGIDPVEIRLRNAAR
+FT                   EGDANPLTGKRIYSAGLPECLEKGRKIFEWEKRRAECQNQQGNLRRGVGVACFSYTSNT
+FT                   WPVGVEIAGARLLMNQDGTINVQSGATEIGQGADTVFSQMVAETVGVPVSDVRVISTQD
+FT                   TDVTPFDPGAFASRQSYVAAPALRSAALLLKEKIIAHAAVMLHQSAMNLTLIKGHIVLV
+FT                   ERPEEPLMSLKDLAMDAFYHPERGGQLSAESSIKTTTNPPAFGCTFVDLTVDIALCKVT
+FT                   INRILNVHDSGHILNPLLAEGQVHGGMGMGIGWALFEEMIIDAKSGVVRNPNLLDYKMP
+FT                   TMPDLPQLESAFVEINEPQSAYGHKSLGEPPIIPVAAAIRNAVKMATGVAINTLPLTPK
+FT                   RLYEEFHLAGLI"
+FT   CDS             join(3229883..3230761)
+FT                   /transl_table=11
+FT                   /gene="xdhB"
+FT                   /locus_tag="E2348C_3119"
+FT                   /product="xanthine dehydrogenase, FAD-binding subunit"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3119"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10667"
+FT                   /db_xref="GOA:B7UHR7"
+FT                   /db_xref="InterPro:IPR002346"
+FT                   /db_xref="InterPro:IPR005107"
+FT                   /db_xref="InterPro:IPR016166"
+FT                   /db_xref="InterPro:IPR016167"
+FT                   /db_xref="InterPro:IPR016169"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UHR7"
+FT                   /protein_id="CAS10667.1"
+FT                   /translation="MFDFASYHRATTLADAITLLADNPQAKLLAGGTDVLIQLHHHNDR
+FT                   YRHIVDIHNLAELRGITQAEDGALRIGSATTFTQLIEDPVIQRNLPALCAAAASIAGPQ
+FT                   IRNVATYGGNICNGATSADSATPTLIYDAKLELHSPCGVRFVPINGFHTGPGKVSLEHD
+FT                   EILVAFHFPPQPKEHAGSAHFKYAMRDAMDISTIGCAAHCRLDNGNFSELRLAFGVAAP
+FT                   TPIRCQHAEQTAQNAPLNLQTLEAISESVLQDVAPRSSWRASKEFRLHLIQTMTKKVIS
+FT                   EAVAAAGGKLQ"
+FT   CDS             join(3230758..3231237)
+FT                   /transl_table=11
+FT                   /gene="xdhC"
+FT                   /locus_tag="E2348C_3120"
+FT                   /product="xanthine dehydrogenase, Fe-S binding subunit"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3120"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10668"
+FT                   /db_xref="GOA:B7UHR8"
+FT                   /db_xref="InterPro:IPR001041"
+FT                   /db_xref="InterPro:IPR002888"
+FT                   /db_xref="InterPro:IPR012675"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UHR8"
+FT                   /protein_id="CAS10668.1"
+FT                   /translation="MNHSETITIECVINGMPFQLHAAPGMPLSELLREQGLLSVKQGCC
+FT                   VGECGACTVLVDGTAIDSCLFLAAWAEGKEIRTLEGEAKGGKLSHVQLAYAKSGAVQCG
+FT                   FCTPGLIMATTAMLAKPREKPLTITEIRRGLAGNLCRCTGYQMIVNTVLDCEKTK"
+FT   CDS             complement(join(3231277..3233055))
+FT                   /transl_table=11
+FT                   /gene="ygeV"
+FT                   /locus_tag="E2348C_3121"
+FT                   /product="predicted DNA-binding transcriptional regulator"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3121"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10669"
+FT                   /db_xref="GOA:B7UHR9"
+FT                   /db_xref="InterPro:IPR000014"
+FT                   /db_xref="InterPro:IPR002078"
+FT                   /db_xref="InterPro:IPR002197"
+FT                   /db_xref="InterPro:IPR003018"
+FT                   /db_xref="InterPro:IPR003593"
+FT                   /db_xref="InterPro:IPR009057"
+FT                   /db_xref="InterPro:IPR025662"
+FT                   /db_xref="InterPro:IPR025943"
+FT                   /db_xref="InterPro:IPR025944"
+FT                   /db_xref="InterPro:IPR027417"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UHR9"
+FT                   /protein_id="CAS10669.1"
+FT                   /translation="MELATTQSVLMQIQPTIQRFARMLASVLQLEVEIVDENLCRVAGT
+FT                   GAYGKFLGRQLSGNSRLLRHVLETKTEKVVTQSRFDPLCEGCDSKENCREKAFLGTPVI
+FT                   LQERCVGVISLIAVTHEQQEHISDNLREFSDYVRHISTIFVSKLLEDQGPGDNISKIFA
+FT                   TMIDNMDQGVLVVDADNRVQFVNQTALKTLGVVQNNIIGKPVRFRPLTFESNFTHGHMQ
+FT                   HIVSWDDKSELIIGQLHNIQGRQLFLMAFHQSHTSFSVANASDEPHIEQLVGECRVMRQ
+FT                   LKRLISRIAPSPSSVMVVGESGTGKEVVARAIHKLSGRRNKPFIAINCAAIPEQLLESE
+FT                   LFGYVKGAFTGASANGKTGLIQAANTGTLFLDEIGDMPLMLQAKLLRAIEAREILPIGA
+FT                   SSPIQVDIRIISATNQNLAQFIAEGKFREDLFYRLNVIPITLPPLRERQEDIELLVHYF
+FT                   LHLHTRRLGSVYPGIAPDVVEILRKHRWPGNLRELSNLMEYLVNVVPSGEVIDSTLLPP
+FT                   NLLNNGTTEQSDVTEVSEAHLSLDDAGGTALEEMEKQMIREALSRHNSKKEVADELGIG
+FT                   IATLYRKIKKYELLNT"
+FT   CDS             join(3233534..3234721)
+FT                   /transl_table=11
+FT                   /gene="ygeW"
+FT                   /locus_tag="E2348C_3122"
+FT                   /product="predicted protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3122"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10670"
+FT                   /db_xref="GOA:B7UHS0"
+FT                   /db_xref="InterPro:IPR002082"
+FT                   /db_xref="InterPro:IPR006130"
+FT                   /db_xref="InterPro:IPR006131"
+FT                   /db_xref="InterPro:IPR006132"
+FT                   /db_xref="InterPro:IPR017702"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UHS0"
+FT                   /protein_id="CAS10670.1"
+FT                   /translation="MKTVNELIKDINSLTSHLHEKDFLLTWEQTPDELKQVLDVAAALK
+FT                   ALRAENISTKVFNSGLGISVFRDNSTRTRFSYASALNLLGLAQQDLDEGKSQIAHGETV
+FT                   RETANMISFCADAIGIRDDMYLGAGNAYMREVGAALDDGYKQGVLPQRPALVNLQCDID
+FT                   HPTQSMADLAWLREHFGSLENLKGKKIAMTWAYSPSYGKPLSVPQGIIGLMTRFGMDVT
+FT                   LAHPEGYDLIPDVVEVAKNNAKASGGSFRQVTSMEEAFKDADIVYPKSWAPYKVMEERT
+FT                   ELLRANDHEGLKALEKQCLAQNAQHKDWHCTEEMMELTRDGEALYMHCLPADISGVSCK
+FT                   EGEVTEGVFEKYRIATYKEASWKPYIIAAMILSRKYAKPGALLEQLLKEAQERVK"
+FT   CDS             join(3234779..3235975)
+FT                   /transl_table=11
+FT                   /gene="ygeX"
+FT                   /locus_tag="E2348C_3123"
+FT                   /product="2,3-diaminopropionate ammonia-lyase"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3123"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10671"
+FT                   /db_xref="GOA:B7UHS1"
+FT                   /db_xref="InterPro:IPR001926"
+FT                   /db_xref="InterPro:IPR010081"
+FT                   /db_xref="InterPro:IPR019871"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UHS1"
+FT                   /protein_id="CAS10671.1"
+FT                   /translation="MSVFSLKIDIADNKFFNGETSPLFSQSQAKLARQFHQKIAGYHPT
+FT                   PLCALDDLANLFGVKKILVKDESKRFGLNAFKMLGGAYAIAQLLCEKYHLDIETLSFEH
+FT                   LKNAIGEKMTFATTTDGNHGRGVAWAAQQLGQNAVIYMPKGSAQERVDAILNLGAECIV
+FT                   TDMNYDDTVRLTMQHAQQHGWEVVQDTAWEGYTKIPTWIMQGYATLADEAVEQMREMGV
+FT                   TPTHVLLQAGVGAMAGGVLGYLVDVYSPQNLHSIIVEPDKADCIYRSGVKGDIVNVGGD
+FT                   MATIMAGLACGEPNPLGWEILRNCATQFISCQDSVAALGMRVLGNPYGNDPRIISGESG
+FT                   AVGLGVLAAVHYHPQRQSLMEKLALNKDAVVLVISTEGDTDVKHYREVVWEGKHAVAP"
+FT   CDS             join(3236033..3237244)
+FT                   /transl_table=11
+FT                   /gene="ygeY"
+FT                   /locus_tag="E2348C_3124"
+FT                   /product="predicted peptidase"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3124"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10672"
+FT                   /db_xref="GOA:B7UHS2"
+FT                   /db_xref="InterPro:IPR001261"
+FT                   /db_xref="InterPro:IPR002933"
+FT                   /db_xref="InterPro:IPR011650"
+FT                   /db_xref="InterPro:IPR017706"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UHS2"
+FT                   /protein_id="CAS10672.1"
+FT                   /translation="MAKNIPFKLILEKAKDYQADMTRFLRDMVAIPSESCDEKRVVHRI
+FT                   KEEMEKVGFDKVEIDPMGNVLGYIGHGPRLVAMDAHIDTVGIGNIKNWDFDPYEGMETD
+FT                   ELIGGRGTSDQEGGMASMVYAGKIIKDLGLEDEYTLLVTGTVQEEDCDGLCWQYIIEQS
+FT                   GIRPEFVVSTEPTDCQVYRGQRGRMEIRIDVQGVSCHGSAPERGDNAIFKMGPILGELQ
+FT                   ELSQRLGYDEFLGKGTLTVSEIFFTSPSRCAVADSCAVSIDRRLTWGETWEGALDEIRA
+FT                   LPAVQKANAVVSMYNYDRPSWTGLVYPTECYFPTWKVEEDHFTVKALVNAYEGLFGKAP
+FT                   VVDKWTFSTNGVSIMGRHGIPVIGFGPGKEPEAHAPNEKTWKSHLVTCAAMYAAIPLSW
+FT                   LATE"
+FT   CDS             join(3237297..3238682)
+FT                   /transl_table=11
+FT                   /gene="hyuA"
+FT                   /locus_tag="E2348C_3125"
+FT                   /product="D-stereospecific phenylhydantoinase"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3125"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10673"
+FT                   /db_xref="GOA:B7UHS3"
+FT                   /db_xref="InterPro:IPR011059"
+FT                   /db_xref="InterPro:IPR011778"
+FT                   /db_xref="InterPro:IPR023766"
+FT                   /protein_id="CAS10673.1"
+FT                   /translation="MRVLIKNGIVVNADGQAKQDLLIESGIVRQLGTDISPQLPCEEID
+FT                   ASGCYVFPGGVDVHTHFNIDVGIARSCDDFFTGTRAAACGGTTTIIDHMGFGPNGCRLR
+FT                   HQLEVYRGYAAHKAVIDYSFHGVIQHINHAILDEIPMMVEEGLSSFKLYLTYQYKLNDD
+FT                   EVLQALRRLHESGALTTVHPENDAAIASKRAEFIAAGLTAPRYHALSRPLECEAEAIAR
+FT                   MINLAQIAGNAPLYIVHLSNGLGLDYLRLARANHQPVWVETCPQYLLLDERSYDTEDGM
+FT                   KFILSPPLRNVREQDKLWCGISDGAIDVVATDHCTFSMAQRLQISKGDFSRCPNGLPGV
+FT                   ENRMQLLFSSGVMTGRISPERFVELTSAMPARLFGLWPQKGLLAPGSDGDVVIIDPRQS
+FT                   QQIQHRHLHDNADYSPWEGFTCQGAIVRTLSRGEMIFCDGTFTGKAGRGRFLRRKPFVP
+FT                   PVL"
+FT   CDS             join(3238730..3239662)
+FT                   /transl_table=11
+FT                   /gene="yqeA"
+FT                   /locus_tag="E2348C_3126"
+FT                   /product="predicted amino acid kinase"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3126"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10674"
+FT                   /db_xref="GOA:B7UHS4"
+FT                   /db_xref="InterPro:IPR001048"
+FT                   /db_xref="InterPro:IPR003964"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UHS4"
+FT                   /protein_id="CAS10674.1"
+FT                   /translation="MSKKIVLALGGNALGDDLAGQMKAVKITSQALVDLIAQGHEVIVT
+FT                   HGNGPQVGMINQAFEAAAKTEAHSPMLPMSVCVALSQGYIGYDLQNALREELLSRGINK
+FT                   PVATLVTQVEVDANDPAFLNPTKPIGSFFTEQEAELLTKQGYTLKEDAGRGYRRVVASP
+FT                   KPVDIIEKETVKALVDAGQVVITVGGGGIPVIREGNHLRGASAVIDKDWASARLAEMID
+FT                   ADMLIILTAVEKVAINFGKENEQWLDRLSLSDAERFIEEGHFAKGSMLPKVEAAASFAR
+FT                   SRAGREALITVLSKAKEGIEGKTGTVICQ"
+FT   CDS             complement(join(3239703..3241328))
+FT                   /transl_table=11
+FT                   /gene="yqeB"
+FT                   /locus_tag="E2348C_3127"
+FT                   /product="conserved protein with NAD(P)-binding Rossman
+FT                   fold"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3127"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10675"
+FT                   /db_xref="InterPro:IPR003777"
+FT                   /db_xref="InterPro:IPR017695"
+FT                   /db_xref="InterPro:IPR027051"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UHS5"
+FT                   /protein_id="CAS10675.1"
+FT                   /translation="MNIFTEAAKLEEQNCPFAMAQIVDSRGSTPRHSAQMLVRADGSIV
+FT                   GTIGGGMVERKVIEESLQALQERKPRLFHGRMARNGADAVGSDCGGAMSVFISVHGMRP
+FT                   RLVLIGAGHVNRAIAQSAALLGFDIAVADIYRESLNPELFPPSTTLLHAESFGAAVEAL
+FT                   DIRPDNFVLIATNNQDREALDKLIEQPIAWLGLLASRRKVQLFLHQLREKGVAEEHIAR
+FT                   LHAPVGYNIGAETPQEIAISVLAEILQVKNNAPGGLMMKPSHPSGHQLVVIRGAGDIAS
+FT                   GVALRLYHAGFKVIMLEVEKPTVIRCTVAFAQAVFDGEMTVEGVTARLATSSAEAMKLT
+FT                   ERGFIPVMVDPTCSLLDELKPLCVVDAILAKQNLGTRADMAPVTIALGPGFTAGKDCHA
+FT                   VIETNRGHWLGQVIYSGCAQENTGVPGNIMGHTTRRVIRAPAAGIMRSNVKLGDLVKEG
+FT                   DVIAWIGEHEIKAPLTGMVRGLLNDGLAVVGGFKIGDIDPRGETADFTSVSDKARAIGG
+FT                   GVLEALMMLMHQGVKATKEVLEVA"
+FT   CDS             complement(join(3241376..3242146))
+FT                   /transl_table=11
+FT                   /gene="yqeC"
+FT                   /locus_tag="E2348C_3128"
+FT                   /product="predicted protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3128"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10676"
+FT                   /db_xref="GOA:B7UHS6"
+FT                   /db_xref="InterPro:IPR013221"
+FT                   /db_xref="InterPro:IPR017587"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UHS6"
+FT                   /protein_id="CAS10676.1"
+FT                   /translation="MKSIIDPSALFIDLGAQKRPTVISIVGAGGKTSLLFWLAELFQAS
+FT                   GRRVLITTTTHMFMPTSHWPVVFCRDPAMLPHASFISPISFCFHCWKANQGKVQGFTPE
+FT                   AIDALVQRPECDVILIEADGSRGMPLKAPDEHEPCIPKSSCCVIAVMGGHILGAKVSTE
+FT                   NVHRWSQFADITGLTPDAPLQLSDLVALVRHPQGAFKNVPQGCRRVWFINRFSQCENAI
+FT                   AQSELLQPLQQHNVEAIWLGDIQEHPAIARRFVN"
+FT   CDS             join(3242250..3242828)
+FT                   /transl_table=11
+FT                   /gene="ygfJ"
+FT                   /locus_tag="E2348C_3129"
+FT                   /product="predicted protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3129"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10677"
+FT                   /db_xref="InterPro:IPR017696"
+FT                   /db_xref="InterPro:IPR025877"
+FT                   /db_xref="InterPro:IPR029044"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UHS7"
+FT                   /protein_id="CAS10677.1"
+FT                   /translation="MSAIDCIITAAGLSSRMGQWKMMLPWQQGTILDTSIKNALQFCSR
+FT                   IILVTGYRGNELHERYANQSNITIIHNPDYAQGLLTSVKAAVPAVQTEHCFLTHGDMPT
+FT                   LTIDIFRKIWSLRNDGAILPLHNGIPGHPILVSKPCLMQAIQRPNVTNMRQALLMGEHY
+FT                   SVEIENAEIILDIDTPDDFITAKKRYTEI"
+FT   CDS             join(3243150..3243833)
+FT                   /pseudo
+FT                   /transl_table=11
+FT                   /gene="ygfK"
+FT                   /locus_tag="E2348C_3130"
+FT                   /note="pseudogene, predicted oxidoreductase, Fe-S subunit,
+FT                   disrupted by ISEc13"
+FT   CDS             complement(join(3368164..3368715))
+FT                   /transl_table=11
+FT                   /gene="gspM"
+FT                   /locus_tag="E2348C_3240"
+FT                   /product="putative type II secretion protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3240"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10788"
+FT                   /db_xref="GOA:B7UI28"
+FT                   /db_xref="InterPro:IPR007690"
+FT                   /db_xref="InterPro:IPR023229"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UI28"
+FT                   /protein_id="CAS10788.1"
+FT                   /translation="MLRDKFIHYFQQWRERQLSRGEHWLTQHLAGRSPREKGMLLAAVV
+FT                   FLFSAGYYVLIWQPLSERIEQQETMLQQLVAMNARLKSAAPDIIAARKSATTTPAQVSR
+FT                   VISDSASAHSVVIKRIAERGENIQVWIEPVVFNDLLNWLNALDEKYALRVTQIDVSAGE
+FT                   KPGMVNVQRLEFGRGKVSGD"
+FT   CDS             complement(join(3368717..3369886))
+FT                   /transl_table=11
+FT                   /gene="gspL"
+FT                   /locus_tag="E2348C_3241"
+FT                   /product="putative type II secretion protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3241"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10789"
+FT                   /db_xref="GOA:B7UI29"
+FT                   /db_xref="InterPro:IPR007812"
+FT                   /db_xref="InterPro:IPR024230"
+FT                   /db_xref="InterPro:IPR025691"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UI29"
+FT                   /protein_id="CAS10789.1"
+FT                   /translation="MLEIFFPLCAADPIRWQRHTPDVEHGIWPDVADERLQQWLQTDAI
+FT                   RLYIPGEWISVWQVELPDVPRKQIPTILPALLEEELNQDIDELHFAPLKIDQQLATVAV
+FT                   IHQQHMRNIAQWLQANGITRATVAPDWMSIPCGFMAGDAQRVICRIDECRGWSAGRALA
+FT                   PVMFRAQLNEQDIPLSLTVVGIAPEELSAWAGADAERLTVTALPAITTYGEPEGNLLTG
+FT                   PWQPRVSYRKQWARWRVMILPILLILVALVVERGVTLWSVSEQVAQSRTQSEKQFLTLF
+FT                   PEQKRIVNLRSQVTMALKKYRPQADDTRLLAELSAIASTLKSASLTDIEMRGFTFDQKR
+FT                   QTLHLQLRAANFASFDKLRSALAADYVVQQDALQKEGDAVSGGVTLRRK"
+FT   CDS             complement(join(3369892..3370869))
+FT                   /transl_table=11
+FT                   /gene="gspK"
+FT                   /locus_tag="E2348C_3242"
+FT                   /product="putative type II secretion protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3242"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10790"
+FT                   /db_xref="GOA:B7UI30"
+FT                   /db_xref="InterPro:IPR005628"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UI30"
+FT                   /protein_id="CAS10790.1"
+FT                   /translation="MITSPPKRGMALVVVLVLLAVMMLVTITLSSRMQQQLGRTRSQQE
+FT                   YQQALWYSASAESLALSALSLSLKNEKRVHLAQPWASGPRFFPLPQGQIAVTLRDAQAC
+FT                   FNLNALAQPTTASRPLAVQQLIALISRLDVPAYRAELIAESLWEFIDEDRSVQTRLGRE
+FT                   DSEYLARSVPFYAANQPLADISEMRVVQGMDAGLYQKLKPLVCALPMARQQININTLDV
+FT                   TQSVILEALFDPWLSPVQARALLQQRPAKGWEDVDQFLAQPLLADVDERTKKQLKTILS
+FT                   VDSNYFWLRSDITVNEIELTMNSLIVRMGPQHFSVLWHQTGESE"
+FT   CDS             complement(join(3370866..3371471))
+FT                   /transl_table=11
+FT                   /gene="gspJ"
+FT                   /locus_tag="E2348C_3243"
+FT                   /product="putative type II secretion protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3243"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10791"
+FT                   /db_xref="GOA:B7UI31"
+FT                   /db_xref="InterPro:IPR010055"
+FT                   /db_xref="InterPro:IPR012902"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UI31"
+FT                   /protein_id="CAS10791.1"
+FT                   /translation="MRRARAGFTLLEMLVAIAIFASLALMAQQVTNGVTRVNSAVAGHD
+FT                   QKLNLMQQTMSFLNHDLTQMMPRPVRGDQGQREPALLAGAGVLASESEGIRFVRGGVVN
+FT                   PLMRLPRSNLLTVGYRIHGGYLERLAWPLTDAAGSVKPTTQKLIPADSLRLQFHDGTCW
+FT                   QESWSSVQAIPVAVRITLHSPQWGEIERIWLLRGPQLS"
+FT   CDS             complement(join(3371468..3371839))
+FT                   /transl_table=11
+FT                   /gene="gspI"
+FT                   /locus_tag="E2348C_3244"
+FT                   /product="putative type II secretion protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3244"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10792"
+FT                   /db_xref="GOA:B7UI32"
+FT                   /db_xref="InterPro:IPR003413"
+FT                   /db_xref="InterPro:IPR010052"
+FT                   /db_xref="InterPro:IPR012902"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UI32"
+FT                   /protein_id="CAS10792.1"
+FT                   /translation="MKRGFTLLEVILALAIFALAATAVLQIASGALSNQQILEEKTVAG
+FT                   WVAENQTALLYLMTREQRAVRHQGESDMAGSRWYWRTIPLNTGNVLLQAVDIEVSLHDD
+FT                   FSPVIQSRRAWFSAVGGQQ"
+FT   CDS             complement(join(3371836..3372399))
+FT                   /transl_table=11
+FT                   /gene="gspH"
+FT                   /locus_tag="E2348C_3245"
+FT                   /product="putative type II secretion protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3245"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10793"
+FT                   /db_xref="GOA:B7UI33"
+FT                   /db_xref="InterPro:IPR002416"
+FT                   /db_xref="InterPro:IPR012902"
+FT                   /db_xref="InterPro:IPR022346"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UI33"
+FT                   /protein_id="CAS10793.1"
+FT                   /translation="MPERGFTLLEIMLVIFLIGLASAGVVQTFATASEPPAKKAAQDFL
+FT                   TRFAQFKDRAVIEGQTLGVLIDPPGYQFMQRRHGQWLPVSATRLSAQVTVPKQVQMLLQ
+FT                   PGSDIWQKEYALELQRRRLTLHDIELELQKEAKKKTPQIRFSPFEPVTPFTLRFYSSAQ
+FT                   NACWAVKLAHDGALSLNQCDEGMP"
+FT   CDS             complement(join(3372403..3372858))
+FT                   /transl_table=11
+FT                   /gene="gspG"
+FT                   /locus_tag="E2348C_3246"
+FT                   /product="putative type II secretion protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3246"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10794"
+FT                   /db_xref="GOA:B7UI34"
+FT                   /db_xref="InterPro:IPR000983"
+FT                   /db_xref="InterPro:IPR010054"
+FT                   /db_xref="InterPro:IPR012902"
+FT                   /db_xref="InterPro:IPR013545"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UI34"
+FT                   /protein_id="CAS10794.1"
+FT                   /translation="MNSLSRTQKPRAGFTLLEVMVVIVILGVLASLVVPNLLGNKEKAD
+FT                   RQKAISDIVALENALDMYRLDNGRYPTTEQGLEALIQQPANMADARNYRTGGYIKRLPK
+FT                   DPWGNDYQYLSPGEKGLFDVYTLGADGQENGEGAGADIGNWNLQEFQ"
+FT   CDS             complement(join(3372875..3374098))
+FT                   /transl_table=11
+FT                   /gene="gspF"
+FT                   /locus_tag="E2348C_3247"
+FT                   /product="putative type II secretion protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3247"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10795"
+FT                   /db_xref="GOA:B7UI35"
+FT                   /db_xref="InterPro:IPR001992"
+FT                   /db_xref="InterPro:IPR003004"
+FT                   /db_xref="InterPro:IPR011850"
+FT                   /db_xref="InterPro:IPR018076"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UI35"
+FT                   /protein_id="CAS10795.1"
+FT                   /translation="MALFYYQALERNGRKTKGMIEADSARHARQLLRGKDLIPVHIEAR
+FT                   MNASAGGMLQRRRHAHRRVAAADLALFTRQLATLVQAAMPLETCLQAVSEQSEKLHVKS
+FT                   LGMALRSRIQEGYTLSDSLREHPRVFDSLFCSMVAAGEKSGHLDVVLNRLADYTEQRQR
+FT                   LKSRLLQAMLYPLVLLVVATGVVTILLTAVVPKIIEQFDHLGHALPASTRMLIAMSDTL
+FT                   QTSGVYWLAGLLGLLVLGQRLLKNPAMRLRWDKTLLRLPVTGRVARGLNTARFSRTLSI
+FT                   LTASSVPLLEGIQTAAAVSANRYVEQQLLLAADRVREGSSLRAALADLRLFPPMMLYMI
+FT                   ASGEQSGELETMLEQAAVNQEREFDTQVGLALGLFEPALVVMMAGVVLFIVIAILEPML
+FT                   QLNNMVGM"
+FT   CDS             complement(join(3374098..3375591))
+FT                   /transl_table=11
+FT                   /gene="gspE"
+FT                   /locus_tag="E2348C_3248"
+FT                   /product="putative type II secretion protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3248"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10796"
+FT                   /db_xref="GOA:B7UI36"
+FT                   /db_xref="InterPro:IPR001482"
+FT                   /db_xref="InterPro:IPR003593"
+FT                   /db_xref="InterPro:IPR013369"
+FT                   /db_xref="InterPro:IPR027417"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UI36"
+FT                   /protein_id="CAS10796.1"
+FT                   /translation="MVPVAQETTANTVRLPYSFSRRFSLVAWCEASLEILHVHPLSLSV
+FT                   LQELQRGLNAPFTLRQIDEAEFEQRLNAVWQRDSSEARQLMEDLGSAEDFFTLAEELPE
+FT                   TEDLLESDDDAPIIKLINAMLAEAIKEGASDIHIETFEKSLVIRFRVDGTLHEMLRPGR
+FT                   KLASLLVSRIKVMARLDIAEKRVPQDGRIALLLGGRAIDVRVSTMPSAWGERVVLRLLD
+FT                   KNQARLTLERLGLSLELTAQLRQLLHKPHGIFLVTGPTGSGKSTTLYAGLQELNNHSCN
+FT                   ILTVEDPIEYMIEGIGQTQVNTRVGMTFARGLRAILRQDPDVVMVGEIRDTETAEIAVQ
+FT                   ASLTGHLVLSTLHTNTAVGAITRLQDMGVEPFLLSSSLTGVMAQRLVRTLCPDCCQSAP
+FT                   ATDEEKRLLGITDAHAVTLYHPQGCPACNHKGFRGRTAIHELIVVDATLRDLIHRQAGE
+FT                   LELERYVRQHSAGIRSNGIEKVLAGETSLDEVLRVTMEA"
+FT   CDS             complement(join(3375591..3377651))
+FT                   /transl_table=11
+FT                   /gene="gspD"
+FT                   /locus_tag="E2348C_3249"
+FT                   /product="putative type II secretion protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3249"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10797"
+FT                   /db_xref="GOA:B7UI37"
+FT                   /db_xref="InterPro:IPR001775"
+FT                   /db_xref="InterPro:IPR004846"
+FT                   /db_xref="InterPro:IPR005644"
+FT                   /db_xref="InterPro:IPR013356"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UI37"
+FT                   /protein_id="CAS10797.1"
+FT                   /translation="MFWRDMTLSIWRKKTTGLKTKKRLLPLMLAAALCSSPVWAEEATF
+FT                   TANFKDTDLKSFIETVGANLNKTIIMGPGVQGKVSIRTMTPLNERQYYQLFLNLLEAQG
+FT                   YAVVPMENDVLKVVKSSAAKVEPLPLVGEGSDNYAGDEMVTKVVPVRNVSVRELAPILR
+FT                   QMIDSAGSGNVVNYDPSNVIMLTGRASVVERLTEVIQRVDHAGNRTEEVIPLDNASASE
+FT                   IARVLESLTKNSGENQPATLKSQIVADERTNSVIVSGDPATRDKMRRLIRRLDSEMERS
+FT                   GNSQVFYLKYSKAEDLVDVLKQVSGTLTAAKEEAEGTVGSGREVVSIAASKHSNALIVT
+FT                   APQDIMQSLQSVIEQLDIRRAQVHVEALIVEVAEGSNINFGVQWGSKDAGLMQFANGTQ
+FT                   IPIGTLGAAISAAKPQKGSTVISENGATTINPDTNGDLSTLAQLLSGFSGTAVGVVKGD
+FT                   WMALVQAVKNDSSSNVLSTPSITTLDNQEAFFMVGQDVPVLTGSTVGSNNSNPFNTVER
+FT                   KKVGIMLKVTPQINEGNAVQMVIEQEVSKVEGQTSLDVVFGERKLKTTVLANDGELIVL
+FT                   GGLMDDQAGESVAKVPLLGDIPLIGNLFKSTADKKEKRNLMVFIRPTILRDGMAADGVS
+FT                   QRKYNYMRAEQIYRDEQGLSLMPHTAQPILPAQNQALPPEVRAFLNAGRTR"
+FT   CDS             complement(join(3377681..3378640))
+FT                   /transl_table=11
+FT                   /gene="gspC"
+FT                   /locus_tag="E2348C_3250"
+FT                   /product="putative type II secretion protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3250"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10798"
+FT                   /db_xref="GOA:B7UI38"
+FT                   /db_xref="InterPro:IPR001478"
+FT                   /db_xref="InterPro:IPR001639"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UI38"
+FT                   /protein_id="CAS10798.1"
+FT                   /translation="MARVVFRDVRIYLIQLLTKIRHTLSQRQSLNTDKEHLRKIARAMF
+FT                   WLMLLIISAKMAYSLWRYFSFSAEYTAVSSSANKPLRADAKPFDKNDVQLVSQQNWFGK
+FT                   YQPVAAPIKQPESAPVAETRLNVVLRGIAFGARPGAVIEEGGKQQVYLQGERLGSHNAV
+FT                   IEEINRDHVMLRYQGKMERLSLAEEERPPVAVTSKKAASDEAKQAVAEPVVSAPVEIPA
+FT                   AVRQALAKDPQKIFNYIQLTPVRKEGIVGYAVKPGADRSLFDASGFREGDIAIALNQQD
+FT                   FTDPRAMIALMRQLPSMDSIQLTVLRKGALYDISIALR"
+FT   CDS             complement(join(3378658..3379068))
+FT                   /transl_table=11
+FT                   /gene="yghG"
+FT                   /locus_tag="E2348C_3251"
+FT                   /product="predicted protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3251"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10799"
+FT                   /db_xref="InterPro:IPR016502"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UI39"
+FT                   /protein_id="CAS10799.1"
+FT                   /translation="MSIKQMPGRVLISLLLSVTGLLSGCASHNENASLLAKKQAQNISQ
+FT                   NLPIKSAGYTLVLAQSSGTTVKMTIISEAGAQTTQTPDAFLTSYQRQMCADPTVKLMIT
+FT                   EGINYSITINDTRTGNQYQRKLDRTTCGIVKA"
+FT   CDS             complement(join(3379134..3379943))
+FT                   /transl_table=11
+FT                   /gene="pppA"
+FT                   /locus_tag="E2348C_3252"
+FT                   /product="bifunctional prepilin leader peptidase/methylase"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3252"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10800"
+FT                   /db_xref="GOA:B7UI40"
+FT                   /db_xref="InterPro:IPR000045"
+FT                   /db_xref="InterPro:IPR010627"
+FT                   /db_xref="InterPro:IPR014032"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UI40"
+FT                   /protein_id="CAS10800.1"
+FT                   /translation="MLFDVFQQYPAAMPVLATVGGLIIGSFLNVVIWRYPIMLRQQMAE
+FT                   FHGETPSTQLKISLALPRSHCPHCQQTIRVRDNIPLLSWLMLKGRCRDCQAKISKRYPL
+FT                   VELLTALAFLLASLVWPESGWGLAVMILSAWLIAASVIDLDNQWLPDVFTQGVLWTGLI
+FT                   AAWAQQSPLTLQDAVTGVLVGFITFYSLRWIAGIVLRKEALGMGDVLLFAALGGWVGAL
+FT                   SLPNVALIASCCGLIYAVITKRGSTTLPFGPCLSLGGIATLYLQALF"
+FT   CDS             complement(join(3380138..3384712))
+FT                   /transl_table=11
+FT                   /gene="yghJ"
+FT                   /locus_tag="E2348C_3253"
+FT                   /product="predicted inner membrane lipoprotein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3253"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10801"
+FT                   /db_xref="InterPro:IPR025385"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UI41"
+FT                   /protein_id="CAS10801.1"
+FT                   /translation="MNKKFKYKKSLLAAILSATLLAGCDGGGSGPSSDTPPVDSGTGSL
+FT                   PEVKPDPTPNPEPTPEPTPDPEPTPDPTPDPEPTPEPEPEPVPTKTGYLTLGGSQRITG
+FT                   ATCNGESSDGFTFTPGDKVTCVAGNNTTIATFDTQSEAARSLRAVEKVSFSLEDAQELA
+FT                   ASDDKKSNAVSLVTSSNSCPADTEQVCLTFSSVIESKRFDSLYKQIDLAPEEFKKLVNE
+FT                   EVENNAATDKAPSTHTSPVVPVTTPGTKPDLNASFVSANAEQFYQYQPTEIILSEGRLV
+FT                   DSQGYGVAGVNYYTNSGRGVTGENGEFSFSWGETISFGIDTFELGSVRGNKSTIALTEL
+FT                   GDEVRGANIDQLIHRYSTTGQNNTRVVPDDVRKVFAEYPNVINEIINLSLSNGATLDEG
+FT                   DQNVVLPNEFIEQFKTGQAKEIDTAICAKTDGCNEARWFSLTTRNVNDGQIQGVINKLW
+FT                   GVDKDYKSVTKFHVFHDSTNFYGSTGNARGQAVVNISNAAFPILMARNDKNYWLAFGEK
+FT                   RAWDKNELAYITEAPSIVQPENVTRDTATFNLPFISLGQVGEGKLMVIGNPHYNSILRC
+FT                   PNGYSWNGGVNKDGQCTLSGDSDDMKHFMQNVLRYLSDDKWTPDAKASMTVGTNLDTVY
+FT                   FKRHGQVTGNSAEFGFHPDFAGISVEHLSSYGDLDPQEMPLLILNGFEYVTQVGNDPYA
+FT                   IPLRADTSKPKLTQQDVTDLIAYLNKGGSVLIMENVMSNLKEESASGFVRLLDAAGLSM
+FT                   ALNKSVVNTDPQGYPNRVRQQREKGIWVYERYPAVDSAQPPYTIDPDTGKVTWKYQEEG
+FT                   KPDDKPKLEVASWQEDVDGKQVTRYAFIDEAEHSTEESLEAAKAKIFEKFPGLQECKDS
+FT                   TYHYEINCLERRPGTDVPVTGGMYVPRYTQLNLDADTAKAMVQAADLGTNIQRLYQHEL
+FT                   YFRTNGRKGERLSSVDLERLYQNMSVWLWNKIEYRYENDKDDELGFKTFTEFLNCYANN
+FT                   AYSEGTQCSADLKKSLVDNNMIYGDGSSKAGMMNPSYPLNYMEKPLTRLMLGRSWWDLN
+FT                   IKVDVEKYPGAVSAEGEKVTETISLYSNPTKWFAGNMQSTGLWAPAQQEVTIESTASVP
+FT                   VTVTVALADDLTGREKHEVALNRPPKVTKTYDLKANDKVTFKVPYGGLIYIKGNSPKNE
+FT                   SAEFTFTGVVKAPFYKDGEWKNALNSPAPLGELESDSFVYTAPKNNLNASNYSNYTDGV
+FT                   AEFAKELDTFASSMNDFYGRDGESGNHRMFTYKALTGHKHRFANDVQISIGDAHSGYPV
+FT                   MNSSFSTNSTTLPTTPLNDWLIWHEVGHNAAETPLNVPGATEVANNVLALYMQDRYLGK
+FT                   MNRVADDITVAPEYLDESNGQAWARGGAGDRLLMYAQLKEWAEENFDIKQWYPDGELPK
+FT                   FYSDRKGMKGWNLFQLMHRKARGDDVSNDKFGGRNYCAESNGNAADTLMLCASWVAQAD
+FT                   LSEFFKKWNPGANAYQLPGASEMSFEGGVSQSAYNTLAAMHLSKPEKGPETINKVTEYS
+FT                   MPAE"
+FT   CDS             complement(join(3385198..3386880))
+FT                   /transl_table=11
+FT                   /gene="glcA"
+FT                   /locus_tag="E2348C_3254"
+FT                   /product="glycolate transporter"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3254"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10802"
+FT                   /db_xref="GOA:B7UI42"
+FT                   /db_xref="InterPro:IPR003804"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UI42"
+FT                   /protein_id="CAS10802.1"
+FT                   /translation="MVTWTQMYMPMGGLGLSALVALIPIIFFFVALAVLRLKGHVAGAI
+FT                   TLILSILIAIFAFKMPIDMAFAAAGYGFIYGLWPIAWIIVAAVFLYKLTVASGQFDIIR
+FT                   SSVISITDDQRLQVLLIGFSFGALLEGAAGFGAPVAITGALLVGLGFKPLYAAGLCLIA
+FT                   NTAPVAFGALGVPILVAGQVTGIDPFHIGAMAGRQLPFLSVLVPFWLVAMMDGWKGVKE
+FT                   TWPAALVAGGSFAVTQFFTSNYIGPELPDITSALVSIVSLALFLKVWRPKNTETAISMG
+FT                   QSAGAMVVNKPSSGGPVPSEYSLGQIIRAWSPFLILTVLVTIWTMKPFKALFAPGGAFY
+FT                   SLVINFQIPHLHQQVLKAAPIVAQPTPMDAVFKFDPLSAGGTAIFIAAIISIFILGVGI
+FT                   KKGIAVFAETLISLKWPILSIGMVLAFAFVTNYSGMSTTLALVLAGTGVMFPFFSPFLG
+FT                   WLGVFLTGSDTSSNALFGSLQSTTAQQINVSDTLLVAANTSGGVTGKMISPQSIAVACA
+FT                   ATGMVGRESELFRYTVKHSLIFASVIGIITLLQAYVFTGMLVS"
+FT   misc_RNA        join(3386959..3387180)
+FT                   /locus_tag="E2348C_ncR_51"
+FT                   /product="sRNA, function unknown"
+FT                   /note="identified in Rfam screening as C0719"
+FT   CDS             complement(join(3387235..3389406))
+FT                   /transl_table=11
+FT                   /gene="glcB"
+FT                   /locus_tag="E2348C_3255"
+FT                   /product="malate synthase G"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3255"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10803"
+FT                   /db_xref="GOA:B7UI43"
+FT                   /db_xref="InterPro:IPR001465"
+FT                   /db_xref="InterPro:IPR006253"
+FT                   /db_xref="InterPro:IPR011076"
+FT                   /db_xref="InterPro:IPR023310"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UI43"
+FT                   /protein_id="CAS10803.1"
+FT                   /translation="MSQTITQGRLRIDANFKRFVDEEVLPGVELDAAAFWRNVDEIVHD
+FT                   LAPENRQLLAERDRIQAALDEWHRSNPGPVKDKAAYKSFLRELGYLVPQPDRVTVETTG
+FT                   IDSEITSQAGPQLVVPAMNARYALNAANARWGSLYDALYGSDIIPQEGAMVSGYDPQRG
+FT                   EQVIAWVRRFLDESLPLENGSYQDVVAFKVVDKQLRIQLKNGKETTLRTPAQFVGYRGN
+FT                   AAAPSCILLKNNGLHIELQIDANGRIGKDDPAHINDVIVEAAISTILDCEDSVAAVDAE
+FT                   DKILLYRNLLGLMQGTLQEKMEKNGRQIVRKLNDDRQYTAADGSEISLHGRSLLFIRNV
+FT                   GHLMTIPVIWDSEGNEIPEGILDGVMTGAIALYDLKVQKNSRTGSVYIVKPKMHGPQEV
+FT                   AFANKLFTRVETMLGMAPNTLKMGIMDEERRTSLNLRSCIAQARNRVAFINTGFLDRTG
+FT                   DEMHSVMEAGPMLRKNQMKSTPWIKAYERNNVLSGLFCGLRGKAQIGKGMWAMPDLMAD
+FT                   MYSQKGDQLRAGANTAWVPSPTAATLHALHYHQTNVQSVQANIAQSEFNAEFEPLLDDL
+FT                   LTIPVAENANWSVEEIQQELDNNVQGILGYVVRWVEQGIGCSKVPDIHNVALMEDRATL
+FT                   RISSQHIANWLRHGILTKEQVQASLENMAKVVDQQNAGDPAYRPMAGNFANSCAFKAAS
+FT                   DLIFLGVKQPNGYTEPLLHAWRLREKESH"
+FT   CDS             complement(join(3389428..3389832))
+FT                   /transl_table=11
+FT                   /gene="glcG"
+FT                   /locus_tag="E2348C_3256"
+FT                   /product="predicted protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3256"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10804"
+FT                   /db_xref="InterPro:IPR005624"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UI44"
+FT                   /protein_id="CAS10804.1"
+FT                   /translation="MKTKVILSQQMASAIIAAGQEEAQKNNWSVSIAVADDGGHLLALS
+FT                   RMDDCAPIAAYISQEKARTAALGRRETKGYEEMVNNGRTAFVTAPLLTSLEGGVPVVVD
+FT                   GQIIGAVGVSGLTGAQDAQVAKAAAAVLAK"
+FT   CDS             complement(join(3389837..3391060))
+FT                   /transl_table=11
+FT                   /gene="glcF"
+FT                   /locus_tag="E2348C_3257"
+FT                   /product="glycolate oxidase iron-sulfur subunit"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3257"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10805"
+FT                   /db_xref="GOA:B7UI45"
+FT                   /db_xref="InterPro:IPR004017"
+FT                   /db_xref="InterPro:IPR012257"
+FT                   /db_xref="InterPro:IPR017896"
+FT                   /db_xref="InterPro:IPR017900"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UI45"
+FT                   /protein_id="CAS10805.1"
+FT                   /translation="MQTRLTEEMRQNARALEADSILRACVHCGFCTATCPTYQLLGDEL
+FT                   DGPRGRIYLIKQVLEGNEVTLKTQEHLDRCLTCRNCETTCPSGVRYHNLLDIGRDIVEQ
+FT                   KVKRPLPERMLREGLRQVVPRPAVFRALTQVGLVLRPFLPEQVRAKLPAETVKAKPRPP
+FT                   LRHKRRVLMLEGCAQPTLSPNTNAATARVLDRLGISVMPANEAGCCGAVDYHLNAQEKG
+FT                   LARARNNIDAWWPAIEAGAEAILQTASGCGAFVKEYGQMLKSDALYADKARRVSELAVD
+FT                   LVELLRKEPLEKLAIRGDKKLAFHCPCTLQHAQKLNGEVEKVLLRLGFTLTDVPDSHLC
+FT                   CGSAGTYALTHPDLARQLRDNKMNALESGKPEMIVTANIGCQTHLASAGRTSVRHWIEI
+FT                   VEQALDKE"
+FT   CDS             complement(join(3391071..3392123))
+FT                   /transl_table=11
+FT                   /gene="glcE"
+FT                   /locus_tag="E2348C_3258"
+FT                   /product="glycolate oxidase FAD binding subunit"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3258"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10806"
+FT                   /db_xref="GOA:B7UIM4"
+FT                   /db_xref="InterPro:IPR006094"
+FT                   /db_xref="InterPro:IPR016164"
+FT                   /db_xref="InterPro:IPR016166"
+FT                   /db_xref="InterPro:IPR016169"
+FT                   /db_xref="InterPro:IPR016171"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UIM4"
+FT                   /protein_id="CAS10806.1"
+FT                   /translation="MLRECDYSQALLEQVNQAISDKTPLVIQGSNSKAFLGRPVTGQTL
+FT                   DVRCHRGIVNYDPTELVITARAGTPLVAIEAALESAGQMLPCEPPHYGEEATWGGMVAC
+FT                   GLAGPRRPWSGSVRDFVLGTRIITGTGKHLRFGGEVMKNVAGYDLSRLMAGSYGCLGVL
+FT                   TEISMKVLPRPRATLSLRREISLQEAMNEIAQWQLQPLPISGLCYFDNALWIRLEGGEG
+FT                   SVKAARELLGGEEVAGQFWQQLREQQLPFFSLPGTLWRISLPSDAPMIDLPGEQLIDWG
+FT                   GALRWLKSTADDNQIHRIARNAGGHATRFSAGDGGFAPLPAPLFRYHQQLKQQLDPCGV
+FT                   FNPGRMYAEL"
+FT   CDS             complement(join(3392123..3393622))
+FT                   /transl_table=11
+FT                   /gene="glcD"
+FT                   /locus_tag="E2348C_3259"
+FT                   /product="glycolate oxidase subunit, FAD-linked"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3259"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10807"
+FT                   /db_xref="GOA:B7UIM5"
+FT                   /db_xref="InterPro:IPR004113"
+FT                   /db_xref="InterPro:IPR004490"
+FT                   /db_xref="InterPro:IPR006094"
+FT                   /db_xref="InterPro:IPR016164"
+FT                   /db_xref="InterPro:IPR016166"
+FT                   /db_xref="InterPro:IPR016167"
+FT                   /db_xref="InterPro:IPR016169"
+FT                   /db_xref="InterPro:IPR016171"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UIM5"
+FT                   /protein_id="CAS10807.1"
+FT                   /translation="MSILYEERLDGALPEVDRTSVLMALREHVPGLEILHTDEEIIPYE
+FT                   CDGLSAYRTRPLLVVLPKQMEQVTAILAVCHRLRVPVVTRGAGTGLSGGALPLEKGVLL
+FT                   VMARFKEILDINPIGRHARVQPGVRNLAISQAVAPHNLYYAPDPSSQIACSIGGNVAEN
+FT                   AGGVHCLKYGLTVHNLLKIEVQTLDGEALTLGSDALDSPGFDLLALFTGSEGMLGVTTE
+FT                   VTVKLLPKPPVARVLLASFDSVEKAGLAVGDIIANGIIPGGLEMMDNLSIRAAEDFIHA
+FT                   GYPVDAEAILLCELDGVESDVQEDCEQVNDILLNAGATDVRLAQDEAERVRFWAGRKNA
+FT                   FPAVGRISPDYYCMDGTIPRRALPGVLEGIARLSQQYDLRVANVFHAGDGNMHPLILFD
+FT                   ANEPGEFARAEELGGKILELCVEVGGSISGEHGIGREKINQMCAQFNSDEITTFHAVKA
+FT                   AFDPDGLLNPGKNIPTLHRCAEFGAMHVHHGHLPFPELERF"
+FT   CDS             join(3393873..3394637)
+FT                   /transl_table=11
+FT                   /gene="glcC"
+FT                   /locus_tag="E2348C_3260"
+FT                   /product="DNA-binding transcriptional dual regulator,
+FT                   glycolate-binding"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3260"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10808"
+FT                   /db_xref="GOA:B7UIM6"
+FT                   /db_xref="InterPro:IPR000524"
+FT                   /db_xref="InterPro:IPR008920"
+FT                   /db_xref="InterPro:IPR011711"
+FT                   /db_xref="InterPro:IPR011991"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UIM6"
+FT                   /protein_id="CAS10808.1"
+FT                   /translation="MKDERRPICEVVAESIERLIIDGVLKVGQPLPSERRLCEKLGFSR
+FT                   SALREGLTVLRGRGIIETAQGRDSRVARLNRVQDASPLIHLFSTQPRTLYDLLDVRALL
+FT                   EGESARLAATLGTQADFVVITRCYEKMLAASENNKEISLIEHAQLDHAFHLAICQASHN
+FT                   QVLVFTLQSLTDLMFNSVFASVNNLYHRPQQKKQIDRQHARIYNAVLQRLPHVAQRAAR
+FT                   DHVRTVKKNLHDIELEGHHLIRSAVPLEMKQG"
+FT   CDS             complement(join(3394644..3395786))
+FT                   /transl_table=11
+FT                   /gene="yghO"
+FT                   /locus_tag="E2348C_3261"
+FT                   /product="predicted DNA-binding transcriptional regulator"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3261"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10809"
+FT                   /db_xref="GOA:B7UIM7"
+FT                   /db_xref="InterPro:IPR016181"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UIM7"
+FT                   /protein_id="CAS10809.1"
+FT                   /translation="MECDLLMIKIEKVINKNDLKAFIAFPSSLYPDDPNWIPPLFIERN
+FT                   EHLSAKNPGTDHIIWQAWVAKKAGQIVGRITAQIDTLHRERYGEDTGHFGMIDAIDDPQ
+FT                   VFAALFGTAEAWLKSQGASKISGPFSLNINQESGLLIEGFDTPPCAMMPHGKPWYAAHI
+FT                   EQLGYHKGIDLLAWWMQRTDLTFSPALKKLMDQVRKKVTIRCINRQRFAEEMQILREIF
+FT                   NSGWQHNWGFVPFTEHEFATMGDQLKYLVPDDMIYIAEIDSAPCAFIVGLPNINEAIAD
+FT                   LNGSLFPFGWAKLLWRLKVSGVRTARVPLMGVRDEYQFSRIGPVIALLLIEALRDPFAR
+FT                   RKIDALEMSWILETNTGMNNMLERIGAEPYKRYRLYEKQI"
+FT   CDS             join(3396139..3397872)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_3262"
+FT                   /product="predicted acyl-CoA synthase"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3262"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10810"
+FT                   /db_xref="GOA:B7UIM8"
+FT                   /db_xref="InterPro:IPR000873"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UIM8"
+FT                   /protein_id="CAS10810.1"
+FT                   /translation="MVYMSNKIFTHSLPMRYADFPTLVDALDYAALSSAGMNFYDRRCQ
+FT                   LEDQLEYQTLKARAEAGAKRLLSLNLKKGDRVALIAETSSGFVEAFFSCQYAGLVAVPL
+FT                   AIPMGVGQRDSWSAKLQGLLASCQPAAIITGDEWLPLVNAATHNNNPELHVLSHAWFKA
+FT                   LPEADVALQRPVPNDIAYLQYTSGSTRFPRGVIITHHEVMANLRAISHDGIKLRPGDRC
+FT                   VSWLPFYHDMGLVGFLLTPVATQLSVDYLRTQDFAMRPLQWLKLISKNRGTVSVAPPFG
+FT                   YELCQRRVNEKDLAELDLSCWRVAGIGAEPISAEQLHQFAECFRQVNFDDKTFMPCYGL
+FT                   AENALAVSFSDEACGVVVNEVDRDILEYQGKAVAPGAETRAVSTFVNCGKALPEHGIEI
+FT                   RNEADIPVAERVVGHICISGPSLMSGYFGDQVSQDEIAATGWLDTGDLGYLLDGYLYVT
+FT                   GRIKDLIIIRGRNIWPQDIEYIAEQEPEIHSGDAIAFVTAQEKIILQIQCRISDEERRG
+FT                   QLIHALAARIQSEFGVTADIDLLPPHSIPRTSSGKPARAEAKKRYQKAYAASLHVQESL
+FT                   A"
+FT   CDS             join(3397869..3398783)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_3263"
+FT                   /product="predicted protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3263"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10811"
+FT                   /db_xref="GOA:B7UIM9"
+FT                   /db_xref="InterPro:IPR001509"
+FT                   /db_xref="InterPro:IPR016040"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UIM9"
+FT                   /protein_id="CAS10811.1"
+FT                   /translation="MNQTVAVTGATGFIGKYIIDNLLARGFHVRALTRTARAHVNDNLI
+FT                   WVRGSLEDTHSLSELVAGASAVVHCAGQVRGHKEEIFTRCNVDGSLRLMQAAKESGFCQ
+FT                   RFLFISSLAARHPELSWYANSKHVAEQRLIAMADEITLGIFRPTAVYGPGDKELKPLFD
+FT                   WMLRGLLPRLGAPDTQLSFLHVTDFAQAVGQWLNAETVQTQTYELCDGVAGGYDWQRVR
+FT                   QLAAEARCGSVRMVGIPLPLLTCLADISTALSRLAGKEPMLTRSKIRELTHADWSANNN
+FT                   RISEDINWFPGISLEHALRNGLF"
+FT   CDS             join(3398815..3399063)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_3264"
+FT                   /product="predicted acyl carrier protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3264"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10812"
+FT                   /db_xref="InterPro:IPR006162"
+FT                   /db_xref="InterPro:IPR009081"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UIN0"
+FT                   /protein_id="CAS10812.1"
+FT                   /translation="MVNREIVMDYILSCLQDLVENGVEIKPDSDLVNDLGLESIKVMDL
+FT                   LMMLEDRFDISIPINILLDVKTPAQLMETLLPWLENK"
+FT   CDS             join(3399063..3400235)
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_3265"
+FT                   /product="predicted aminotransferase"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3265"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10813"
+FT                   /db_xref="GOA:B7UIN1"
+FT                   /db_xref="InterPro:IPR001917"
+FT                   /db_xref="InterPro:IPR004839"
+FT                   /db_xref="InterPro:IPR015421"
+FT                   /db_xref="InterPro:IPR015422"
+FT                   /db_xref="InterPro:IPR015424"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UIN1"
+FT                   /protein_id="CAS10813.1"
+FT                   /translation="MGLYDKYARLAGERLQFSDNGLTPFGTCIDEVYSATEGRIGNKKV
+FT                   ILAGTNNYLGLTFNHDAIREGQAALAAQGTGTTGSRMANGSYAPHLALEKEIAEFFNRP
+FT                   TAIVFSTGYTANLGVISALADHNAVVLLDADSHASIYDACSLGGAEIIRFRHNDVNDLE
+FT                   RRMVRLGERAKEAIIIVEGIYSMLGDVAPLAEIVDIKRRLGGYLIVDEAHSFGVLGVTG
+FT                   RGLVEAVGVEDDVDIIVGTFSKSLASIGGFAVGSEAMEVLRYGSRPYIFTASPSPSCIA
+FT                   TVRSSLRTIATQPELRQKLMDNANHLYDGLQKLGYELSSHISPVVPVIIGSKEEGLRIW
+FT                   RELISLGVYVNLILPPAAPAGITLLRCSVNAAHSREQIDAIIQAFATLKQ"
+FT   CDS             complement(join(3400270..3401349))
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_3266"
+FT                   /product="predicted permease"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3266"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10814"
+FT                   /db_xref="GOA:B7UIN2"
+FT                   /db_xref="InterPro:IPR005495"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UIN2"
+FT                   /protein_id="CAS10814.1"
+FT                   /translation="MNVFSRYLIRHLFLGFAAAAGLLLPLFTTFNLINELDDVSPGGYR
+FT                   WTQAVLVVLMTLPRTLVELSPFIALLGGIVGLGQLSKNSELTAIRSTGFSIFRIALVAL
+FT                   VAGILWTVSLGAIDEWVASPLQQQALQIKSTATALGEDDDITGNMLWARRGNEFVTVKS
+FT                   LNEQGQPVDVEIFHYRDDLSLESYIYARSATIEDDKTWILHGVNHKKWLNGKETQETSD
+FT                   YLAWQSTFTSMNLEELSMPGNTFSVRQLNHYIHYLQETGQPSSEYRLALWEKLGQPILT
+FT                   LAMILLAVPFTFSAPRSPRMGSRLAVGVIVGLLTWISYQIMVNLGLLFALSAPVTALGL
+FT                   PVAFVLVALSLVYWHDRQH"
+FT   CDS             complement(join(3401346..3402416))
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_3267"
+FT                   /product="predicted permease"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3267"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10815"
+FT                   /db_xref="GOA:B7UIN3"
+FT                   /db_xref="InterPro:IPR005495"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UIN3"
+FT                   /protein_id="CAS10815.1"
+FT                   /translation="MKLVEHYIMRGTRRLVLIIVGFLIFIFASYSAQRYLTEAANGTLA
+FT                   LDVVLDIVFYKVLIALEMLLPVGLYVSVGVTLGQMYTDSEITAISAAGGSPGRLYKAVL
+FT                   YLAIPLSIFVTLLSMYGRPWAYAQIYQLEQQSQSELDVRQLRAKQFNTNDNGRMILSQT
+FT                   VDQDNNRLTDALIYTSTANRTRIFRARSVDVVDPSPEKPTVMLHNGTAYLLDHQGRDDN
+FT                   EQIYRNLQLHLNPLDQSPNVKRKAKSVTELARSAFPADHAELQWRQSRGLTALLMALLA
+FT                   ISLSRVKPRQGRFSTLLPLTLLFVAIFYGGDVCRTLVANGAIPLIPGLWLVPGLMLMGL
+FT                   LMLVARDFSLLQKFSR"
+FT   CDS             complement(join(3402446..3403006))
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_3268"
+FT                   /product="predicted transcriptional regulator"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3268"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10816"
+FT                   /db_xref="InterPro:IPR006513"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UIN4"
+FT                   /protein_id="CAS10816.1"
+FT                   /translation="MSSRLIIALIIMLLAPGVQAHNFVTGKTVTPVYIQEGGELLRNSD
+FT                   DEIHYQKWNSTQLAGKVRIIQYIAGRKSAKKKNSLLIKAVEAANFPQDRFQPTTIVNTD
+FT                   DAIFGTGYFVVGKIEKNKRRYPWAQFVIDGNGQGRVAWHLQEQSSTILVLNKTGQIQWA
+FT                   KDGSLTPEEVDHVIALAQKLINE"
+FT   CDS             complement(join(3403018..3403842))
+FT                   /transl_table=11
+FT                   /locus_tag="E2348C_3269"
+FT                   /product="predicted protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3269"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10817"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UIN5"
+FT                   /protein_id="CAS10817.1"
+FT                   /translation="MMRKYFPLEASERLFVAIEEDDVVDAQVSLPPTIALSCTTEIIHD
+FT                   NYALCLKFWLDGVNRQELLRLIRKQAKGDELTTDERKQFKYMRARYKHLRFAQRLYLKK
+FT                   HQAGFLFGKTTVFLGHFQDGFRNGKKNIVSFYGNLLRVYLSSPVWWLVNYSLRHSQLET
+FT                   VNGFIAYRQKQMYILKEIIAKPQLTGREFHDVRKIISQQVSYYDTLRSLDPENKEALQI
+FT                   SRFLAAINGLMGDKHDDMVADDMENRQSYDAPMALDSDIRQRLELLISRFPL"
+FT   CDS             complement(join(3403842..3405191))
+FT                   /transl_table=11
+FT                   /gene="yghQ"
+FT                   /locus_tag="E2348C_3270"
+FT                   /product="predicted inner membrane protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3270"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10818"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UIN6"
+FT                   /protein_id="CAS10818.1"
+FT                   /translation="MAGLNIKHWFADGAFRTIIRNSAWLGSSNVVSALLGLLALSCAGK
+FT                   GMTPAMFGVLVIVQSYAKSISDFIKFQTWQLVVQYGTPALTNNNPQQFRNVVSFSFSLD
+FT                   IVSGAVAIVGGIALLPFLSHSLGLDDQSFWLAALYCTLIPSMASSTPTGILRAVDRFDL
+FT                   IAVQQATKPFLRAAGSVVAWYFDFGFAGFVIAWYVSNLVGGTMYWWFAARELRRRNIHN
+FT                   AFKLNLFESARHIKGAWSFVWSTNIAHSIWSARNSCSTVLVGIVLGPAAVGLFKIAMTF
+FT                   FDAAGTPAGLLGKSFYPEVMRLDPRTTRPWLLGVKSGLLAGGIGILVALAVLIVGKPLI
+FT                   SLVFGVKYLEAYDLIQVMLGAIVISMLGFPQESLLLMAGKQRAFLVAQTIASIGYIVLL
+FT                   FMFCHLFGVLGAAFAYFGGQCLDVVLSLIPTLKAFFQRHSLLYNSTGEKS"
+FT   CDS             complement(join(3405237..3405995))
+FT                   /transl_table=11
+FT                   /gene="yghR"
+FT                   /locus_tag="E2348C_3271"
+FT                   /product="conserved predicted protein with nucleoside
+FT                   triphosphate hydrolase domain"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3271"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10819"
+FT                   /db_xref="InterPro:IPR027417"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UIN7"
+FT                   /protein_id="CAS10819.1"
+FT                   /translation="MDALQTQTVKSTTAPQPNYIPGLIAVVGCDGTGKSTLTTDLVKSL
+FT                   QQHWQTERRYLGLLSGEDGDKIKRLPLVGVWLERRLAAKSSKTQSMKTKSPALWAAVIM
+FT                   YCFSLRRMANLRKVQRLAQSGVLVVSDRFPQAEISGFYYDGPGIGVERATGKISMFLAQ
+FT                   RERRLYQQMAQYRPELIIRLGIDIDTAISRKPDHDYAELQDKIGVMSTIGYNGTKILEI
+FT                   DSRAPYSEVLEQAQKAVSLVAIVSDRRSLT"
+FT   CDS             complement(join(3406027..3406740))
+FT                   /transl_table=11
+FT                   /gene="yghS"
+FT                   /locus_tag="E2348C_3272"
+FT                   /product="conserved predicted protein with nucleoside
+FT                   triphosphate hydrolase domain"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3272"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10820"
+FT                   /db_xref="InterPro:IPR027417"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UIN8"
+FT                   /protein_id="CAS10820.1"
+FT                   /translation="MNQRNMSIINSTPVRVIAIVGCDGSGKSTLTASLVNELASRMPTE
+FT                   HIYLGQSSGRIGEWISQLPVIGAPFGRYLRSKAAHVHEKPLTPPGNITALVIYLLSCWR
+FT                   AYKFRKMLCKSQQGYLLITDRYPQVEVPGFRFDGPQLAKTTGGNGWIKMLRQRELKLYQ
+FT                   WMASYLPVLLIRLGIDEQTAFARKPDHQLAALQEKIAVTPQLTFNGAKILELDGRQPAD
+FT                   EILQASLRAIHAALS"
+FT   CDS             join(3406915..3407607)
+FT                   /transl_table=11
+FT                   /gene="yghT"
+FT                   /locus_tag="E2348C_3273"
+FT                   /product="conserved predicted protein with nucleoside
+FT                   triphosphate hydrolase domain"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3273"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10821"
+FT                   /db_xref="InterPro:IPR027417"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UIN9"
+FT                   /protein_id="CAS10821.1"
+FT                   /translation="MQSIIPPLIAVIGSDGSGKSTVCEHLITVVEKYGAAERVHLGKQA
+FT                   GNVGRAVTKLPLMGKSLHKTIERNQVKIAKKLPGPVPALVITAFVARRLLRFRHMLACR
+FT                   RRGLIVLTDRYPQEQIPGAYDGTVFPPNVEGGRFVSWLASQERKAFHWMASHKPDLVIK
+FT                   LNVDLDVACARKPDHKRESLERKIAITPQLTFGGAQLVDIDANQPLEQVLVDAEKAITD
+FT                   FMTARGYH"
+FT   CDS             complement(join(3407656..3409155))
+FT                   /transl_table=11
+FT                   /gene="pitB"
+FT                   /locus_tag="E2348C_3274"
+FT                   /product="phosphate transporter"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3274"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10822"
+FT                   /db_xref="GOA:B7UIP0"
+FT                   /db_xref="InterPro:IPR001204"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UIP0"
+FT                   /protein_id="CAS10822.1"
+FT                   /translation="MLNLFVGLDIYTGLLLLLALAFVLFYEAINGFHDTANAVATVIYT
+FT                   RAMQPQLAVVMAAFFNFFGVLLGGLSVAYAIVHMLPTDLLLNMGSTHGLAMVFSMLLAA
+FT                   IIWNLGTWFFGLPASSSHTLIGAIIGIGLTNALLNGSSVMDALNLREVTKIFSSLIVSP
+FT                   IVGLVIAGGLIFLLRRYWSGTKKRDRIHRIPEDRQKKKGKRKPPFWTRIALIVSAAGVA
+FT                   FSHGANDGQKGIGLVMLVLVGIAPAGFVVNMNASGYEITRTRDAVTNFEHYLQQHPELP
+FT                   QKLITMEPPLPATSTDGTQVTEFHCHPANTFDAIARVKTMLPGNMESYEPLSVSQRSQL
+FT                   RRIMLCISDTSAKLAKLPGVSKEDQNLLKKLRSDMLSTIEYAPVWIIMAVALALGIGTM
+FT                   IGWRRVAMTIGEKIGKRGMTYAQGMAAQMTAAVSIGLASYIGMPVSTTHVLSSAVAGTM
+FT                   VVDGGGLQRKTVTSILMAWVFTLPAAIFLSGGLYWIALQLI"
+FT   CDS             complement(join(3409446..3411305))
+FT                   /transl_table=11
+FT                   /gene="gsp"
+FT                   /locus_tag="E2348C_3275"
+FT                   /product="fused glutathionylspermidine
+FT                   amidase/glutathionylspermidine synthetase"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3275"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10823"
+FT                   /db_xref="InterPro:IPR005494"
+FT                   /db_xref="InterPro:IPR007921"
+FT                   /db_xref="InterPro:IPR016185"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UIP1"
+FT                   /protein_id="CAS10823.1"
+FT                   /translation="MSKGTTSQDAPFGTLLGYAPGGVAIYSSDYSSLDPQEYEDDAVFR
+FT                   SYIDDEYMGHKWQCVEFARRFLFLNYGVVFTDVGMAWEIFSLRFLREVVNDNILPLQAF
+FT                   PNGSPRAPVAGALLIWDKGGEFKDTGHVAIITQLHGNKVRIAEQNVIHSPLPQGQQWTR
+FT                   ELEMVVENGCYTLKDTFDDTTILGWMIQTEDTEYSLPQPEIAGELLKISGARLENKGQF
+FT                   DGKWLDEKDPLQNAYVQANGQVINQDPYHYYTITESAEQELIKATNELHLMYLHATDKV
+FT                   LKDDNLLALFDIPKILWPRLRLSWQRRRHHMITGRMDFCMDERGLKVYEYNADSASCHT
+FT                   EAGLILERWAEQGYKGNGFNPAEGLINELAGAWKHSRARPFVHIMQDKDIEENYHAQFM
+FT                   EQALHQAGFETRILRGLDELGWDAAGQLIDGEGRLVNCVWKTWAWETAFDQIREVSDRE
+FT                   FAAVPIRTGHPQNEVRLIDVLLRPEVLVFEPLWTVIPGNKAILPILWSLFPHHRYLLDT
+FT                   DFTVNDELVKTGYAVKPIAGRCGSNIDLVSHHEEVLDKTSGKFAEQKNIYQQLWCLPKV
+FT                   DGKYIQVCTFTVGGNYGGTCLRGDESLVIKKESDIEPLIVVKE"
+FT   CDS             join(3411510..3412376)
+FT                   /transl_table=11
+FT                   /gene="yghU"
+FT                   /locus_tag="E2348C_3276"
+FT                   /product="predicted S-transferase"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3276"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10824"
+FT                   /db_xref="GOA:B7UIP2"
+FT                   /db_xref="InterPro:IPR004045"
+FT                   /db_xref="InterPro:IPR010987"
+FT                   /db_xref="InterPro:IPR012336"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UIP2"
+FT                   /protein_id="CAS10824.1"
+FT                   /translation="MTDNTYQPAKVWTWDKSAGGAFASINRPISGPTHEKTLPVGKHPL
+FT                   QLYSLGTPNGQKVTIMLEELLALGVTGAEYDAWLIRIGDGDQFSSGFVEVNPNSKIPAL
+FT                   RDHTHNPPIRVFESGSILLYLAEKFGYFLPQDLAKRTETMSWLFWLQGAAPFLGGGFGH
+FT                   FYHYAPVKIEYAINRFTMEAKRLLDVLDKQLAQHKFVAGDEYTIADMAIWPWFGNVVLG
+FT                   GVYDAAEFLDAGSYKHVQRWAKEVGERPAVKRGRIVNRINGPLNEQLHERHDASDFETN
+FT                   TEDKRQG"
+FT   CDS             complement(join(3412518..3412766))
+FT                   /transl_table=11
+FT                   /gene="hybG"
+FT                   /locus_tag="E2348C_3277"
+FT                   /product="hydrogenase 2 accessory protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3277"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10825"
+FT                   /db_xref="InterPro:IPR001109"
+FT                   /db_xref="InterPro:IPR019812"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UIP3"
+FT                   /protein_id="CAS10825.1"
+FT                   /translation="MCIGVPGQVLAVGEDIHQLAQVEVCGIKRDVNIALICEGNPADLL
+FT                   GQWVLVHVGFAMSIIDEDEAKATLDALRQMDYDITSA"
+FT   CDS             complement(join(3412779..3413120))
+FT                   /transl_table=11
+FT                   /gene="hybF"
+FT                   /locus_tag="E2348C_3278"
+FT                   /product="protein involved with the maturation of
+FT                   hydrogenases 1 and 2"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3278"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10826"
+FT                   /db_xref="GOA:B7UIP4"
+FT                   /db_xref="InterPro:IPR000688"
+FT                   /db_xref="InterPro:IPR020538"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UIP4"
+FT                   /protein_id="CAS10826.1"
+FT                   /translation="MHELSLCQSAVEIIQRQAEQHDVKRVTAVWLEIGALSCVEESAVR
+FT                   FSFEIVCHGTVAQGCDLHIVYKPAQAWCWDCSQVVEIHQHDAQCPICHGERLRVDTGDS
+FT                   LIVKSIEVE"
+FT   CDS             complement(join(3413113..3413601))
+FT                   /transl_table=11
+FT                   /gene="hybE"
+FT                   /locus_tag="E2348C_3279"
+FT                   /product="hydrogenase 2-specific chaperone HybE"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3279"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10827"
+FT                   /db_xref="InterPro:IPR023994"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UIP5"
+FT                   /protein_id="CAS10827.1"
+FT                   /translation="MTEEIAGFQTSPKAQVQVAFEEIARRSMHDLSFLHPSMPVYVSDF
+FT                   TLFEGQWTGCVITPWMLSAVIFPGPDQLWPLRKVSEKIGLQLPYGTMTFTVGELDGVSQ
+FT                   YLSCSLMSPLSHSMSIEEGQRLTDDCARMILSLPVTNPDVPHAGRRALLFGRRSGENA"
+FT   CDS             complement(join(3413594..3414088))
+FT                   /transl_table=11
+FT                   /gene="hybD"
+FT                   /locus_tag="E2348C_3280"
+FT                   /product="predicted maturation element for hydrogenase 2"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3280"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10828"
+FT                   /db_xref="GOA:B7UIP6"
+FT                   /db_xref="InterPro:IPR000671"
+FT                   /db_xref="InterPro:IPR004419"
+FT                   /db_xref="InterPro:IPR023430"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UIP6"
+FT                   /protein_id="CAS10828.1"
+FT                   /translation="MRILVLGIGNILLTDEAIGVRIVEALEQRYILPDYVEILDGGTAG
+FT                   MELLGDMANRDHLIIADAIVSKKNAPGTMMILRDEEVPALFTNKISPHQLGLADVLSAL
+FT                   RFTGEFPKKLTLVGVIPESLEPHIGLTPTVEAMIEPALEQVLAALRESGVEAIPREATH
+FT                   D"
+FT   CDS             complement(join(3414088..3415791))
+FT                   /transl_table=11
+FT                   /gene="hybC"
+FT                   /locus_tag="E2348C_3281"
+FT                   /product="hydrogenase 2, large subunit"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3281"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10829"
+FT                   /db_xref="GOA:B7UIP7"
+FT                   /db_xref="InterPro:IPR001501"
+FT                   /db_xref="InterPro:IPR018194"
+FT                   /db_xref="InterPro:IPR029014"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UIP7"
+FT                   /protein_id="CAS10829.1"
+FT                   /translation="MSQRITIDPVTRIEGHLRIDCEIENGVVSKAWASGTMWRGMEEIV
+FT                   KNRDPRDAWMIVQRICGVCTTTHALSSVRAAESALNIDVPVNAQYIRNIILAAHTTHDH
+FT                   IVHFYQLSALDWVDITSALQADPTKASEMLKGVSTWHLNSPEEFTKVQNKIKDLVASGQ
+FT                   LGIFANGYWGHPAMKLPPEVNLIAVAHYLQALECQRDANRVVALLGGKTPHIQNLAVGG
+FT                   VANPINLDGLGVLNLERLMYIKSFIDKLSDFVEQVYKVDTAVIAAFYPEWLTRGKGAVN
+FT                   YLSVPEFPTDSKNGSFLFPGGYIENADLSSYRPITSHSDEYLIKGIQESAKHSWYKDEA
+FT                   PQAPWEGTTIPAYDGWSDDGKYSWVKSPTFYGKTVEVGPLANMLVKLAAGRESTQNKLN
+FT                   EIVAIYQKLTGNTLEVAQLHSTLGRIIGRTVHCCELQDILQNQYSALITNIGKGDHTTF
+FT                   VKPNIPATGEFKGVGFLEAPRGMLSHWMVIKDGIISNYQAVVPSTWNSGPRNFNDDVGP
+FT                   YEQSLVGTPVADPNKPLEVVRTIHSFDPCMACAVHVVDADGNEVVSVKVL"
+FT   CDS             complement(join(3415788..3416966))
+FT                   /transl_table=11
+FT                   /gene="hybB"
+FT                   /locus_tag="E2348C_3282"
+FT                   /product="predicted hydrogenase 2 cytochrome b type
+FT                   component"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3282"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10830"
+FT                   /db_xref="InterPro:IPR005614"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UIP8"
+FT                   /protein_id="CAS10830.1"
+FT                   /translation="MSHDPQPLGGKIISKPVMIFGPLIVICMLLIVKRLVFGLGSVSDL
+FT                   NGGFPWGVWIAFDLLIGTGFACGGWALAWAVYVFNRGQYHPLVRPALLASLFGYSLGGL
+FT                   SITIDVGRYWNLPYFYIPGHFNVNSVLFETAVCMTIYIGVMALEFAPALFERLGWKLSL
+FT                   KRLNKVMFFIIALGALLPTMHQSSMGSLMISAGYKVHPLWQSYEMLPLFSLLTAFIMGF
+FT                   SIVIFEGSLVQAGLRGNGPDEKSLFVKLTNTISVLLAIFIVLRFGELIYRDKLSLAFAG
+FT                   DFYSVMFWIEVLLMLFPLVVLRVAKLRNDSRMLFLSALSALLGCATWRLTYSLVAFNPG
+FT                   GGYAYFPTWEELLISIGFVAIEICAYIVLIRLLPILPPLKQNDHNRHEASKA"
+FT   CDS             complement(join(3416956..3417942))
+FT                   /transl_table=11
+FT                   /gene="hybA"
+FT                   /locus_tag="E2348C_3283"
+FT                   /product="hydrogenase 2 4Fe-4S ferredoxin-type component"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3283"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10831"
+FT                   /db_xref="GOA:B7UIP9"
+FT                   /db_xref="InterPro:IPR017896"
+FT                   /db_xref="InterPro:IPR017900"
+FT                   /db_xref="InterPro:IPR019546"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UIP9"
+FT                   /protein_id="CAS10831.1"
+FT                   /translation="MNRRNFIKAASCGALLTGALPSVSHAAAENRPPIPGSLGMLYDST
+FT                   LCVGCQACVTKCQDINFPERNPQGEQTWSNNDKLSPYTNNIIQVWTSGTGVNKDQEENG
+FT                   YAYIKKQCMHCVDPNCVSVCPVSALKKDPKTGIVHYDKDVCTGCRYCMVACPYNVPKYD
+FT                   YNNPFGALHKCELCNQKGVERLDKGGLPGCVEVCPAGAVIFGTREELMAEAKKRLALKP
+FT                   GSEYHYPRQTLKSGDTYLHTVPKYYPHLYGEKEGGGTQVLVLTGVPYENLDLPKLDDLS
+FT                   TGARSEHVQHTLYKGMMLPLAVLAGLTVLVRRNTKNDHHDGGDDHES"
+FT   CDS             complement(join(3417945..3419063))
+FT                   /transl_table=11
+FT                   /gene="hybO"
+FT                   /locus_tag="E2348C_3284"
+FT                   /product="hydrogenase 2, small subunit"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3284"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10832"
+FT                   /db_xref="GOA:B7UIQ0"
+FT                   /db_xref="InterPro:IPR001821"
+FT                   /db_xref="InterPro:IPR006137"
+FT                   /db_xref="InterPro:IPR006311"
+FT                   /db_xref="InterPro:IPR019546"
+FT                   /db_xref="InterPro:IPR027394"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UIQ0"
+FT                   /protein_id="CAS10832.1"
+FT                   /translation="MTGDNTLIHSHGINRRDFMKLCAALAATMGLSSKAAAEMAESVTN
+FT                   PQRPPVIWIGAQECTGCTESLLRATHPTVENLVLETISLEYHEVLSAAFGHQVEENKHN
+FT                   ALEKYKGQYVLVVDGSIPLKDNGIYCMVAGEPIVDHIRKAAEGAAAIIAIGSCSAWGGV
+FT                   AAAGVNPTGAVSLQEVLPGKTVINIPGCPPNPHNFLATVAHIITYGKPPKLDDKNRPTF
+FT                   AYGRLIHEHCERRPHFDAGRFAKEFGDEGHREGWCLYHLGCKGPETYGNCSTLQFCDVG
+FT                   GVWPVAIGHPCYGCNEEGIGFHKDIHQLANVENQTPRSQKPDVNAKEGGNVSAGAIGLL
+FT                   GGVVGLVAGVSVMAVRELGRQQKKDNADSRGE"
+FT   CDS             complement(join(3419252..3419539))
+FT                   /transl_table=11
+FT                   /gene="yghW"
+FT                   /locus_tag="E2348C_3285"
+FT                   /product="predicted protein"
+FT                   /db_xref="EnsemblGenomes-Gn:E2348C_3285"
+FT                   /db_xref="EnsemblGenomes-Tr:CAS10833"
+FT                   /db_xref="InterPro:IPR022574"
+FT                   /db_xref="UniProtKB/TrEMBL:B7UIQ1"
+FT                   /protein_id="CAS10833.1"
+FT                   /translation="MNNHFGKGLMAGLKATHADSAVNVTKFCADYKRGFVLGYSHRMYE
+FT                   KTGDRQLSAWEAGILTRRYGLDKEMVMDFFRENNSCSTLRFFMAGYRLEN"

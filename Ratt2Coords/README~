@@ -1,0 +1,25 @@
+## This program use RATT. Cite this reference if you want to use Ratt2Coords.
+
+## RATT: Rapid Annotation Transfer Tool
+## Otto T Dillon G Degrave W Berriman M 
+## Nucleic Acids Research
+##   2011 vol: 39 (9) pp: 1-7 
+
+
+## For use Ratt2Coords: Write in Linux Shell...
+## bash Ratt2Coords.sh -r "Name_of_reference".embl -i "Name_of_sequence".fna -m Assembly
+
+
+## THIS IS A BETA VERSION
+## It can't run if you don't have NUCmer locally installed.
+## Next version will incorporate NUCmer in the file. 
+
+
+## 21.6.2016
+## ReadCoords003.py was written by
+## Fernando Pozo Ocampo
+## Juan Jiménez Sánchez
+## National Centre for Biotechnology
+## Madrid
+
+

@@ -1,0 +1,562 @@
+
+Gene_ID	error	StartBad	StopBad	frameshifts	splicesites	length	product	errorStill	StartStillBad	StopStillBad	frameshiftsStill	JoinExons	PossiblePseudo	CorrectionLog	
+E2348C_0005	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0021	1	1	0	0	0	0	sodium-proton antiporter"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0023	1	1	0	0	0	0	30S ribosomal subunit protein S20"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0032	1	1	0	0	0	0	carbamoyl phosphate synthetase small subunit,	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0036	1	1	0	0	0	0	predicted acyl transferase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0061	1	1	0	0	0	0	DNA polymerase II"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0074	1	1	0	0	0	0	thiamin transporter subunit TbpA"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0085	1	1	0	0	0	0	DNA-binding transcriptional dual regulator"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0090	1	1	0	0	0	0	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate:	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0102	1	1	0	0	0	0	regulator of SecA translation"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0121	1	1	0	0	0	0	bifunctional aconitate hydratase	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0123	1	1	0	0	0	0	S-adenosylmethionine decarboxylase"	1	1	0	0	0	0	0	
+E2348C_0136	1	1	0	0	0	0	pantothenate synthetase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0138	1	0	0	12	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_0140	3	0	1	2	0	1	Not Set	0	0	0	0	0	0	 // Corrected Stop	
+E2348C_0141	1	0	0	1	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_0142	1	1	0	0	0	0	predicted outer membrane usher protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0143	1	0	0	18	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_0146	1	1	0	0	0	0	poly(A) polymerase I"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0151	1	1	0	0	0	0	predicted ATP-dependent helicase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0154	1	0	0	15	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_0160	1	1	0	0	0	0	fused iron-hydroxamate transporter subunits of	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0177	1	1	0	0	0	0	ribosome recycling factor"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0179	1	1	0	0	0	0	undecaprenyl pyrophosphate synthase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0180	1	1	0	0	0	0	CDP-diglyceride synthase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0183	1	1	0	0	0	0	periplasmic chaperone"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0185	1	1	0	0	0	0	(3R)-hydroxymyristol acyl carrier protein	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0186	1	1	0	0	0	0	UDP-N-acetylglucosamine acetyltransferase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0195	1	1	0	0	0	0	predicted protein"	1	1	0	0	0	0	0	
+E2348C_0206	1	1	0	0	0	0	D,D-heptose 1,7-bisphosphate phosphatase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0209	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0216	1	1	0	0	0	0	predicted C-N hydrolase family amidase,	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0224	1	0	0	1	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_0225	1	1	0	0	0	0	flagellar system protein MbhA"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0230	1	1	0	0	0	0	aminoacyl-histidine dipeptidase (peptidase D)"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0238	1	1	0	0	0	0	transposase Orf1 of IS3 family IS element"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0239	3	1	1	3	0	0	Not Set	1	1	0	2	0	0	 // Modell shifted 2 base(s) // Corrected Stop	
+E2348C_0241	2	1	1	0	0	0	Not Set	0	0	0	0	0	0	 // Modell shifted 1 base(s) // Corrected Start // Corrected Stop	
+E2348C_0242	3	1	1	1	0	0	Not Set	0	0	0	0	0	0	 // Modell shifted 2 base(s) // Corrected Start // Corrected Stop	
+E2348C_0250	1	1	0	0	0	0	predicted regulator"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0252	3	0	1	4	0	1	Not Set	0	0	0	0	0	0	 // Corrected Stop	
+E2348C_0263	1	1	0	0	0	0	predicted reductase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0268	1	1	0	0	0	0	predicted oxidoreductase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0273	1	1	0	0	0	0	choline dehydrogenase, flavoprotein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0281	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0287	1	0	0	26	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_0295	1	1	0	0	0	0	cytosine transporter"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0296	1	1	0	0	0	0	cytosine deaminase CodA"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0300	1	1	0	0	0	0	DNA-binding transcriptional repressor"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0310	1	0	0	70	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_0312	1	1	0	0	0	0	beta-lactamase/D-alanine carboxypeptidase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0314	1	0	0	8	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_0319	1	1	0	0	0	0	bacterial alkaline phosphatase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0328	1	1	0	0	0	0	predicted protein"	1	1	0	0	0	0	0	
+E2348C_0330	1	1	0	0	0	0	manno (fructo) kinase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0335	1	1	0	0	0	0	sensory histidine kinase in two-component	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0343	1	1	0	0	0	0	SecYEG protein translocase auxillary subunit	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0344	1	1	0	0	0	0	SecYEG protein translocase auxillary subunit	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0349	1	1	0	0	0	0	fused diaminohydroxyphosphoribosylaminopyrimidine	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0351	1	1	0	0	0	0	transcription antitermination protein NusB"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0375	1	1	0	0	0	0	HU, DNA-binding transcriptional regulator, beta	1	1	0	0	0	0	0	
+E2348C_0383	1	1	0	0	0	0	fused predicted multidrug transporter subunits of	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0392	1	1	0	0	0	0	conserved inner membrane protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0394	1	0	0	7	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_0402	1	1	0	0	0	0	primosomal replication protein N''"	1	1	0	0	0	0	0	
+E2348C_0423	2	1	0	5	0	0	Not Set	1	1	0	0	0	0	0	
+E2348C_0457	1	1	0	0	0	0	UDP-2,3-diacylglucosamine pyrophosphatase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0463	2	1	0	12	0	0	Not Set	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0464	2	1	1	0	0	0	Not Set	0	0	0	0	0	0	 // Corrected Start // Corrected Stop	
+E2348C_0469	1	1	0	0	0	0	bacteriophage N4 receptor, inner membrane subunit	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0476	1	1	0	0	0	0	phenylalanine transporter"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0489	1	0	0	1	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_0494	1	1	0	0	0	0	iron-enterobactin transporter subunit"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0525	1	1	0	0	0	0	predicted inner membrane protein associated with	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0529	2	1	1	0	0	0	Not Set	0	0	0	0	0	0	 // Corrected Start // Corrected Stop	
+E2348C_0530	1	1	0	0	0	0	lipoyl-protein ligase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0536	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0537	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0541	1	1	0	0	0	0	minor lipoprotein RlpB"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0567	1	1	0	0	0	0	predicted alcohol dehydrogenase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0569	1	1	0	0	0	0	4-hydroxythreonine-4-phosphate dehydrogenase 2"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0583	1	1	0	0	0	0	DNA-binding response regulator in two-component	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0588	1	1	0	0	0	0	potassium ion accessory transporter subunit"	0	0	0	0	0	0	 // No unique shift for model found... MANUAL check // Corrected Start	
+E2348C_0594	1	1	0	0	0	0	predicted carboxylase subunit"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0599	3	1	1	1	0	0	Not Set	0	0	0	0	0	0	 // Corrected Start // Corrected Stop	
+E2348C_0610	1	0	1	0	0	0	Not Set	0	0	0	0	0	0	 // Corrected Stop	
+E2348C_0620	1	1	0	0	0	0	predicted acyl-CoA thioesterase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0621	1	1	0	0	0	0	membrane spanning protein TolQ in TolA-TolQ-TolR	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0623	1	1	0	0	0	0	membrane anchored protein TolA in TolA-TolQ-TolR	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0633	1	1	0	0	0	0	galactose-1-epimerase (mutarotase)"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0649	1	1	0	0	0	0	predicted pectin esterase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0657	1	1	0	0	0	0	predicted protein"	1	1	0	0	0	0	 // No unique shift for model found... MANUAL check	
+E2348C_0658	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0659	1	1	0	0	0	0	predicted protein"	1	1	0	0	0	0	0	
+E2348C_0666	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0671	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0679	1	1	0	0	0	0	NinF"	1	1	0	0	0	0	0	
+E2348C_0680	1	1	0	0	0	0	predicted endonuclease"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0687	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0693	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0695	1	1	0	0	0	0	predicted terminase small subunit"	1	1	0	0	0	0	0	
+E2348C_0699	1	1	0	0	0	0	predicted head protein/prohead protease"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0720	2	0	1	0	0	1	Not Set	0	0	0	0	0	0	 // Corrected Stop	
+E2348C_0730	1	1	0	0	0	0	dethiobiotin synthetase BioD"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0747	1	1	0	0	0	0	predicted membrane fusion protein (MFP) component	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0750	1	1	0	0	0	0	Not Set	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0761	1	1	0	0	0	0	glutamine transporter subunit"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0772	1	1	0	0	0	0	fused predicted transporter subunits of ABC	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0780	1	1	0	0	0	0	fused predicted peptide transport subunits of ABC	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0799	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0815	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0827	1	1	0	0	0	0	predicted tail protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0828	2	1	1	0	0	0	Not Set	0	0	0	0	0	0	 // Corrected Start // Corrected Stop	
+E2348C_0839	1	1	0	0	0	0	predicted tail protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0844	1	1	0	0	0	0	predicted transporter"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0845	1	1	0	0	0	0	predicted inner membrane protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0849	1	1	0	0	0	0	ribosomal protein S6 modification protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0852	1	1	0	0	0	0	putrescine transporter subunit PotG: ATP-binding	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0866	1	1	0	0	0	0	conserved protein with NAD(P)-binding	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0886	1	1	0	0	0	0	DNA-binding membrane protein FtsK required for	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0888	1	1	0	0	0	0	recombination protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0890	1	0	0	1	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_0893	1	1	0	0	0	0	Not Set	0	0	0	0	0	0	 // Modell shifted 2 base(s) // Corrected Start	
+E2348C_0897	1	1	0	0	0	0	formate transporter"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0933	1	1	0	0	0	0	predicted 2Fe-2S cluster-containing protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0941	1	1	0	0	0	0	predicted peptidase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0971	1	1	0	0	0	0	predicted outer membrane lipoprotein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0973	1	1	0	0	0	0	stress protein, member of the CspA-family"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0976	1	1	0	0	0	0	predicted regulator of phosphatidylethanolamine	1	1	0	0	0	0	0	
+E2348C_0978	1	1	0	0	0	0	hybrid sensory histidine kinase in two-component	0	0	0	0	0	0	 // Corrected Start	
+E2348C_0983	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1002	1	1	0	0	0	0	predicted protein"	1	1	0	0	0	0	0	
+E2348C_1006	1	1	0	0	0	0	NinF"	1	1	0	0	0	0	0	
+E2348C_1013	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1031	1	0	0	18	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_1036	3	0	1	45	0	1	Not Set	0	0	0	8	0	0	 // Corrected Stop	
+E2348C_1043	1	1	0	0	0	0	Not Set	1	1	0	0	0	0	0	
+E2348C_1076	1	1	0	0	0	0	Not Set	0	0	0	0	0	0	 // Modell shifted 1 base(s) // Corrected Start	
+E2348C_1078	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1081	1	0	0	18	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_1082	3	0	1	20	0	1	Not Set	0	0	0	7	0	0	 // Corrected Stop	
+E2348C_1083	3	1	1	7	0	0	Not Set	0	0	0	0	0	0	 // Modell shifted 1 base(s) // Corrected Start // Corrected Stop	
+E2348C_1086	1	1	0	0	0	0	transposase Orf2 of IS629"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1087	4	1	1	2	0	1	Not Set	0	0	0	1	0	0	 // Corrected Start // Corrected Stop	
+E2348C_1091	1	1	0	0	0	0	predicted type I site-specific deoxyribonuclease,	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1092	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1104	3	0	1	13	0	1	Not Set	0	0	0	0	0	0	 // Corrected Stop	
+E2348C_1105	1	1	0	0	0	0	transposase Orf2 of IS629"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1107	2	0	1	0	0	1	Not Set	0	0	0	0	0	0	 // Corrected Stop	
+E2348C_1108	1	0	0	6	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_1111	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1118	1	1	0	0	0	0	predicted protein"	1	1	0	0	0	0	0	
+E2348C_1137	1	1	0	0	0	0	predicted hydrolase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1154	1	1	0	0	0	0	glutaredoxin 2 (Grx2)"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1158	1	1	0	0	0	0	predicted oxidoreductase with NAD(P)-binding	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1170	1	1	0	0	0	0	predicted flagellar basal body protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1177	1	1	0	0	0	0	predicted protein"	1	1	0	0	0	0	0	
+E2348C_1187	1	1	0	0	0	0	3-oxoacyl-[acyl-carrier-protein] synthase II"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1195	1	1	0	0	0	0	purine nucleoside phosphoramidase"	1	1	0	0	0	0	0	
+E2348C_1198	1	1	0	0	0	0	thiamin kinase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1199	1	1	0	0	0	0	beta N-acetyl-glucosaminidase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1201	1	1	0	0	0	0	respiratory NADH dehydrogenase 2/cupricreductase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1202	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1205	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1266	1	0	1	0	0	0	polyamine transporter subunit"	0	0	0	0	0	0	 // Corrected Stop	
+E2348C_1273	1	1	0	0	0	0	predicted lysogenization regulator"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1279	1	1	0	0	0	0	predicted DNA-binding transcriptional regulator"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1285	1	1	0	0	0	0	Not Set	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1287	1	0	0	20	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_1289	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1291	1	1	0	0	0	0	coserved predicted protein"	1	1	0	0	0	0	0	
+E2348C_1301	1	1	0	0	0	0	Not Set	1	1	0	0	0	0	0	
+E2348C_1310	1	1	0	0	0	0	predicted cation/proton antiporter"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1312	1	1	0	0	0	0	lytic murein endotransglycosylase E"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1313	1	1	0	0	0	0	protein involved in flagellar function"	1	1	0	0	0	0	0	
+E2348C_1318	1	1	0	0	0	0	predicted ferric enterobactin transport	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1327	1	1	0	0	0	0	peptidyl-tRNA hydrolase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1329	1	1	0	0	0	0	predicted transporter"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1330	1	1	0	0	0	0	phosphoribosylpyrophosphate synthase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1342	1	1	0	0	0	0	regulatory protein for cation transport"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1344	1	1	0	0	0	0	predicted invasin"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1352	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1353	1	1	0	0	0	0	predicted dehydrogenase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1360	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1361	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1366	3	0	1	16	0	1	Not Set	0	0	0	0	0	0	 // Corrected Stop	
+E2348C_1368	1	1	0	0	0	0	predicted inner membrane protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1377	1	1	0	0	0	0	voltage-gated potassium channel"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1378	1	1	0	0	0	0	predicted enzyme"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1396	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1405	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1413	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1414	1	1	0	0	0	0	predicted protein"	1	1	0	0	0	0	0	
+E2348C_1420	1	1	0	0	0	0	predicted terminase small subunit"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1422	1	1	0	0	0	0	predicted head protein/prohead protease"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1433	1	1	0	0	0	0	predicted minor tail protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1446	3	1	1	7	0	0	Not Set	0	0	0	1	0	0	 // Modell shifted 2 base(s) // Corrected Start // Corrected Stop	
+E2348C_1447	1	1	0	0	0	0	Not Set	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1456	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1462	1	1	0	0	0	0	predicted inner membrane peptidase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1471	1	1	0	0	0	0	conserved inner membrane protein"	1	1	0	0	0	0	0	
+E2348C_1478	1	1	0	0	0	0	modulator of Rnase II stability"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1507	1	1	0	0	0	0	predicted oxidoreductase, NADH-binding"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1508	1	0	1	0	0	0	Not Set	0	0	0	0	0	0	 // Corrected Stop	
+E2348C_1530	1	1	0	0	0	0	predicted multidrug resistance efflux pump, HlyD	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1531	1	0	0	18	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_1533	1	0	0	4	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_1534	1	1	0	0	0	0	predicted Zn(II) transporter"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1535	1	1	0	0	0	0	ATP-dependent RNA helicase, specific for 23S	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1546	1	1	0	0	0	0	Not Set	1	1	0	0	0	0	0	
+E2348C_1547	1	1	0	0	0	0	predicted hexapeptide repeat acetyltransferase	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1557	2	1	1	0	0	0	Not Set	0	0	0	0	0	0	 // Corrected Start // Corrected Stop	
+E2348C_1559	2	1	1	0	0	0	Not Set	0	0	0	0	0	0	 // Corrected Start // Corrected Stop	
+E2348C_1561	3	1	1	0	0	1	Not Set	1	1	0	0	0	0	 // Modell shifted 2 base(s) // Corrected Stop	
+E2348C_1563	3	1	1	0	0	1	Not Set	1	1	0	0	0	0	 // Corrected Stop	
+E2348C_1565	1	1	0	0	0	0	Not Set	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1577	1	1	0	0	0	0	predicted peptidase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1590	3	0	1	3	0	1	Not Set	0	0	0	0	0	0	 // Corrected Stop	
+E2348C_1595	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1596	1	0	1	0	0	0	Not Set	0	0	0	0	0	0	 // Corrected Stop	
+E2348C_1597	4	1	1	8	0	1	Not Set	0	0	0	0	0	0	 // Corrected Start // Corrected Stop	
+E2348C_1599	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1608	1	0	0	1	0	0	formate dehydrogenase-N alpha subunit"	0	0	0	0	0	0	0	
+E2348C_1642	1	1	0	0	0	0	altronate oxidoreductase, NAD-dependent"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1645	1	1	0	0	0	0	predicted glutaminase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1650	1	1	0	0	0	0	DNA-binding transcriptional repressor of multiple	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1657	1	1	0	0	0	0	Not Set	0	0	0	0	0	0	 // Modell shifted 2 base(s) // Corrected Start	
+E2348C_1669	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1678	1	1	0	0	0	0	DNA-binding transcriptional repressor"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1680	1	1	0	0	0	0	predicted transporter"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1700	1	0	0	1	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_1704	1	1	0	0	0	0	7-alpha-hydroxysteroid dehydrogenase,	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1719	1	1	0	0	0	0	predicted inner membrane NADH-quinone reductase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1721	1	1	0	0	0	0	predicted transporter"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1729	1	1	0	0	0	0	DNA-binding transcriptional activator"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1730	1	1	0	0	0	0	predicted inner membrane protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1735	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1741	1	1	0	0	0	0	predicted lipoprotein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1750	1	1	0	0	0	0	multidrug efflux system transporter"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1818	1	1	0	0	0	0	predicted holin protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1822	1	1	0	0	0	0	predicted tail protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1824	1	1	0	0	0	0	predicted baseplate assembly protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1828	1	1	0	0	0	0	alternative C-terminus of phage tail fiber	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1830	1	1	0	0	0	0	alternative C-terminus of phage tail fiber	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1834	1	1	0	0	0	0	predicted tail protein"	1	1	0	0	0	0	0	
+E2348C_1847	1	1	0	0	0	0	protein chain initiation factor IF-3"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1849	2	0	1	5	0	0	Not Set	0	0	0	4	0	0	 // Corrected Stop	
+E2348C_1869	1	1	0	0	0	0	endonuclease of nucleotide excision repair"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1886	1	1	0	0	0	0	predicted phosphatidyl transferase, inner	1	1	0	0	0	0	0	
+E2348C_1888	1	1	0	0	0	0	predicted protein"	1	1	0	0	0	0	0	
+E2348C_1897	1	1	0	0	0	0	predicted DNA-binding transcriptional regulator"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1909	1	1	0	0	0	0	scaffolding protein for murein synthesizing	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1921	1	1	0	0	0	0	predicted diguanylate cyclase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1925	1	1	0	0	0	0	neutral amino-acid efflux system"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1926	1	1	0	0	0	0	Not Set	1	1	0	0	0	0	 // No unique shift for model found... MANUAL check	
+E2348C_1927	1	1	0	0	0	0	ribonuclease D"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1928	1	1	0	0	0	0	acyl-CoA synthetase (long chain fatty acid-CoA	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1931	1	1	0	0	0	0	conserved protein with nucleoside triphosphate	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1936	1	1	0	0	0	0	predicted NUDIX hydrolase"	1	1	0	0	0	0	0	
+E2348C_1937	1	1	0	0	0	0	L-serine deaminase I"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1941	1	1	0	0	0	0	fused mannose-specific PTS enzymes: IIA and IIB	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1943	1	1	0	0	0	0	mannose-specific enzyme IID component of PTS"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1950	1	1	0	0	0	0	predicted protein"	1	1	0	0	0	0	0	
+E2348C_1960	1	1	0	0	0	0	predicted methyltransferase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1981	1	1	0	0	0	0	predicted peptidase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_1986	1	1	0	0	0	0	RuvA component of RuvABC resolvasome, regulatory	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2001	1	1	0	0	0	0	arginyl-tRNA synthetase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2004	1	1	0	0	0	0	predicted flagellar export pore protein FlhB"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2011	1	1	0	0	0	0	fused chemotactic sensory histidine kinase in	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2013	1	1	0	0	0	0	proton conductor component MotA of flagella	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2018	1	1	0	0	0	0	trehalose-6-phosphate phosphatase, biosynthetic"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2019	1	1	0	0	0	0	Not Set	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2028	1	1	0	0	0	0	tyrosine transporter"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2031	1	1	0	0	0	0	excinuclease UvrABC, endonuclease subunit"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2032	1	1	0	0	0	0	DNA-binding response regulator UvrY in	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2040	1	1	0	0	0	0	RNA polymerase, sigma 28 (sigma F) factor"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2046	1	0	0	6	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_2069	2	1	0	7	0	0	Not Set	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2076	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2084	1	1	0	0	0	0	conserved metal-binding protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2086	4	1	1	17	0	1	Not Set	0	0	0	1	0	0	 // Modell shifted 2 base(s) // Corrected Start // Corrected Stop	
+E2348C_2090	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2092	3	1	1	0	0	1	Not Set	1	1	0	0	0	0	 // Modell shifted 2 base(s) // Corrected Stop	
+E2348C_2097	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2103	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2104	1	1	0	0	0	0	predicted lipoprotein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2107	1	0	0	1	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_2116	1	1	0	0	0	0	predicted P4-family integrase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2120	1	1	0	0	0	0	predicted multidrug efflux system"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2121	1	1	0	0	0	0	DNA-binding transcriptional activator of cysteine	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2127	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2138	1	1	0	0	0	0	propanediol utilization protein PduK"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2139	1	1	0	0	0	0	predicted propanediol utilization protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2150	1	1	0	0	0	0	conserved inner membrane protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2152	1	1	0	0	0	0	D-alanyl-D-alanine carboxypeptidase	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2157	1	1	0	0	0	0	toxin of the YoeB-YefM toxin-antitoxin system"	1	1	0	0	0	0	0	
+E2348C_2209	1	0	1	0	0	0	Not Set	0	0	0	0	0	0	 // Corrected Stop	
+E2348C_2212	1	1	0	0	0	0	predicted chaperone"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2214	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2219	1	1	0	0	0	0	multidrug efflux system, subunit C"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2225	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2231	1	1	0	0	0	0	D-arabitol repressor"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2232	4	1	1	3	0	1	Not Set	1	1	0	0	0	0	 // Corrected Stop	
+E2348C_2233	1	1	0	0	0	0	Not Set	1	1	0	0	0	0	0	
+E2348C_2234	1	0	0	10	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_2256	2	0	1	12	0	0	Not Set	0	0	0	0	0	0	 // Corrected Stop	
+E2348C_2263	3	0	1	7	0	1	Not Set	0	0	0	6	0	0	 // Corrected Stop	
+E2348C_2277	1	1	0	0	0	0	predicted transporter subunit: membrane component	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2298	1	1	0	0	0	0	conserved inner membrane protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2320	1	1	0	0	0	0	predicted enzyme"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2328	1	1	0	0	0	0	predicted protein"	1	1	0	0	0	0	0	
+E2348C_2329	1	1	0	0	0	0	bicyclomycin/multidrug efflux system"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2336	3	0	1	6	0	1	Not Set	0	0	0	0	0	0	 // Corrected Stop	
+E2348C_2352	1	1	0	0	0	0	ferredoxin-type protein, predicted role in	1	1	0	0	0	0	0	
+E2348C_2371	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2374	1	0	0	24	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_2389	1	1	0	0	0	0	predicted 2,4-dihydroxyhept-2-ene-1,7-dioic acid	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2395	1	1	0	0	0	0	predicted NUDIX hydrolase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2396	1	1	0	0	0	0	predicted protein"	1	1	0	0	0	0	0	
+E2348C_2410	1	1	0	0	0	0	isochorismate synthase 2"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2432	1	1	0	0	0	0	predicted transporter"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2433	1	1	0	0	0	0	predicted hydrolase or phosphatase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2437	1	1	0	0	0	0	phosphate acetyltransferase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2447	1	1	0	0	0	0	histidine/lysine/arginine/ornithine transporter	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2454	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2460	1	1	0	0	0	0	erythronate-4-phosphate dehydrogenase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2464	1	1	0	0	0	0	fused 5-methylaminomethyl-2-thiouridine-forming	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2470	1	1	0	0	0	0	N5-glutamine methyltransferase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2486	1	1	0	0	0	0	predicted integrase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2494	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2495	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2498	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2503	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2515	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2549	1	1	0	0	0	0	predicted protein"	1	1	0	0	0	0	0	
+E2348C_2550	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2558	1	1	0	0	0	0	Not Set	1	1	0	0	0	0	0	
+E2348C_2559	3	0	1	2	0	1	Not Set	0	0	0	0	0	0	 // Corrected Stop	
+E2348C_2561	1	1	0	0	0	0	EmrKY-TolC multidrug resistance efflux pump	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2573	1	1	0	0	0	0	predicted sensory kinase in two-component system	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2574	1	1	0	0	0	0	predicted response regulator in two-component	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2580	1	0	0	1	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_2590	3	0	1	4	0	1	Not Set	0	0	0	0	0	0	 // Corrected Stop	
+E2348C_2605	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2606	1	1	0	0	0	0	cysteine synthase B, O-acetylserine sulfhydrolase	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2628	1	1	0	0	0	0	Not Set	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2642	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2643	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2644	1	1	0	0	0	0	predicted protein"	1	1	0	0	0	0	0	
+E2348C_2647	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2658	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2664	1	1	0	0	0	0	predicted major head subunit protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2667	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2679	1	1	0	0	0	0	predicted tai fiber protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2684	1	1	0	0	0	0	Not Set	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2694	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2703	1	1	0	0	0	0	sensory histidine kinase in two-component	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2705	1	1	0	0	0	0	predicted glycosyl transferase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2716	1	1	0	0	0	0	DNA-binding transcriptional repressor, regulatory	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2721	1	1	0	0	0	0	ATPase regulatory factor involved in DnaA	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2724	1	1	0	0	0	0	phosphoribosylaminoimidazole synthetase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2729	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2760	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2764	1	1	0	0	0	0	predicted protein"	1	1	0	0	0	0	0	
+E2348C_2773	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2781	1	1	0	0	0	0	predicted integrase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2787	1	1	0	0	0	0	intimin-like protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2790	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2792	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2796	1	1	0	0	0	0	predicted protein"	1	1	0	0	0	0	0	
+E2348C_2797	1	1	0	0	0	0	histidyl tRNA synthetase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2820	1	1	0	0	0	0	predicted inner membrane protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2833	1	1	0	0	0	0	predicted sensory kinase in two-component system	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2835	1	1	0	0	0	0	predicted transglycosylase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2836	1	1	0	0	0	0	tRNA-specific adenosine deaminase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2837	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2855	4	1	1	5	0	1	Not Set	0	0	0	0	0	0	 // Corrected Start // Corrected Stop	
+E2348C_2865	3	1	1	8	0	0	Not Set	0	0	0	0	0	0	 // Corrected Start // Corrected Stop	
+E2348C_2870	3	0	1	10	0	1	Not Set	0	0	0	1	0	0	 // Corrected Stop	
+E2348C_2881	1	1	0	0	0	0	Not Set	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2882	1	1	0	0	0	0	Not Set	1	1	0	0	0	0	0	
+E2348C_2901	1	1	0	0	0	0	predicted inner membrane protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2906	1	1	0	0	0	0	predicted protein"	1	1	0	0	0	0	0	
+E2348C_2909	3	0	1	2	0	1	Not Set	0	0	0	0	0	0	 // Corrected Stop	
+E2348C_2910	2	0	1	0	0	1	Not Set	0	0	0	0	0	0	 // Corrected Stop	
+E2348C_2911	2	1	0	15	0	0	Not Set	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2912	1	0	0	23	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_2913	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2914	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2936	1	0	0	21	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_2940	1	1	0	0	0	0	ribonucleoside-diphosphate reductase 2, alpha	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2956	1	1	0	0	0	0	gamma-glutamate-cysteine ligase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2957	1	1	0	0	0	0	conserved inner membrane protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2970	3	1	1	0	0	1	Not Set	0	0	0	0	0	0	 // Corrected Start // Corrected Stop	
+E2348C_2971	1	1	0	0	0	0	Not Set	0	0	0	0	0	0	 // Modell shifted 1 base(s) // Corrected Start	
+E2348C_2973	1	0	1	0	0	0	Not Set	0	0	0	0	0	0	 // Corrected Stop	
+E2348C_2975	1	1	0	0	0	0	Not Set	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2982	1	1	0	0	0	0	protease involved in processing C-terminal end of	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2989	1	1	0	0	0	0	hydrogenase 3, Fe-S subunit"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_2997	1	1	0	0	0	0	predicted molybdenum-pterin-binding protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3011	1	0	0	13	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_3043	1	1	0	0	0	0	sucrose operon repressor"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3060	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3062	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3065	1	1	0	0	0	0	exonuclease IX (5'-3' exonuclease)"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3084	1	0	0	1	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_3087	1	1	0	0	0	0	fused acetylglutamate kinase homolog	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3093	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3099	1	1	0	0	0	0	nucleotide hydrolase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3134	1	0	0	1	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_3144	1	0	0	0	2	0	peptide chain release factor RF-2"	0	0	0	0	0	0	0	
+E2348C_3145	1	1	0	0	0	0	ssDNA exonuclease, 5-3'-specific"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3147	1	1	0	0	0	0	site-specific tyrosine recombinase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3149	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3167	1	0	1	0	0	0	Not Set	0	0	0	0	0	0	 // Corrected Stop	
+E2348C_3169	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3170	1	1	0	0	0	0	arginine transporter"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3179	1	0	0	1	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_3180	1	1	0	0	0	0	conserved protein with nucleoside triphosphate	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3186	1	1	0	0	0	0	HflC-like, SPFC domain-containing protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3194	1	1	0	0	0	0	predicted inner membrane protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3209	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3219	1	1	0	0	0	0	predicted inner membrane protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3221	1	1	0	0	0	0	Not Set	0	0	0	0	0	0	 // Modell shifted 2 base(s) // Corrected Start	
+E2348C_3224	1	0	1	0	0	0	Not Set	0	0	0	0	0	0	 // Corrected Stop	
+E2348C_3225	1	0	1	0	0	0	Not Set	0	0	0	0	0	0	 // Corrected Stop	
+E2348C_3227	1	1	0	0	0	0	predicted protein"	1	1	0	0	0	0	0	
+E2348C_3228	1	0	0	11	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_3233	1	0	0	1	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_3235	1	0	1	0	0	0	Not Set	0	0	0	0	0	0	 // Corrected Stop	
+E2348C_3239	1	0	1	0	0	0	predicted transposase"	0	0	0	0	0	0	 // Corrected Stop	
+E2348C_3286	3	0	1	6	0	1	predicted hydrolase"	0	0	0	1	0	0	 // Corrected Stop	
+E2348C_3287	1	0	1	0	0	0	Not Set	0	0	0	0	0	0	 // Corrected Stop	
+E2348C_3289	1	1	0	0	0	0	transposase Orf2 of IS1397"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3293	1	1	0	0	0	0	membrane spanning protein ExbB in TonB-ExbB-ExbD	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3323	1	1	0	0	0	0	predicted ABC-type iron-siderophore transport	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3327	1	1	0	0	0	0	cyclic 3',5'-adenosine monophosphate	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3349	1	1	0	0	0	0	fused tRNA nucleotidyl	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3362	2	0	1	1	0	0	Not Set	0	0	0	0	0	0	 // Corrected Stop	
+E2348C_3366	1	1	0	0	0	0	putrescine: 2-oxoglutaric acid aminotransferase,	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3393	1	1	0	0	0	0	conserved inner membrane protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3416	1	1	0	0	0	0	tagatose 6-phosphate aldolase 1, kbaZ subunit"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3427	1	1	0	0	0	0	galactosamine-6-phosphate isomerase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3431	1	1	0	0	0	0	DnaA initiator-associating factor for replication	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3438	1	1	0	0	0	0	predicted lipid carrier protein"	1	1	0	0	0	0	0	
+E2348C_3445	1	1	0	0	0	0	polynucleotide phosphorylase/polyadenylase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3512	1	1	0	0	0	0	p-hydroxybenzoic acid efflux system component"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3517	1	1	0	0	0	0	conserved membrane protein, predicted	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3520	1	1	0	0	0	0	cell wall structural complex MreBCD,	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3543	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3545	1	1	0	0	0	0	predicted ribosome maturation factor"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3550	1	1	0	0	0	0	10-formyltetrahydrofolate: L-methionyl-tRNA	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3561	1	1	0	0	0	0	30S ribosomal subunit protein S13"	1	1	0	0	0	0	0	
+E2348C_3588	1	1	0	0	0	0	protein chain elongation factor EF-Tu (duplicate	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3612	1	1	0	0	0	0	predicted protein"	1	1	0	0	0	0	0	
+E2348C_3618	1	1	0	0	0	0	fused siroheme	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3636	3	0	1	2	0	1	Not Set	0	0	0	1	0	0	 // Corrected Stop	
+E2348C_3640	1	1	0	0	0	0	fused penicillin-binding protein 1a: murein	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3673	1	0	0	14	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_3681	1	1	0	0	0	0	gluconate transporter, low-affinity GNT 1system"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3682	1	1	0	0	0	0	gluconate kinase 2"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3719	1	1	0	0	0	0	transport of nickel, membrane protein NikC;	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3729	1	1	0	0	0	0	predicted oxidoreductase with FAD/NAD(P)-binding	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3734	1	1	0	0	0	0	predicted SAM-dependent methyltransferase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3797	1	1	0	0	0	0	predicted fimbrial chaperone"	1	1	0	0	0	0	0	
+E2348C_3800	1	0	0	12	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_3803	3	1	1	7	0	0	Not Set	0	0	0	0	0	0	 // Corrected Start // Corrected Stop	
+E2348C_3835	1	1	0	0	0	0	predicted L-xylulose 5-phosphate 3-epimerase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3850	1	1	0	0	0	0	Not Set	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3851	1	0	0	36	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_3863	1	1	0	0	0	0	predicted polysaccharide deacetylase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3874	1	1	0	0	0	0	UDP-D-glucose: (galactosyl) lipopolysaccharide	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3876	1	1	0	0	0	0	UDP-D-galactose: (glucosyl)	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3886	1	1	0	0	0	0	protein associated with replication fork,	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3896	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3899	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3902	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3914	1	1	0	0	0	0	bifunctional (p)ppGpp synthetase	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3921	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3946	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_3980	1	0	0	23	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_4002	1	1	0	0	0	0	Not Set	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4013	1	1	0	0	0	0	chromosomal replication initiator protein DnaA,	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4015	1	1	0	0	0	0	protein C5 component of RNase P"	1	1	0	0	0	0	0	
+E2348C_4028	1	0	0	1	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_4046	1	1	0	0	0	0	F0 sector of membrane-bound ATP synthase, subunit	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4050	1	1	0	0	0	0	methyltransferase, SAM-dependent	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4063	1	1	0	0	0	0	DNA-binding transcriptional repressor of ribose	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4066	1	1	0	0	0	0	DNA-binding transcriptional regulator"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4075	1	1	0	0	0	0	DNA-binding transcriptional dual regulator"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4085	1	1	0	0	0	0	UDP-GlcNAc: undecaprenylphosphate	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4087	1	1	0	0	0	0	UDP-N-acetyl glucosamine-2-epimerase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4091	1	1	0	0	0	0	TDP-fucosamine acetyltransferase RffC"	1	1	0	0	0	0	0	
+E2348C_4104	1	1	0	0	0	0	adenylate cyclase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4122	1	1	0	0	0	0	ATP-dependent DNA helicase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4128	1	1	0	0	0	0	predicted inner membrane protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4139	1	1	0	0	0	0	Not Set	1	1	0	0	0	0	0	
+E2348C_4146	1	1	0	0	0	0	predicted recombination limiting protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4151	1	1	0	0	0	0	TatABCE protein translocation system subunit"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4162	1	1	0	0	0	0	protoporphyrin oxidase, flavoprotein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4164	1	1	0	0	0	0	molybdopterin-guanine dinucleotide synthase MobA"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4171	1	1	0	0	0	0	GTP-binding protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4177	1	1	0	0	0	0	GTP-binding protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4197	1	0	0	1	0	0	formate dehydrogenase-O, large subunit"	0	0	0	0	0	0	0	
+E2348C_4198	1	1	0	0	0	0	formate dehydrogenase formation protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4236	1	1	0	0	0	0	peptidase component of the HslUV protease"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4237	1	1	0	0	0	0	essential cell division protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4238	1	1	0	0	0	0	DNA-binding transcriptional dual regulator"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4255	3	1	1	0	0	1	Not Set	0	0	0	0	0	0	 // Corrected Start // Corrected Stop	
+E2348C_4257	1	1	0	0	0	0	Not Set	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4295	1	1	0	0	0	0	RNA polymerase, beta prime subunit"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4308	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4321	1	1	0	0	0	0	homocysteine-N5-methyltetrahydrofolate	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4322	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4324	1	1	0	0	0	0	predicted transporter"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4326	2	1	1	0	0	0	Not Set	0	0	0	0	0	0	 // Corrected Start // Corrected Stop	
+E2348C_4328	1	1	0	0	0	0	Not Set	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4342	1	1	0	0	0	0	predicted lipoprotein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4364	1	0	0	8	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_4369	1	1	0	0	0	0	tyrosine aminotransferase, tyrosine-repressible,	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4397	1	1	0	0	0	0	heme lyase (NrfEFG) for insertion of heme into	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4407	1	0	0	1	0	0	formate dehydrogenase-H, selenopolypeptide	0	0	0	0	0	0	0	
+E2348C_4432	1	1	0	0	0	0	phosphonate/organophosphate ester transporter	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4438	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4460	1	0	0	1	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_4461	1	1	0	0	0	0	predicted transcriptional regulator"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4466	1	1	0	0	0	0	inner membrane protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4482	1	1	0	0	0	0	fumarate reductase (anaerobic) catalytic and	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4485	1	1	0	0	0	0	predicted mechanosensitive channel"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4486	1	1	0	0	0	0	phosphatidylserine decarboxylase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4487	1	1	0	0	0	0	ribosome small subunit-dependent GTPase A"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4496	1	1	0	0	0	0	predicted GTPase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4501	1	1	0	0	0	0	predicted DNA-binding transcriptional regulator"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4510	1	1	0	0	0	0	isovaleryl CoA dehydrogenase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4528	1	0	0	20	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_4538	1	0	0	1	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_4550	1	1	0	0	0	0	predicted outer membrane protein and surface	1	1	0	0	0	0	0	
+E2348C_4557	1	1	0	0	0	0	predicted sugar transporter subunit: membrane	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4577	1	0	0	35	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_4585	1	1	0	0	0	0	conserved inner membrane protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4590	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4592	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4593	1	1	0	0	0	0	predicted ATP-dependent DNA helicase	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4615	1	0	0	1	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_4620	1	1	0	0	0	0	tyrosine recombinase/inversion of on/off	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4623	1	1	0	0	0	0	chaperone, periplasmic"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4637	1	1	0	0	0	0	RNA 2'-phosphotransferase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4639	1	1	0	0	0	0	predicted protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4641	1	1	0	0	0	0	predicted ATPase, activator of	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4645	2	0	1	1	0	0	Not Set	0	0	0	0	0	0	 // Corrected Stop	
+E2348C_4654	1	0	0	23	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_4658	1	1	0	0	0	0	phosphoglycerol transferase I"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4675	1	1	0	0	0	0	predicted esterase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4676	1	1	0	0	0	0	predicted DNase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4680	1	1	0	0	0	0	thymidine phosphorylase"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4687	1	1	0	0	0	0	predicted repair protein"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4691	1	1	0	0	0	0	fused predicted transporter subunits of ABC	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4692	1	1	0	0	0	0	lytic murein transglycosylase, soluble"	0	0	0	0	0	0	 // Corrected Start	
+E2348C_4695	1	0	0	1	0	0	Not Set	0	0	0	0	0	0	0	
+E2348C_4700	1	0	0	16	0	0	Not Set	0	0	0	0	0	0	0	
