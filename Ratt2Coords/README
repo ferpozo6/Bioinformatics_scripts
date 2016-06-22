@@ -7,7 +7,7 @@
 ##   2011 vol: 39 (9) pp: 1-7 
 
 
-## For use Ratt2Coords: Write in Linux Shell...
+## In order to use Ratt2Coords: Write in Linux Shell...
 ## bash Ratt2Coords.sh -r "Name_of_reference".embl -i "Name_of_sequence".fna -m Assembly
 
 
